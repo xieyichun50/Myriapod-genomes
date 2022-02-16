@@ -1,4 +1,4 @@
-cat /jelly_data/yichun/snail/longest_protO/specieslist | while read i;
+cat specieslist | while read i;
 do 
-samtools faidx /jelly_data/yichun/snail/genome/$i.fa
+samtools faidx $i.fa
 done
