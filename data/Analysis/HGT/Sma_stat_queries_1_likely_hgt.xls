@@ -1,0 +1,66 @@
+
+ai	hgtscore	query	best_donor_acc / best_toi_acc	best_donor_pident	best_donor_orgname	best_donor_taxonomy	nb_hits_supporting_taxo	nb_hits_between_donor_and_possible_toi	nb_total_hits	nb_unknown_acc (dr)	nb_excluded_acc (dr)
+460.52	910.60	SMAR005837-RA	KAF4628609.1 / none	34.7	Cudoniella acicularis	Eukaryota@Fungi	25	25	25	0	0
+319.80	506.90	SMAR013516-RA	WP_120104608.1 / none	61.2	Borrelia turcica	Bacteria	25	25	25	0	0
+239.29	391.30	SMAR006307-RA	WP_189008864.1 / none	51.7	Deinococcus roseus	Bacteria	22	25	25	3	0
+217.68	359.80	SMAR002726-RA	WP_189008864.1 / none	45.3	Deinococcus roseus	Bacteria	22	25	25	3	0
+217.24	360.10	SMAR006308-RA	WP_140622451.1 / none	47.8	Pontibacter sp. HB172049	Bacteria	25	25	25	0	0
+204.67	340.90	SMAR013994-RA	WP_146884959.1 / none	43.0	Deinococcus cellulosilyticus	Bacteria	22	25	25	3	0
+179.01	303.90	SMAR010163-RA	WP_146884959.1 / none	42.0	Deinococcus cellulosilyticus	Bacteria	24	25	25	1	0
+176.14	298.50	SMAR000681-RA	WP_094648792.1 / none	69.7	Rickettsia endosymbiont of Culicoides newsteadi	Bacteria	25	25	25	0	0
+164.28	282.00	SMAR009322-RA	WP_169446462.1 / none	50.6	Leucothrix mucor	Bacteria	21	25	25	4	0
+155.32	268.90	SMAR011937-RA	WP_004027728.1 / none	60.6	Spiroplasma melliferum	Bacteria	25	25	25	0	0
+151.33	263.10	SMAR012410-RA	WP_162441886.1 / none	52.8	Rhodocytophaga rosea	Bacteria	19	25	25	6	0
+135.16	240.00	SMAR006757-RA	XP_025177387.1 / none	49.2	Rhizophagus irregularis DAOM 181602=DAOM 197198	Eukaryota@Fungi	25	25	25	0	0
+128.61	230.30	SMAR001813-RA	WP_163283424.1 / none	43.6	Cryomorpha ignava	Bacteria	18	24	25	6	0
+125.48	181.00	SMAR001299-RA	WP_014392505.1 / XP_015925800.1	33.7	Rickettsia amblyommatis	Bacteria	7	7	25	0	0
+124.34	223.80	SMAR002225-RA	WP_032138983.1 / none	59.6	Rickettsia endosymbiont of Ixodes pacificus	Bacteria	25	25	25	0	0
+115.03	210.70	SMAR015447-RA	PWT93453.1 / none	46.6	Acidobacteria bacterium	Bacteria	19	25	25	5	1
+111.61	161.00	SMAR001298-RA	WP_032138567.1 / XP_015925814.1	30.1	Rickettsia tamurae	Bacteria	1	1	3	0	0
+89.27	174.90	SMAR014670-RA	QNO51476.1 / none	48.2	Methanosarcinales archaeon ANME-1 ERB6	Archaea	8	24	25	1	0
+86.47	168.70	SMAR009774-RA	WP_070071544.1 / none	56.5	Acidihalobacter aeolianus	Bacteria	22	25	25	3	0
+86.11	169.50	SMAR000611-RA	RZP28032.1 / none	43.4	Alphaproteobacteria bacterium	Bacteria	12	25	25	13	0
+75.29	152.50	SMAR007772-RA	WP_169394465.1 / none	47.9	Pseudonocardia xinjiangensis	Bacteria	22	25	25	3	0
+68.24	144.10	SMAR002609-RA	KYP35691.1 / none	30.7	Cajanus cajan	Eukaryota@Viridiplantae	24	25	25	1	0
+60.67	132.10	SMAR011425-RA	VFK34446.1 / none	35.3	Candidatus Kentron sp. MB	Bacteria	22	25	25	3	0
+59.77	132.10	SMAR013641-RA	CAA7270120.1 / none	33.8	Agrocybe aegerita	Eukaryota@Fungi	25	25	25	0	0
+55.54	80.20	SMAR008653-RA	QNN25062.1 / XP_014681045.1	31.9	Planctomycetales bacterium zrk34	Bacteria	4	6	12	2	0
+53.30	123.20	SMAR000137-RA	RVD82678.1 / none	31.4	Arthrobotrys flagrans	Eukaryota@Fungi	23	25	25	0	0
+52.13	121.30	SMAR003751-RA	RVD82678.1 / none	40.9	Arthrobotrys flagrans	Eukaryota@Fungi	25	25	25	0	0
+51.62	119.40	SMAR012573-RA	RVD82678.1 / none	44.2	Arthrobotrys flagrans	Eukaryota@Fungi	25	25	25	0	0
+50.78	118.60	SMAR005598-RA	KZV89803.1 / none	30.6	Exidia glandulosa HHB12029	Eukaryota@Fungi	12	25	25	0	0
+49.91	118.20	SMAR002053-RA	RVD82678.1 / none	30.2	Arthrobotrys flagrans	Eukaryota@Fungi	25	25	25	0	0
+48.79	116.30	SMAR007170-RA	PKI67066.1 / none	35.9	Punica granatum	Eukaryota@Viridiplantae	5	25	25	14	0
+44.77	109.80	SMAR011943-RA	KAF5376925.1 / none	29.7	Tricholomella constricta	Eukaryota@Fungi	8	25	25	0	0
+42.04	107.50	SMAR015343-RA	PNX92726.1 / none	32.1	Trifolium pratense	Eukaryota@Viridiplantae	16	25	25	9	0
+40.75	104.80	SMAR000524-RA	PKY43729.1 / none	25.9	Rhizophagus irregularis	Eukaryota@Fungi	25	25	25	0	0
+38.08	98.20	SMAR011246-RA	WP_131258674.1 / none	66.7	Bowmanella sp. JS7-9	Bacteria	23	25	25	2	0
+37.24	99.00	SMAR000420-RA	RVW31191.1 / none	45.0	Vitis vinifera	Eukaryota@Viridiplantae	25	25	25	0	0
+34.44	94.00	SMAR002803-RA	PKY43729.1 / none	31.5	Rhizophagus irregularis	Eukaryota@Fungi	24	25	25	0	0
+34.17	49.30	SMAR014785-RA	WP_114517195.1 / GBN51233.1	25.2	Wolbachia endosymbiont of Cylisticus convexus	Bacteria	1	1	6	0	0
+32.64	92.00	SMAR011245-RA	WP_047880217.1 / none	59.4	Photobacterium aquae	Bacteria	5	25	25	0	0
+32.05	46.20	SMAR012738-RA	KJV79671.1 / XP_015916410.1	29.3	Rickettsia hoogstraalii str. RCCE3	Bacteria	4	4	25	0	0
+30.78	90.50	SMAR013081-RA	WP_114517195.1 / none	23.6	Wolbachia endosymbiont of Cylisticus convexus	Bacteria	1	1	1	0	0
+29.60	88.20	SMAR000181-RA	XP_019106791.1 / none	35.7	Beta vulgaris subsp. vulgaris	Eukaryota@Viridiplantae	7	25	25	0	0
+28.05	85.50	SMAR002992-RA	WP_186913616.1 / none	22.8	Undibacterium jejuense	Bacteria	1	1	4	0	0
+27.93	84.70	SMAR015140-RA	TID19887.1 / none	31.4	Venturia nashicola	Eukaryota@Fungi	13	13	13	0	0
+27.69	85.50	SMAR004799-RA	WP_173455255.1 / none	23.6	Selenomonas ruminantium	Bacteria	24	24	25	0	0
+27.29	85.10	SMAR002340-RA	KZV89803.1 / none	30.2	Exidia glandulosa HHB12029	Eukaryota@Fungi	10	25	25	0	0
+26.68	81.60	SMAR011243-RA	RPI45765.1 / none	60.6	Betaproteobacteria bacterium	Bacteria	23	25	25	2	0
+25.89	37.30	SMAR002747-RA	PKK55453.1 / OZF83544.1	38.7	Rhizophagus irregularis	Eukaryota@Fungi	8	12	13	0	0
+25.42	36.60	SMAR001125-RA	WP_135352882.1 / VVC35063.1	34.5	Wolbachia endosymbiont of Drosophila mauritiana	Bacteria	19	19	25	0	0
+24.58	35.40	SMAR011297-RA	WP_149168922.1 / GBM14346.1	25.1	Wolbachia endosymbiont of Chrysomya megacephala	Bacteria	3	3	5	0	0
+22.00	74.70	SMAR015066-RA	CAN63777.1 / none	52.2	Vitis vinifera	Eukaryota@Viridiplantae	15	25	25	0	0
+21.83	77.40	SMAR003631-RA	RPB01466.1 / none	27.6	Choiromyces venosus 120613-1	Eukaryota@Fungi	7	7	7	0	0
+21.13	30.40	SMAR006351-RA	WP_190822784.1 / XP_022911473.1	23.3	Coleofasciculus sp. FACHB-1120	Bacteria	10	13	20	3	0
+20.80	73.60	SMAR005291-RA	XP_033408221.1 / none	48.7	Arthroderma uncinatum	Eukaryota@Fungi	10	10	10	0	0
+19.47	73.90	SMAR003318-RA	GBB99873.1 / none	26.6	Rhizophagus clarus	Eukaryota@Fungi	4	4	4	0	0
+19.20	27.70	SMAR000537-RA	KFH69284.1 / XP_015918975.1	31.3	Podila verticillata NRRL 6337	Eukaryota@Fungi	8	8	25	0	0
+18.47	69.70	SMAR003607-RA	PNX92843.1 / none	41.6	Trifolium pratense	Eukaryota@Viridiplantae	10	25	25	15	0
+17.83	70.90	SMAR000552-RA	WP_052386287.1 / none	36.0	Dactylosporangium aurantiacum	Bacteria	7	11	11	4	0
+16.27	67.80	SMAR002705-RA	XP_019451834.1 / none	27.5	Lupinus angustifolius	Eukaryota@Viridiplantae	21	24	25	3	0
+16.27	68.60	SMAR009464-RA	BBH04991.1 / none	40.5	Prunus dulcis	Eukaryota@Viridiplantae	25	25	25	0	0
+15.74	22.80	SMAR000390-RA	OMO61385.1 / KMQ86142.1	27.8	Corchorus capsularis	Eukaryota@Viridiplantae	1	6	25	0	0
+15.74	22.80	SMAR003429-RA	GBC01557.1 / VDM36458.1	39.7	Rhizophagus clarus	Eukaryota@Fungi	21	21	25	0	0
+15.65	67.80	SMAR002180-RA	AAK38381.1 / none	29.8	Arabidopsis thaliana	Eukaryota@Viridiplantae	12	25	25	1	0
+15.24	21.90	SMAR001450-RA	GBC31737.1 / XP_028649177.1	42.5	Rhizophagus irregularis DAOM 181602=DAOM 197198	Eukaryota@Fungi	2	5	25	0	0

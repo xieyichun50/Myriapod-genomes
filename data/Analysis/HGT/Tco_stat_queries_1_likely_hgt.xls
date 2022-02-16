@@ -1,0 +1,91 @@
+
+ai	hgtscore	query	best_donor_acc / best_toi_acc	best_donor_pident	best_donor_orgname	best_donor_taxonomy	nb_hits_supporting_taxo	nb_hits_between_donor_and_possible_toi	nb_total_hits	nb_unknown_acc (dr)	nb_excluded_acc (dr)
+399.55	622.10	Tco_005186-T1	OFX22004.1 / none	64.2	Bacteroidetes bacterium GWA2_31_9b	Bacteria	14	25	25	11	0
+332.05	525.00	Tco_006533-T1	EDY16336.1 / none	50.2	Chthoniobacter flavus Ellin428	Bacteria	23	25	25	2	0
+279.66	449.50	Tco_021700-T1	KYP34423.1 / none	41.5	Cajanus cajan	Eukaryota@Viridiplantae	14	25	25	0	0
+269.74	434.90	Tco_019403-T1	PYX94678.1 / none	48.1	Acidobacteria bacterium	Bacteria	24	25	25	1	0
+265.94	429.50	Tco_021293-T1	KYP56875.1 / none	41.4	Cajanus cajan	Eukaryota@Viridiplantae	6	25	25	0	0
+256.93	416.00	Tco_019455-T1	PYQ04603.1 / none	49.7	Acidobacteria bacterium	Bacteria	20	24	25	4	0
+256.06	415.20	Tco_019264-T1	PYX94678.1 / none	45.7	Acidobacteria bacterium	Bacteria	24	25	25	1	0
+249.28	405.20	Tco_007238-T1	WP_052600908.1 / none	46.2	Actinobacteria bacterium IMCC26207	Bacteria	20	25	25	5	0
+239.98	392.10	Tco_021582-T1	CCH50976.1 / none	33.2	Malus x robusta	Eukaryota@Viridiplantae	11	25	25	0	0
+236.28	340.90	Tco_017415-T2	KAF0684383.1 / PAA62682.1	27.8	Aphanomyces stellatus	Eukaryota@Stramenopiles	1	2	25	0	0
+209.81	348.20	Tco_010707-T1	QMS85062.1 / none	44.2	Firmicutes bacterium zrk13	Bacteria	24	25	25	1	0
+207.87	344.70	Tco_007236-T1	AQQ75061.1 / none	63.3	uncultured bacterium	Bacteria	23	25	25	2	0
+200.96	334.70	Tco_002816-T1	WP_091672536.1 / none	58.2	Micromonospora auratinigra	Bacteria	25	25	25	0	0
+199.58	333.60	Tco_021455-T1	WP_082655204.1 / none	42.6	Paenibacillus sp. 32O-W	Bacteria	20	25	25	5	0
+193.94	324.70	Tco_007239-T1	AQQ75061.1 / none	58.6	uncultured bacterium	Bacteria	20	25	25	5	0
+191.23	320.90	Tco_021603-T1	KYP56875.1 / none	52.9	Cajanus cajan	Eukaryota@Viridiplantae	2	25	25	0	0
+188.72	317.40	Tco_007235-T1	AQQ75061.1 / none	55.8	uncultured bacterium	Bacteria	20	25	25	5	0
+184.11	310.50	Tco_002815-T1	WP_114023053.1 / none	57.1	Streptomyces diacarni	Bacteria	23	25	25	2	0
+166.58	285.40	Tco_003192-T1	XP_016605155.1 / none	44.7	Spizellomyces punctatus DAOM BR117	Eukaryota@Fungi	25	25	25	0	0
+158.29	273.50	Tco_003193-T1	XP_016605155.1 / none	44.9	Spizellomyces punctatus DAOM BR117	Eukaryota@Fungi	25	25	25	0	0
+156.96	271.60	Tco_003191-T1	XP_016605155.1 / none	43.5	Spizellomyces punctatus DAOM BR117	Eukaryota@Fungi	25	25	25	0	0
+150.20	261.20	Tco_021294-T1	KYP56875.1 / none	58.9	Cajanus cajan	Eukaryota@Viridiplantae	16	25	25	0	0
+141.21	248.10	Tco_021573-T1	KYP56875.1 / none	58.9	Cajanus cajan	Eukaryota@Viridiplantae	1	25	25	0	0
+133.55	238.00	Tco_001444-T1	WP_169237471.1 / none	38.7	Candidatus Roseilinea sp. NK_OTU-006	Bacteria	15	24	25	9	0
+132.81	235.70	Tco_000655-T1	WP_038708738.1 / none	63.1	Burkholderia sp. lig30	Bacteria	25	25	25	0	0
+132.02	235.70	Tco_001286-T1	PYK58943.1 / none	46.4	Verrucomicrobia bacterium	Bacteria	13	22	25	9	0
+126.80	182.90	Tco_017415-T1	KAF0684383.1 / PAA62682.1	26.6	Aphanomyces stellatus	Eukaryota@Stramenopiles	1	1	25	0	0
+123.51	223.40	Tco_001289-T1	PYX07474.1 / none	44.6	Acidobacteria bacterium	Bacteria	12	21	25	9	0
+123.42	222.60	Tco_021420-T1	RZC10711.1 / none	46.8	Glycine soja	Eukaryota@Viridiplantae	25	25	25	0	0
+117.10	214.50	Tco_014463-T1	WP_016862517.1 / none	31.3	Fischerella muscicola	Bacteria	23	25	25	2	0
+111.80	205.70	Tco_021386-T1	WP_078456858.1 / none	48.7	Solemya velum gill symbiont	Bacteria	25	25	25	0	0
+106.18	268.90	Tco_017399-T1	KAF0684383.1 / PAA62682.1	34.7	Aphanomyces stellatus	Eukaryota@Stramenopiles	1	1	25	0	0
+101.70	146.70	Tco_020240-T1	WP_039950617.1 / XP_024879170.1	44.0	Wolbachia pipientis	Bacteria	3	3	26	0	0
+96.45	183.30	Tco_021257-T1	KAE8705185.1 / none	50.6	Hibiscus syriacus	Eukaryota@Viridiplantae	22	25	25	3	0
+93.62	179.90	Tco_004710-T1	WP_083223143.1 / none	51.0	Candidatus Terasakiella magnetica	Bacteria	12	25	25	13	0
+90.16	174.50	Tco_021427-T1	KAF3645330.1 / none	49.4	Capsicum annuum	Eukaryota@Viridiplantae	25	25	25	0	0
+88.81	172.60	Tco_004795-T1	WP_099518488.1 / none	63.2	Paenibacillus sp. BIHB4019	Bacteria	25	25	25	0	0
+87.24	170.20	Tco_021406-T1	KAE8674391.1 / none	44.8	Hibiscus syriacus	Eukaryota@Viridiplantae	13	25	25	0	0
+84.13	165.60	Tco_021584-T1	RZB57350.1 / none	43.2	Glycine soja	Eukaryota@Viridiplantae	25	25	25	0	0
+82.10	162.50	Tco_021604-T1	AQK78972.1 / none	53.9	Zea mays	Eukaryota@Viridiplantae	2	25	25	0	0
+75.89	154.80	Tco_001445-T1	PYY20046.1 / none	34.2	Acidobacteria bacterium	Bacteria	7	25	25	3	0
+75.58	154.10	Tco_007234-T1	RME12327.1 / none	32.7	Ardenticatenia bacterium	Bacteria	15	24	25	9	0
+72.77	148.70	Tco_021135-T1	WP_140189334.1 / none	56.1	Xylella fastidiosa	Bacteria	2	25	25	0	0
+72.73	150.20	Tco_004796-T1	WP_006034114.1 / none	41.6	Moritella sp. PE36	Bacteria	23	25	25	2	0
+70.79	150.20	Tco_019072-T1	WP_039950617.1 / none	46.5	Wolbachia pipientis	Bacteria	25	25	25	0	0
+69.43	146.70	Tco_021674-T1	XP_027166372.1 / none	21.5	Coffea eugenioides	Eukaryota@Viridiplantae	25	25	25	0	0
+66.79	143.70	Tco_019475-T1	OAQ35944.1 / none	27.0	Linnemannia elongata AG-77	Eukaryota@Fungi	7	25	25	2	0
+64.29	137.10	Tco_001386-T1	WP_190580101.1 / none	39.1	Calothrix sp. FACHB-156	Bacteria	19	25	25	6	0
+59.68	130.20	Tco_004771-T1	WP_175613015.1 / none	69.6	Fusobacterium mortiferum	Bacteria	24	25	25	1	0
+58.16	128.30	Tco_001380-T1	WP_142654131.1 / none	36.7	Pseudanabaena sp. UWO311	Bacteria	10	25	25	0	0
+57.68	83.20	Tco_003204-T1	PRP84437.1 / XP_029179750.1	29.8	Planoprotostelium fungivorum	Eukaryota	1	20	25	2	0
+57.09	126.70	Tco_001385-T1	PXV61863.1 / none	37.0	Dysgonomonas alginatilytica	Bacteria	20	25	25	3	0
+55.52	123.60	Tco_021533-T1	CCH50976.1 / none	50.5	Malus x robusta	Eukaryota@Viridiplantae	25	25	25	0	0
+53.22	121.30	Tco_021575-T1	RZB49078.1 / none	29.1	Glycine soja	Eukaryota@Viridiplantae	25	25	25	0	0
+49.01	114.40	Tco_004811-T1	WP_111067505.1 / none	47.9	Azospirillum ramasamyi	Bacteria	21	25	25	4	0
+48.26	113.20	Tco_004812-T1	WP_111067505.1 / none	47.4	Azospirillum ramasamyi	Bacteria	21	25	25	4	0
+46.85	111.30	Tco_004442-T1	PWT76175.1 / none	51.3	Bacteroidetes bacterium	Bacteria	23	25	25	2	0
+43.54	62.80	Tco_003650-T1	XP_004348714.1 / XP_011405266.1	42.5	Acanthamoeba castellanii str. Neff	Eukaryota	1	1	25	0	0
+43.49	62.80	Tco_003655-T1	XP_004348714.1 / XP_011405266.1	42.5	Acanthamoeba castellanii str. Neff	Eukaryota	1	1	25	0	0
+41.72	104.00	Tco_021184-T1	EXB56439.1 / none	44.1	Morus notabilis	Eukaryota@Viridiplantae	14	25	25	11	0
+40.57	102.80	Tco_001402-T1	WP_088841858.1 / none	33.0	Hymenobacter gelipurpurascens	Bacteria	2	24	24	0	0
+40.25	102.80	Tco_004306-T1	WP_188601854.1 / none	44.3	Flavobacterium lutivivi	Bacteria	21	24	25	3	0
+35.10	96.30	Tco_016717-T1	PAZ00430.1 / none	26.8	Spartobacteria bacterium AMD-G4	Bacteria	2	3	3	1	0
+32.93	90.90	Tco_021703-T1	KAF5933838.1 / none	44.9	Camellia sinensis	Eukaryota@Viridiplantae	1	19	25	4	0
+29.15	86.70	Tco_007304-T1	KAD4586681.1 / none	38.3	Mikania micrantha	Eukaryota@Viridiplantae	16	24	25	8	0
+28.68	85.90	Tco_006101-T1	WP_140189334.1 / none	55.1	Xylella fastidiosa	Bacteria	2	25	25	0	0
+28.32	86.70	Tco_017043-T1	WP_146109477.1 / none	24.1	Burkholderiales bacterium	Bacteria	20	25	25	5	0
+27.78	40.10	Tco_003649-T1	XP_004348714.1 / XP_011405266.1	48.0	Acanthamoeba castellanii str. Neff	Eukaryota	1	1	25	0	0
+27.78	40.10	Tco_013695-T1	XP_004348714.1 / XP_011405266.1	48.0	Acanthamoeba castellanii str. Neff	Eukaryota	1	1	25	0	0
+27.75	84.00	Tco_021585-T1	ONM04508.1 / none	34.0	Zea mays	Eukaryota@Viridiplantae	5	25	25	0	0
+27.04	82.00	Tco_020759-T1	WP_140189334.1 / none	53.8	Xylella fastidiosa	Bacteria	3	25	25	1	0
+25.91	80.90	Tco_005344-T1	XP_019229159.1 / none	45.3	Nicotiana attenuata	Eukaryota@Viridiplantae	2	25	25	0	0
+25.64	36.90	Tco_000306-T1	WP_149168922.1 / GBN20545.1	31.1	Wolbachia endosymbiont of Chrysomya megacephala	Bacteria	2	2	25	0	0
+25.55	80.50	Tco_001282-T1	WP_140189334.1 / none	45.0	Xylella fastidiosa	Bacteria	2	25	25	0	0
+21.36	30.80	Tco_003205-T1	XP_004348714.1 / XP_011405266.1	41.2	Acanthamoeba castellanii str. Neff	Eukaryota	1	1	25	0	0
+20.63	73.60	Tco_021657-T1	PVH36290.1 / none	36.7	Panicum hallii	Eukaryota@Viridiplantae	25	25	25	0	0
+20.32	72.40	Tco_017050-T1	KAF3664959.1 / none	58.2	Capsicum annuum	Eukaryota@Viridiplantae	2	25	25	0	0
+20.19	73.60	Tco_012954-T1	RZB81212.1 / none	44.6	Glycine soja	Eukaryota@Viridiplantae	25	25	25	0	0
+19.53	72.00	Tco_001236-T1	XP_035841304.1 / none	37.6	Helianthus annuus	Eukaryota@Viridiplantae	25	25	25	0	0
+18.95	71.60	Tco_003252-T1	WP_013377837.1 / none	29.5	Stigmatella aurantiaca	Bacteria	2	2	2	0	0
+18.42	26.60	Tco_006089-T1	OGW67754.1 / KFM72707.1	50.2	Nitrospirae bacterium RIFCSPLOWO2_02_FULL_62_14	Bacteria	8	11	25	3	0
+18.24	70.50	Tco_019664-T1	PWZ19232.1 / none	37.6	Zea mays	Eukaryota@Viridiplantae	25	25	25	0	0
+17.78	69.70	Tco_000633-T1	XP_021974852.1 / none	44.3	Helianthus annuus	Eukaryota@Viridiplantae	13	25	25	12	0
+17.63	70.10	Tco_018363-T1	ABB00038.1 / none	28.9	Glycine max	Eukaryota@Viridiplantae	25	25	25	0	0
+17.14	68.90	Tco_021330-T1	WP_114299953.1 / none	31.5	Anaerobacterium chartisolvens	Bacteria	23	25	25	2	0
+16.79	68.60	Tco_021332-T1	KNY27848.1 / none	35.6	Pseudobacteroides cellulosolvens ATCC 35603 = DSM 2933	Bacteria	24	25	25	1	0
+16.54	23.90	Tco_011229-T1	WP_149168922.1 / KFM71539.1	34.0	Wolbachia endosymbiont of Chrysomya megacephala	Bacteria	1	1	25	0	0
+16.29	66.60	Tco_018547-T1	EMR73938.1 / none	51.5	Thaumarchaeota archaeon SCGC AB-539-E09	Archaea	1	23	25	1	0
+16.12	67.80	Tco_020547-T1	SCV65652.1 / none	35.5	Anaplasma phagocytophilum	Bacteria	2	2	2	0	0

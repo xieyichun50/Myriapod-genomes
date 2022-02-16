@@ -1,0 +1,221 @@
+
+ai	hgtscore	query	best_donor_acc / best_toi_acc	best_donor_pident	best_donor_orgname	best_donor_taxonomy	nb_hits_supporting_taxo	nb_hits_between_donor_and_possible_toi	nb_total_hits	nb_unknown_acc (dr)	nb_excluded_acc (dr)
+460.52	1010.40	Rim_003165-T1	WP_096595152.1 / none	38.0	Calothrix sp. NIES-2098	Bacteria	25	25	25	0	0
+460.52	2031.50	Rim_028076-T1	WP_099065612.1 / none	51.1	Serratia sp. BW106	Bacteria	24	25	25	1	0
+385.67	603.60	Rim_001755-T1	WP_190579820.1 / none	32.8	Calothrix sp. FACHB-156	Bacteria	22	25	25	3	0
+363.71	570.50	Rim_023885-T1	WP_094564243.1 / none	62.0	Herbaspirillum sp. meg3	Bacteria	25	25	25	0	0
+269.00	433.70	Rim_047084-T1	WP_146884959.1 / none	52.0	Deinococcus cellulosilyticus	Bacteria	21	25	25	4	0
+256.93	416.40	Rim_047085-T1	WP_189008864.1 / none	51.6	Deinococcus roseus	Bacteria	21	25	25	4	0
+233.89	337.40	Rim_026502-T1	QIT20101.1 / KAF6215929.1	54.1	Diabrotica undecimpunctata virus 2	Viruses	7	7	8	0	0
+221.61	319.70	Rim_026501-T1	QIT20101.1 / KAF5297209.1	49.5	Diabrotica undecimpunctata virus 2	Viruses	5	5	26	0	0
+205.95	342.80	Rim_035063-T1	ABU94996.1 / none	46.5	Culex pipiens pallens densovirus	Viruses	25	25	25	0	0
+200.14	334.00	Rim_016493-T1	TFH00172.1 / none	48.4	Calditrichales bacterium	Bacteria	21	23	25	2	0
+197.49	330.90	Rim_039430-T1	YP_002854229.1 / none	43.0	Aedes aegypti densovirus 2	Viruses	25	25	25	0	0
+185.10	312.00	Rim_015918-T2	TVR60622.1 / none	54.4	Gemmatimonadales bacterium	Bacteria	20	24	25	4	0
+184.80	311.60	Rim_015918-T1	TVR60622.1 / none	54.4	Gemmatimonadales bacterium	Bacteria	20	24	25	4	0
+184.80	311.60	Rim_015918-T3	TVR60622.1 / none	54.4	Gemmatimonadales bacterium	Bacteria	20	24	25	4	0
+184.42	310.80	Rim_015917-T1	TVQ04749.1 / none	56.2	Balneolaceae bacterium	Bacteria	19	25	25	6	0
+182.73	309.70	Rim_039428-T1	AJI02597.1 / none	35.0	Mosquito densovirus HB-3	Viruses	25	25	25	0	0
+171.64	247.70	Rim_021384-T1	QIT20101.1 / KAF5297209.1	54.3	Diabrotica undecimpunctata virus 2	Viruses	5	5	9	0	0
+168.09	287.30	Rim_013702-T1	TVQ04749.1 / none	51.6	Balneolaceae bacterium	Bacteria	20	25	25	5	0
+166.96	287.00	Rim_012461-T1	QKE54967.1 / none	42.0	Parvoviridae sp.	Viruses	25	25	25	0	0
+162.79	280.00	Rim_047207-T1	WP_095982961.1 / none	49.7	Melittangium boletus	Bacteria	25	25	25	0	0
+148.79	259.60	Rim_015812-T1	QIT20101.1 / none	48.4	Diabrotica undecimpunctata virus 2	Viruses	5	5	5	0	0
+138.85	200.30	Rim_045133-T1	QLI62376.1 / XP_008548021.1	32.2	Dikerogammarus haemobaphes nudivirus	Viruses	5	5	7	0	0
+135.85	240.70	Rim_018406-T1	WP_133267888.1 / none	48.4	Segetibacter sp. 3557_3	Bacteria	19	25	25	6	0
+130.18	232.60	Rim_044394-T1	APG78245.1 / none	65.8	Hubei diptera virus 19	Viruses	25	25	25	0	0
+130.18	232.60	Rim_044397-T1	APG78245.1 / none	65.8	Hubei diptera virus 19	Viruses	25	25	25	0	0
+124.24	224.20	Rim_045331-T1	TVR17093.1 / none	45.0	Balneolaceae bacterium	Bacteria	14	25	25	11	0
+121.40	219.20	Rim_002469-T1	TVR34564.1 / none	60.5	Balneolaceae bacterium	Bacteria	21	25	25	4	0
+116.68	168.40	Rim_003180-T1	WP_161580509.1 / KAE9555767.1	36.0	Cronobacter muytjensii	Bacteria	1	1	25	0	0
+115.84	211.10	Rim_027413-T1	XP_017237348.1 / none	66.2	Daucus carota subsp. sativus	Eukaryota@Viridiplantae	24	25	25	1	0
+114.10	209.10	Rim_021383-T1	QED42955.1 / none	52.7	Hubei Beny-like virus 1	Viruses	9	9	9	0	0
+108.66	156.80	Rim_018963-T1	QIT20101.1 / KAF6215929.1	52.8	Diabrotica undecimpunctata virus 2	Viruses	5	5	20	0	0
+108.04	199.90	Rim_018979-T1	TVR34564.1 / none	54.1	Balneolaceae bacterium	Bacteria	21	25	25	4	0
+105.82	197.60	Rim_002798-T1	QIJ56919.1 / none	39.1	Scaphoideus titanus-associated partiti-like virus 1	Viruses	2	2	2	0	0
+103.09	194.10	Rim_011927-T1	WP_188759746.1 / none	34.1	Edaphobacter acidisoli	Bacteria	14	20	25	6	0
+99.86	189.50	Rim_028097-T1	RIK80765.1 / none	41.4	Planctomycetes bacterium	Bacteria	9	23	25	14	0
+99.09	188.30	Rim_011928-T1	RLS59003.1 / none	40.3	Planctomycetes bacterium	Bacteria	18	23	25	5	0
+95.32	183.00	Rim_029983-T1	RYX84168.1 / none	38.9	bacterium	Bacteria	13	24	25	11	0
+94.22	181.40	Rim_003161-T1	RYX84122.1 / none	30.9	bacterium	Bacteria	21	25	25	4	0
+91.36	177.60	Rim_024267-T1	WP_129208924.1 / none	30.4	Acidipila dinghuensis	Bacteria	13	22	25	9	0
+89.71	129.40	Rim_003182-T1	WP_161580509.1 / QEL09189.1	51.5	Cronobacter muytjensii	Bacteria	1	3	25	0	2
+88.37	172.90	Rim_028098-T1	RIK80765.1 / none	38.7	Planctomycetes bacterium	Bacteria	13	24	25	11	0
+86.25	169.10	Rim_012791-T1	QKE54967.1 / none	58.5	Parvoviridae sp.	Viruses	25	25	25	0	0
+86.22	169.10	Rim_048684-T1	WP_190561326.1 / none	37.7	Anabaena sphaerica	Bacteria	21	25	25	4	0
+86.09	169.10	Rim_015404-T1	WP_109858415.1 / none	67.5	Ensifer adhaerens	Bacteria	20	25	25	5	0
+84.64	122.10	Rim_003183-T1	WP_161580509.1 / QEL09189.1	51.2	Cronobacter muytjensii	Bacteria	1	3	25	0	2
+83.47	164.90	Rim_004046-T1	QKE54967.1 / none	52.0	Parvoviridae sp.	Viruses	25	25	25	0	0
+82.25	163.70	Rim_001573-T1	XP_025177387.1 / none	33.8	Rhizophagus irregularis DAOM 181602=DAOM 197198	Eukaryota@Fungi	25	25	25	0	0
+81.61	162.50	Rim_025759-T1	WP_012598314.1 / none	37.2	Gloeothece citriformis	Bacteria	23	25	25	2	0
+80.25	161.00	Rim_049180-T1	AJI02599.1 / none	32.9	Mosquito densovirus HB-3	Viruses	3	3	3	0	0
+76.60	155.20	Rim_009892-T1	WP_190877937.1 / none	37.0	unclassified Planktothricoides	Bacteria	21	25	25	4	0
+75.07	152.50	Rim_042765-T1	VFJ46785.1 / none	46.0	Candidatus Kentron sp. FM	Bacteria	18	25	25	7	0
+74.82	152.10	Rim_042764-T1	VFJ46785.1 / none	46.8	Candidatus Kentron sp. FM	Bacteria	16	25	25	9	0
+74.46	152.10	Rim_009893-T1	VFK34743.1 / none	35.9	Candidatus Kentron sp. MB	Bacteria	20	25	25	5	0
+73.42	150.60	Rim_018000-T1	WP_190877937.1 / none	37.0	unclassified Planktothricoides	Bacteria	21	25	25	4	0
+73.15	152.10	Rim_037835-T1	WP_028299210.1 / none	50.6	Oceanospirillum beijerinckii	Bacteria	24	25	25	1	0
+72.61	104.80	Rim_003184-T1	WP_161580509.1 / EFX78811.1	32.9	Cronobacter muytjensii	Bacteria	1	1	25	0	0
+71.75	148.70	Rim_039429-T1	AVM80381.1 / none	31.6	Ambidensovirus sp.	Viruses	25	25	25	0	0
+69.77	145.60	Rim_045020-T1	VFK68367.1 / none	36.2	Candidatus Kentron sp. UNK	Bacteria	21	25	25	4	0
+69.66	145.20	Rim_052555-T1	VFK29206.1 / none	38.0	Candidatus Kentron sp. MB	Bacteria	19	25	25	6	0
+69.39	144.80	Rim_009895-T1	VFK68367.1 / none	35.2	Candidatus Kentron sp. UNK	Bacteria	22	25	25	3	0
+68.55	143.70	Rim_008810-T1	QKE54967.1 / none	63.8	Parvoviridae sp.	Viruses	25	25	25	0	0
+68.05	142.90	Rim_052597-T1	VFK29206.1 / none	38.0	Candidatus Kentron sp. MB	Bacteria	19	25	25	6	0
+67.25	141.70	Rim_009891-T1	OJJ27008.1 / none	37.8	Roseofilum reptotaenium AO1-A	Bacteria	18	25	25	7	0
+66.51	140.60	Rim_010994-T1	WP_190877937.1 / none	36.8	unclassified Planktothricoides	Bacteria	18	23	25	5	0
+65.94	139.80	Rim_027850-T1	VFK55791.1 / none	35.0	Candidatus Kentron sp. TUN	Bacteria	18	25	25	7	0
+65.41	140.60	Rim_045139-T1	YP_009051932.1 / none	22.1	Penaeus monodon nudivirus	Viruses	3	3	3	0	0
+64.29	138.30	Rim_009782-T1	AAM28943.1 / none	58.9	Aedes albopictus C6/36 cell densovirus	Viruses	25	25	25	0	0
+64.07	137.10	Rim_009899-T1	VFJ63567.1 / none	35.2	Candidatus Kentron sp. DK	Bacteria	17	22	25	5	0
+63.52	136.30	Rim_009896-T1	VFK22406.1 / none	33.5	Candidatus Kentron sp. LPFa	Bacteria	18	24	25	6	0
+62.59	135.60	Rim_010995-T1	VFK22406.1 / none	35.3	Candidatus Kentron sp. LPFa	Bacteria	19	23	25	4	0
+62.17	134.80	Rim_049178-T1	AJI02599.1 / none	31.9	Mosquito densovirus HB-3	Viruses	3	3	3	0	0
+61.83	135.20	Rim_012194-T1	VFK17525.1 / none	39.7	Candidatus Kentron sp. LPFa	Bacteria	19	24	25	5	0
+61.64	134.40	Rim_045144-T1	YP_009051861.1 / none	43.6	Penaeus monodon nudivirus	Viruses	5	5	5	0	0
+61.25	133.70	Rim_045137-T1	QBB28618.1 / none	29.7	Homarus gammarus nudivirus	Viruses	3	3	3	0	0
+60.92	132.50	Rim_009897-T1	VFK22406.1 / none	35.4	Candidatus Kentron sp. LPFa	Bacteria	22	25	25	3	0
+59.77	131.00	Rim_042325-T1	VFJ63567.1 / none	32.6	Candidatus Kentron sp. DK	Bacteria	17	24	25	7	0
+59.77	131.00	Rim_042565-T1	VFJ63567.1 / none	32.6	Candidatus Kentron sp. DK	Bacteria	17	24	25	7	0
+59.77	130.20	Rim_051574-T1	YP_009330105.1 / none	54.6	Hubei myriapoda virus 7	Viruses	1	1	1	0	0
+59.23	130.20	Rim_009894-T1	VFK22406.1 / none	33.3	Candidatus Kentron sp. LPFa	Bacteria	21	25	25	4	0
+58.99	129.80	Rim_009898-T1	VFJ63567.1 / none	35.3	Candidatus Kentron sp. DK	Bacteria	18	25	25	7	0
+58.77	128.60	Rim_048132-T1	KPK58759.1 / none	45.5	Gammaproteobacteria bacterium SG8_31	Bacteria	21	25	25	4	0
+57.94	83.60	Rim_051260-T1	YP_009329874.1 / CAB0044020.1	30.0	Hubei partiti-like virus 11	Viruses	1	1	4	0	0
+55.54	124.00	Rim_048119-T1	WP_104320667.1 / none	42.3	Marinobacter maroccanus	Bacteria	20	25	25	5	0
+55.51	124.00	Rim_048123-T1	TMA82094.1 / none	43.1	Deltaproteobacteria bacterium	Bacteria	19	25	25	6	0
+55.08	124.00	Rim_016670-T1	OJJ27008.1 / none	41.9	Roseofilum reptotaenium AO1-A	Bacteria	21	25	25	4	0
+55.00	79.40	Rim_038551-T1	AXA52550.1 / XP_033220013.1	39.2	Linepithema humile partiti-like virus 1	Viruses	1	2	4	0	0
+53.39	120.90	Rim_048121-T1	TMA82094.1 / none	44.6	Deltaproteobacteria bacterium	Bacteria	19	25	25	6	0
+52.60	75.90	Rim_030571-T1	QIT20101.1 / KAB0803038.1	50.4	Diabrotica undecimpunctata virus 2	Viruses	5	5	9	0	0
+51.80	118.60	Rim_048122-T1	RMF21007.1 / none	43.3	Deltaproteobacteria bacterium	Bacteria	17	25	25	8	0
+50.78	118.20	Rim_045147-T1	QBB28618.1 / none	35.6	Homarus gammarus nudivirus	Viruses	3	3	3	0	0
+50.77	117.10	Rim_048131-T1	KPK59960.1 / none	45.0	Gammaproteobacteria bacterium SG8_31	Bacteria	20	25	25	5	0
+50.67	117.10	Rim_048129-T1	WP_141067895.1 / none	40.9	Marinobacter hydrocarbonoclasticus	Bacteria	17	25	25	8	0
+50.47	116.70	Rim_014727-T1	WP_104271350.1 / none	41.7	Marinobacter flavimaris	Bacteria	21	22	25	1	0
+50.39	116.70	Rim_048130-T1	WP_113878810.1 / none	43.8	Marinobacter hydrocarbonoclasticus	Bacteria	20	25	25	5	0
+50.21	72.40	Rim_027131-T1	YP_009046622.1 / XP_015765343.1	46.3	Armadillidium vulgare iridescent virus	Viruses	12	23	25	0	0
+49.63	115.50	Rim_014728-T1	WP_189465899.1 / none	42.0	Halomonas qijiaojingensis	Bacteria	21	24	25	3	0
+49.59	115.50	Rim_048126-T1	WP_041635207.1 / none	42.4	Marinobacter sp. BSs20148	Bacteria	20	25	25	5	0
+49.46	115.90	Rim_052515-T1	KIA92297.1 / none	36.5	Flavobacterium sp. JRM	Bacteria	1	25	25	0	0
+49.32	115.20	Rim_048127-T1	WP_041635207.1 / none	43.2	Marinobacter sp. BSs20148	Bacteria	19	25	25	6	0
+49.09	115.50	Rim_006447-T1	AJI02599.1 / none	32.0	Mosquito densovirus HB-3	Viruses	2	2	2	0	0
+49.07	114.80	Rim_048125-T1	WP_041635207.1 / none	42.4	Marinobacter sp. BSs20148	Bacteria	20	25	25	5	0
+48.90	70.50	Rim_015694-T1	AXA52550.1 / XP_033220013.1	31.2	Linepithema humile partiti-like virus 1	Viruses	1	2	3	0	0
+48.82	115.20	Rim_035064-T1	AVM80381.1 / none	33.7	Ambidensovirus sp.	Viruses	2	2	2	0	0
+47.57	112.10	Rim_019941-T1	YP_009330105.1 / none	44.1	Hubei myriapoda virus 7	Viruses	1	1	1	0	0
+47.54	68.60	Rim_019909-T1	QLI62417.1 / XP_008546193.2	41.1	Dikerogammarus haemobaphes nudivirus	Viruses	4	4	8	0	0
+47.52	68.50	Rim_018740-T1	AXA52550.1 / XP_030755349.1	30.6	Linepithema humile partiti-like virus 1	Viruses	1	1	5	0	0
+47.52	112.50	Rim_048120-T1	WP_104320667.1 / none	39.5	Marinobacter maroccanus	Bacteria	16	25	25	9	0
+47.07	113.60	Rim_001634-T1	ABU94974.1 / none	27.6	Culex pipiens pallens densovirus	Viruses	25	25	25	0	0
+46.81	110.90	Rim_039370-T1	RYY63008.1 / none	50.0	Chitinophagaceae bacterium	Bacteria	17	25	25	8	0
+46.70	67.40	Rim_008079-T1	AXA52550.1 / XP_033220013.1	38.6	Linepithema humile partiti-like virus 1	Viruses	1	2	3	0	0
+46.39	111.30	Rim_028115-T1	VFK34446.1 / none	32.1	Candidatus Kentron sp. MB	Bacteria	18	24	25	6	0
+46.15	110.90	Rim_028114-T1	VFK34446.1 / none	32.1	Candidatus Kentron sp. MB	Bacteria	18	25	25	7	0
+45.65	110.50	Rim_039427-T1	AVM80381.1 / none	30.9	Ambidensovirus sp.	Viruses	2	2	2	0	0
+44.29	109.40	Rim_001571-T2	WP_106526553.1 / none	23.7	Chitinophaga niastensis	Bacteria	23	25	25	2	0
+44.20	109.40	Rim_001571-T1	WP_106526553.1 / none	23.7	Chitinophaga niastensis	Bacteria	23	25	25	2	0
+42.97	62.00	Rim_011427-T1	WP_161580509.1 / BAG12081.1	38.3	Cronobacter muytjensii	Bacteria	1	1	25	0	0
+41.88	104.80	Rim_002913-T1	AXA52550.1 / none	35.1	Linepithema humile partiti-like virus 1	Viruses	1	1	1	0	0
+39.80	103.20	Rim_037836-T1	KEI72051.1 / none	38.8	Endozoicomonas elysicola	Bacteria	22	25	25	3	0
+39.17	102.10	Rim_052273-T1	AVM80380.1 / none	30.1	Ambidensovirus sp.	Viruses	24	25	25	1	0
+39.14	100.50	Rim_006824-T1	AFD09095.1 / none	34.2	Solitalea canadensis DSM 3403	Bacteria	14	25	25	11	0
+37.34	99.00	Rim_006351-T1	QKE54969.1 / none	31.0	Parvoviridae sp.	Viruses	1	1	1	0	0
+36.97	98.20	Rim_014002-T1	ACS70953.1 / none	36.4	Culex densovirus 0507JS11	Viruses	25	25	25	0	0
+36.96	98.20	Rim_007802-T1	WP_080471435.1 / none	39.7	Staphylococcus epidermidis	Bacteria	25	25	25	0	0
+36.89	98.60	Rim_019437-T1	OIR56033.1 / none	23.4	Amphiamblys sp. WSBS2006	Eukaryota@Fungi	1	25	25	0	0
+36.58	97.40	Rim_012790-T1	AJI02599.1 / none	33.9	Mosquito densovirus HB-3	Viruses	2	2	2	0	0
+36.37	97.10	Rim_021790-T1	KAF3631557.1 / none	55.8	Capsicum annuum	Eukaryota@Viridiplantae	24	25	25	1	0
+36.05	95.50	Rim_008426-T1	VFK68367.1 / none	45.5	Candidatus Kentron sp. UNK	Bacteria	14	24	25	10	0
+34.99	94.00	Rim_008626-T1	VFK68367.1 / none	45.5	Candidatus Kentron sp. UNK	Bacteria	14	24	25	10	0
+34.44	92.80	Rim_035626-T1	WP_083480058.1 / none	58.0	Oxobacter pfennigii	Bacteria	2	24	25	0	0
+33.62	94.00	Rim_015160-T1	WP_129254463.1 / none	23.9	Ancylomarina salipaludis	Bacteria	10	14	17	4	0
+33.47	94.00	Rim_008818-T1	GGF82688.1 / none	23.8	Arenimonas maotaiensis	Bacteria	16	25	25	9	0
+33.37	48.20	Rim_025659-T1	YP_009333371.1 / XP_033220013.1	31.0	Beihai barnacle virus 12	Viruses	2	2	4	0	0
+33.09	47.80	Rim_008417-T1	WP_020527010.1 / XP_035705989.1	28.0	Flexithrix dorotheae	Bacteria	4	7	15	3	0
+33.03	95.90	Rim_049328-T1	WP_161888870.1 / none	23.5	Pontibacter russatus	Bacteria	15	22	22	7	0
+32.97	92.40	Rim_042179-T1	OIR56906.1 / none	26.6	Amphiamblys sp. WSBS2006	Eukaryota@Fungi	2	25	25	0	0
+31.77	91.30	Rim_012832-T1	AAN04345.1 / none	25.8	Heliothis zea nudivirus	Viruses	3	3	3	0	0
+31.26	45.10	Rim_031027-T1	QLI62451.1 / OWR47370.1	30.5	Dikerogammarus haemobaphes nudivirus	Viruses	4	4	12	0	0
+30.73	44.30	Rim_003184-T2	WP_161580509.1 / AXP34688.1	32.9	Cronobacter muytjensii	Bacteria	1	1	25	0	0
+30.46	89.70	Rim_008243-T1	YP_004956833.1 / none	25.2	Helicoverpa zea nudivirus 2	Viruses	3	3	3	0	0
+29.65	42.70	Rim_026222-T1	QLI62451.1 / XP_017756046.1	25.2	Dikerogammarus haemobaphes nudivirus	Viruses	2	2	8	0	0
+29.34	42.40	Rim_028275-T1	KAF1018864.1 / EFA12690.2	29.7	Acinetobacter bereziniae	Bacteria	1	1	25	0	0
+29.24	87.40	Rim_032578-T1	OWY97705.1 / none	20.6	Phytophthora megakarya	Eukaryota@Stramenopiles	2	25	25	0	0
+29.10	87.40	Rim_001576-T1	WP_150074652.1 / none	24.7	Rhodopirellula sp. JC645	Bacteria	1	2	2	1	0
+28.65	85.90	Rim_026464-T1	PNX80509.1 / none	40.4	Trifolium pratense	Eukaryota@Viridiplantae	1	1	1	0	0
+28.63	85.10	Rim_027595-T1	OJJ61371.1 / none	34.1	Aspergillus sydowii CBS 593.65	Eukaryota@Fungi	25	25	25	0	0
+28.63	86.70	Rim_031365-T1	KAA0050296.1 / none	24.0	Cucumis melo var. makuwa	Eukaryota@Viridiplantae	9	25	25	0	0
+27.65	85.10	Rim_032651-T1	OIR56906.1 / none	22.2	Amphiamblys sp. WSBS2006	Eukaryota@Fungi	1	25	25	0	0
+27.23	84.70	Rim_001572-T1	TEW72999.1 / none	22.3	Gramella jeungdoensis	Bacteria	10	11	11	1	0
+26.99	83.60	Rim_042028-T1	OIR56033.1 / none	30.4	Amphiamblys sp. WSBS2006	Eukaryota@Fungi	1	25	25	0	0
+25.53	80.50	Rim_022464-T1	QKU34334.1 / none	37.4	Tupanvirus deep ocean	Viruses	2	25	25	0	0
+25.41	82.80	Rim_000569-T1	XP_027912755.1 / none	21.9	Vigna unguiculata	Eukaryota@Viridiplantae	24	25	25	1	0
+25.23	81.60	Rim_001486-T1	RVW13538.1 / none	25.1	Vitis vinifera	Eukaryota@Viridiplantae	1	12	12	0	0
+25.07	81.30	Rim_012803-T1	XP_028216621.1 / none	23.3	Glycine soja	Eukaryota@Viridiplantae	4	25	25	0	0
+25.07	81.60	Rim_050552-T1	OIR56033.1 / none	24.6	Amphiamblys sp. WSBS2006	Eukaryota@Fungi	1	7	7	0	0
+24.69	80.50	Rim_049666-T1	GBG61131.1 / none	35.7	Chara braunii	Eukaryota@Viridiplantae	6	25	25	0	0
+24.54	79.00	Rim_024094-T1	NP_048265.1 / none	41.1	Melanoplus sanguinipes entomopoxvirus	Viruses	2	25	25	0	0
+24.50	79.70	Rim_002950-T1	XP_021683459.1 / none	33.1	Hevea brasiliensis	Eukaryota@Viridiplantae	25	25	25	0	0
+24.50	80.50	Rim_049179-T1	AJI02597.1 / none	38.5	Mosquito densovirus HB-3	Viruses	25	25	25	0	0
+24.30	80.10	Rim_043675-T1	AJI02598.1 / none	32.5	Mosquito densovirus HB-3	Viruses	17	18	18	1	0
+23.87	79.00	Rim_023132-T1	PNX80509.1 / none	39.8	Trifolium pratense	Eukaryota@Viridiplantae	1	1	1	0	0
+23.78	79.30	Rim_004756-T1	XP_002881458.1 / none	41.1	Arabidopsis lyrata subsp. lyrata	Eukaryota@Viridiplantae	9	25	25	0	0
+23.66	79.00	Rim_017322-T1	TXG73104.1 / none	30.6	Acer yangbiense	Eukaryota@Viridiplantae	1	25	25	0	0
+23.43	78.60	Rim_004756-T2	XP_010505213.1 / none	46.2	Camelina sativa	Eukaryota@Viridiplantae	23	25	25	2	0
+23.23	33.50	Rim_020557-T1	ETO23439.1 / VDK44961.1	47.9	Reticulomyxa filosa	Eukaryota	2	10	11	3	0
+23.17	77.00	Rim_006366-T1	YP_004956766.1 / none	50.7	Helicoverpa zea nudivirus 2	Viruses	5	5	5	0	0
+23.10	77.80	Rim_048680-T1	GAV75174.1 / none	49.2	Cephalotus follicularis	Eukaryota@Viridiplantae	25	25	25	0	0
+22.98	33.10	Rim_026473-T1	OIR56033.1 / KRZ70301.1	27.2	Amphiamblys sp. WSBS2006	Eukaryota@Fungi	1	9	25	0	0
+22.97	33.20	Rim_024794-T1	KAF7685559.1 / XP_025192126.1	31.2	Cucumispora dikerogammari	Eukaryota@Fungi	3	3	25	0	0
+22.38	77.40	Rim_044444-T1	OIR56033.1 / none	31.1	Amphiamblys sp. WSBS2006	Eukaryota@Fungi	1	25	25	0	0
+21.86	76.30	Rim_048853-T1	XP_021753565.1 / none	46.8	Chenopodium quinoa	Eukaryota@Viridiplantae	25	25	25	0	0
+21.38	75.10	Rim_038089-T1	KAF5806142.1 / none	41.6	Helianthus annuus	Eukaryota@Viridiplantae	3	25	25	0	0
+21.35	30.80	Rim_000301-T1	OIR56906.1 / CBN81178.1	26.5	Amphiamblys sp. WSBS2006	Eukaryota@Fungi	2	8	12	0	0
+20.46	72.80	Rim_007255-T1	OJY90155.1 / none	40.2	Sphingobacteriales bacterium 44-15	Bacteria	24	25	25	1	0
+20.04	28.90	Rim_003178-T1	WP_161580509.1 / ABK40086.2	37.1	Cronobacter muytjensii	Bacteria	1	1	25	0	0
+19.98	74.30	Rim_043863-T1	XP_009773064.1 / none	22.5	Nicotiana sylvestris	Eukaryota@Viridiplantae	13	25	25	0	0
+19.93	73.90	Rim_036537-T1	WP_140073936.1 / none	30.5	Vibrio parahaemolyticus	Bacteria	2	3	3	0	1
+19.93	73.20	Rim_037117-T1	PKU68071.1 / none	27.6	Dendrobium catenatum	Eukaryota@Viridiplantae	23	25	25	2	0
+19.81	73.60	Rim_036188-T1	XP_017256423.1 / none	24.1	Daucus carota subsp. sativus	Eukaryota@Viridiplantae	5	25	25	0	0
+19.69	73.20	Rim_026616-T1	PNX80509.1 / none	34.8	Trifolium pratense	Eukaryota@Viridiplantae	1	1	1	0	0
+19.59	73.90	Rim_014047-T1	QKE41752.1 / none	26.9	Ferrovum myxofaciens	Bacteria	12	25	25	1	0
+19.59	72.80	Rim_019849-T1	APA07563.1 / none	24.6	Sclerotinia sclerotiorum 1980 UF-70	Eukaryota@Fungi	1	25	25	0	0
+19.34	72.80	Rim_035248-T1	OMO74467.1 / none	24.8	Corchorus capsularis	Eukaryota@Viridiplantae	9	25	25	0	0
+19.26	72.00	Rim_052516-T1	XP_030487336.1 / none	37.4	Cannabis sativa	Eukaryota@Viridiplantae	2	25	25	0	0
+19.15	72.80	Rim_030320-T1	OIR56033.1 / none	23.6	Amphiamblys sp. WSBS2006	Eukaryota@Fungi	25	25	25	0	0
+19.04	73.20	Rim_037544-T1	XP_027156392.1 / none	35.4	Coffea eugenioides	Eukaryota@Viridiplantae	24	24	25	0	0
+18.85	72.80	Rim_018338-T1	XP_012076137.1 / none	24.1	Jatropha curcas	Eukaryota@Viridiplantae	8	8	8	0	0
+18.84	71.60	Rim_001625-T1	KAF1328828.1 / none	27.6	Globisporangium splendens	Eukaryota@Stramenopiles	25	25	25	0	0
+18.79	72.80	Rim_027378-T1	XP_012076137.1 / none	24.1	Jatropha curcas	Eukaryota@Viridiplantae	8	8	8	0	0
+17.89	25.80	Rim_049932-T1	WP_174133857.1 / KAF6210176.1	45.8	Wolbachia endosymbiont of Atemnus politus	Bacteria	1	1	4	0	0
+17.78	71.20	Rim_022858-T1	KAF2295968.1 / none	21.8	Hevea brasiliensis	Eukaryota@Viridiplantae	1	25	25	0	0
+17.63	70.50	Rim_025226-T1	OIR56033.1 / none	24.3	Amphiamblys sp. WSBS2006	Eukaryota@Fungi	2	5	5	0	0
+17.55	70.50	Rim_018957-T1	KAF1317931.1 / none	23.1	Globisporangium splendens	Eukaryota@Stramenopiles	5	25	25	0	0
+17.43	69.70	Rim_030100-T1	CDS11872.1 / none	39.3	Lichtheimia ramosa	Eukaryota@Fungi	13	13	13	0	0
+17.32	69.70	Rim_029702-T1	XP_014493178.1 / none	28.2	Vigna radiata var. radiata	Eukaryota@Viridiplantae	20	20	20	0	0
+17.29	69.70	Rim_006084-T1	XP_027078797.1 / none	26.5	Coffea arabica	Eukaryota@Viridiplantae	4	25	25	0	0
+17.20	69.70	Rim_010398-T1	PRQ51925.1 / none	31.7	Rosa chinensis	Eukaryota@Viridiplantae	17	25	25	8	0
+17.11	24.60	Rim_019731-T1	YP_009329874.1 / CAB0044020.1	32.9	Hubei partiti-like virus 11	Viruses	1	1	4	0	0
+17.03	70.10	Rim_019648-T1	XP_031275519.1 / none	25.1	Pistacia vera	Eukaryota@Viridiplantae	24	24	25	0	0
+16.77	68.20	Rim_045021-T1	WP_046335685.1 / none	29.0	Xenorhabdus bovienii	Bacteria	10	25	25	1	0
+16.68	69.70	Rim_003735-T1	GDY09425.1 / none	40.2	Planctomycetia bacterium	Bacteria	7	18	18	11	0
+16.57	23.90	Rim_023491-T1	YP_009329874.1 / XP_033220013.1	35.6	Hubei partiti-like virus 11	Viruses	1	1	2	0	0
+16.55	67.40	Rim_026853-T1	ACN29072.1 / none	56.7	Zea mays	Eukaryota@Viridiplantae	1	1	1	0	0
+16.37	67.80	Rim_041311-T1	XP_013632581.1 / none	25.5	Brassica oleracea var. oleracea	Eukaryota@Viridiplantae	19	19	20	0	0
+16.28	68.20	Rim_012119-T1	GAQ84543.1 / none	32.7	Klebsormidium nitens	Eukaryota@Viridiplantae	6	25	25	0	0
+16.03	23.10	Rim_003237-T1	OIF90008.1 / KYN09291.1	67.2	Acinetobacter baumannii	Bacteria	1	1	3	0	0
+16.02	67.00	Rim_051285-T1	PKI41735.1 / none	41.2	Punica granatum	Eukaryota@Viridiplantae	4	23	25	19	0
+15.78	68.20	Rim_018789-T1	CAD1832986.1 / none	28.4	Ananas comosus var. bracteatus	Eukaryota@Viridiplantae	25	25	25	0	0
+15.76	22.70	Rim_052209-T1	KAF1010546.1 / GBP79061.1	46.5	Acinetobacter bereziniae	Bacteria	1	1	25	0	0
+15.49	22.30	Rim_010308-T1	AXA52550.1 / XP_031849386.1	36.4	Linepithema humile partiti-like virus 1	Viruses	1	1	9	0	0
+15.46	22.40	Rim_010211-T1	RUM44803.1 / GBP88538.1	52.0	Desulfocapsa sp.	Bacteria	1	1	25	0	0
+15.46	22.30	Rim_039074-T1	ADZ29298.1 / XP_035697190.1	24.2	Cowpox virus	Viruses	1	3	25	1	0
+15.42	65.90	Rim_020661-T1	WP_139476207.1 / none	32.0	Bathymodiolus brooksi thiotrophic gill symbiont	Bacteria	1	1	1	0	0
+15.29	67.40	Rim_029739-T1	XP_012089545.2 / none	25.2	Jatropha curcas	Eukaryota@Viridiplantae	7	7	7	0	0
+15.29	65.50	Rim_029854-T1	OQD67365.1 / none	37.6	Penicillium antarcticum	Eukaryota@Fungi	3	25	25	0	0
+15.24	67.00	Rim_009740-T1	XP_026400491.1 / none	41.6	Papaver somniferum	Eukaryota@Viridiplantae	25	25	25	0	0
+15.24	67.00	Rim_030495-T1	OIR56906.1 / none	20.3	Amphiamblys sp. WSBS2006	Eukaryota@Fungi	1	1	1	0	0
+15.20	67.00	Rim_013946-T1	XP_031106244.1 / none	29.1	Ipomoea triloba	Eukaryota@Viridiplantae	5	10	10	0	0
+15.20	22.00	Rim_041094-T1	YP_002265407.1 / XP_023726660.1	31.4	Anopheles gambiae densovirus	Viruses	11	11	25	0	0
+15.02	67.00	Rim_043669-T1	KYP76987.1 / none	25.1	Cajanus cajan	Eukaryota@Viridiplantae	25	25	25	0	0

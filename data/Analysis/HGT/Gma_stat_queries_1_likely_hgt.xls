@@ -1,0 +1,1091 @@
+
+ai	hgtscore	query	best_donor_acc / best_toi_acc	best_donor_pident	best_donor_orgname	best_donor_taxonomy	nb_hits_supporting_taxo	nb_hits_between_donor_and_possible_toi	nb_total_hits	nb_unknown_acc (dr)	nb_excluded_acc (dr)
+460.52	846.30	Gma_001860-T1	GAE51657.1 / none	54.4	Xanthomonas arboricola pv. pruni str. MAFF 311562	Bacteria	24	25	25	1	0
+460.52	762.30	Gma_001957-T1	WP_039758173.1 / none	48.6	Bartonella queenslandensis	Bacteria	20	24	25	4	0
+460.52	989.90	Gma_001995-T1	WP_011518744.1 / none	62.6	Cupriavidus metallidurans	Bacteria	24	25	25	1	0
+460.52	1186.00	Gma_002102-T1	WP_031372539.1 / none	56.3	Lysobacter antibioticus	Bacteria	23	25	25	2	0
+460.52	728.80	Gma_002124-T1	WP_176045695.1 / none	60.3	Burkholderia multivorans	Bacteria	25	25	25	0	0
+460.52	901.00	Gma_002148-T1	WP_187710913.1 / none	59.0	Lysobacter sp. II4	Bacteria	23	25	25	2	0
+460.52	1124.00	Gma_002167-T1	WP_177325834.1 / none	60.0	Calditerricola satsumensis	Bacteria	22	25	25	3	0
+460.52	730.70	Gma_002282-T1	PCJ46513.1 / none	66.6	Gammaproteobacteria bacterium	Bacteria	24	25	25	1	0
+460.52	808.50	Gma_002343-T1	WP_141452972.1 / none	66.7	Pseudoxanthomonas sp. z9	Bacteria	25	25	25	0	0
+460.52	1471.40	Gma_002419-T1	WP_184418384.1 / none	57.8	Rhodanobacter sp. MP7CTX1	Bacteria	25	25	25	0	0
+460.52	963.00	Gma_002425-T1	WP_182688257.1 / none	66.2	Lysobacter spongiae	Bacteria	25	25	25	0	0
+460.52	914.40	Gma_002483-T1	WP_056099520.1 / none	66.7	Lysobacter sp. Root667	Bacteria	22	25	25	3	0
+460.52	3003.80	Gma_002493-T1	WP_158985505.1 / none	69.0	Lysobacter panacisoli	Bacteria	24	25	25	1	0
+460.52	881.30	Gma_002545-T1	RMH87729.1 / none	69.4	Lysobacter pythonis	Bacteria	3	25	25	0	0
+460.52	904.40	Gma_002718-T1	WP_148040256.1 / none	51.1	Marichromatium sp. AB31	Bacteria	24	25	25	1	0
+460.52	879.40	Gma_002787-T1	WP_124790074.1 / none	66.6	Tannerella forsythia	Bacteria	25	25	25	0	0
+460.52	978.80	Gma_002903-T1	SCU93458.1 / none	57.7	Cupriavidus necator	Bacteria	25	25	25	0	0
+460.52	1303.90	Gma_002906-T1	WP_184418384.1 / none	50.1	Rhodanobacter sp. MP7CTX1	Bacteria	25	25	25	0	0
+460.52	932.20	Gma_002953-T1	RZL03617.1 / none	67.2	Rubrivivax sp.	Bacteria	23	25	25	2	0
+460.52	1085.10	Gma_002979-T1	WP_123769480.1 / none	62.9	Vulcaniibacterium tengchongense	Bacteria	25	25	25	0	0
+460.52	865.10	Gma_003100-T1	WP_181300270.1 / none	36.0	Rhodanobacter sp. PCA2	Bacteria	22	24	25	2	0
+460.52	764.20	Gma_003402-T1	WP_151117694.1 / none	54.5	Hypericibacter adhaerens	Bacteria	20	25	25	5	0
+460.52	1356.70	Gma_003459-T1	WP_163838765.1 / none	57.6	Pseudoxanthomonas sacheonensis	Bacteria	25	25	25	0	0
+460.52	913.30	Gma_003559-T1	VUM40537.1 / none	63.4	Stenotrophomonas maltophilia	Bacteria	25	25	25	0	0
+460.52	756.50	Gma_003641-T1	TXH42762.1 / none	53.9	Desulfurellales bacterium	Bacteria	23	25	25	2	0
+460.52	756.50	Gma_003666-T1	TXH42762.1 / none	53.9	Desulfurellales bacterium	Bacteria	23	25	25	2	0
+460.52	740.70	Gma_003723-T1	VUO90840.1 / none	59.9	Stenotrophomonas maltophilia	Bacteria	24	25	25	1	0
+460.52	805.10	Gma_003727-T1	RWW90463.1 / none	48.7	Ensete ventricosum	Eukaryota@Viridiplantae	2	25	25	0	0
+460.52	1459.90	Gma_003756-T1	VUP36100.1 / none	67.5	Stenotrophomonas maltophilia	Bacteria	24	25	25	1	0
+460.52	893.30	Gma_003818-T1	WP_186468436.1 / none	66.4	Xanthomonas vasicola	Bacteria	24	25	25	1	0
+460.52	783.90	Gma_004126-T1	WP_157030227.1 / none	50.6	Lysobacter soli	Bacteria	28	28	28	0	0
+460.52	778.90	Gma_004384-T1	WP_137833558.1 / none	64.0	Xanthomonadaceae bacterium P	Bacteria	25	25	25	0	0
+460.52	943.00	Gma_004400-T1	KAF1700076.1 / none	66.4	Pseudoxanthomonas suwonensis	Bacteria	25	25	25	0	0
+460.52	1036.90	Gma_004503-T1	WP_146470975.1 / none	62.9	Xanthomonas vasicola	Bacteria	24	25	25	1	0
+460.52	729.90	Gma_006472-T1	WP_163176792.1 / none	69.6	Bacteroides sp. 51	Bacteria	24	24	25	0	0
+460.52	1000.70	Gma_006585-T1	WP_170298593.1 / none	65.3	Pseudoxanthomonas broegbernensis	Bacteria	22	25	25	3	0
+460.52	2444.50	Gma_008325-T1	WP_168356217.1 / none	44.6	Lysobacter enzymogenes	Bacteria	25	25	25	0	0
+460.52	939.50	Gma_010477-T1	WP_122101353.1 / none	57.3	Lysobacter pythonis	Bacteria	25	25	25	0	0
+460.52	884.80	Gma_014064-T1	WP_164775377.1 / none	49.0	Paenibacillus glycanilyticus	Bacteria	24	25	25	1	0
+460.52	834.70	Gma_014065-T1	WP_173221576.1 / none	55.5	Paenibacillus alba	Bacteria	24	25	25	1	0
+460.52	861.70	Gma_015542-T1	KZV15435.1 / none	40.3	Dorcoceras hygrometricum	Eukaryota@Viridiplantae	2	25	25	2	0
+460.52	1007.70	Gma_015570-T1	WP_177389033.1 / none	56.8	Alphaproteobacteria bacterium	Bacteria	21	23	25	2	0
+460.52	987.60	Gma_015587-T1	WP_069190035.1 / none	57.8	Candidatus Terasakiella magnetica	Bacteria	19	24	25	5	0
+457.52	706.40	Gma_009000-T2	WP_109687582.1 / none	48.3	Tumebacillus permanentifrigoris	Bacteria	24	25	25	1	0
+457.47	706.40	Gma_009000-T1	WP_109687582.1 / none	48.3	Tumebacillus permanentifrigoris	Bacteria	24	25	25	1	0
+454.12	701.00	Gma_020494-T1	WP_127093403.1 / none	68.0	Spiroplasma poulsonii	Bacteria	24	25	25	1	0
+451.58	697.20	Gma_003440-T1	WP_108729031.1 / none	67.1	Candidatus Borrelia tachyglossi	Bacteria	25	25	25	0	0
+451.31	697.60	Gma_003696-T1	WP_184620573.1 / none	68.0	Xanthomonas arboricola	Bacteria	25	25	25	0	0
+446.30	689.90	Gma_003385-T1	WP_142847041.1 / none	52.9	Telmatospirillum sp. J64-1	Bacteria	17	24	25	7	0
+444.06	686.80	Gma_003885-T1	WP_081887847.1 / none	44.2	Verrucomicrobium sp. BvORR034	Bacteria	15	25	25	10	0
+439.53	679.90	Gma_015549-T1	WP_044425354.1 / none	67.9	Skermanella aerolata	Bacteria	24	25	25	1	0
+438.96	679.50	Gma_003738-T1	WP_158982930.1 / none	62.3	Lysobacter panacisoli	Bacteria	23	25	25	2	0
+435.01	674.10	Gma_015539-T1	CDB53224.1 / none	56.5	Azospirillum sp. CAG:239	Bacteria	10	22	25	2	0
+434.93	673.70	Gma_019978-T1	CRX37044.1 / none	50.5	Candidatus Hepatoplasma crinochetorum	Bacteria	18	25	25	7	0
+433.99	672.50	Gma_002850-T1	QIK80944.1 / none	63.3	Lysobacter sp. HDW10	Bacteria	25	25	25	0	0
+429.55	665.60	Gma_004094-T1	WP_114867183.1 / none	68.8	Xylella taiwanensis	Bacteria	24	25	25	1	0
+429.01	664.80	Gma_002812-T1	WP_186962065.1 / none	55.1	Parabacteroides sp. BX2	Bacteria	16	25	25	1	0
+423.80	657.90	Gma_015548-T1	WP_012415515.1 / none	43.8	Elusimicrobium minutum	Bacteria	21	25	25	4	0
+421.04	653.70	Gma_016523-T1	OQC67395.1 / none	55.9	Verrucomicrobia bacterium ADurb.Bin006	Bacteria	12	23	25	11	0
+418.81	649.80	Gma_018764-T1	TAL12192.1 / none	68.9	Chloroflexi bacterium	Bacteria	18	25	25	7	0
+417.46	648.70	Gma_015580-T1	PZN94705.1 / none	64.1	Alphaproteobacteria bacterium	Bacteria	23	25	25	2	0
+417.31	648.70	Gma_002814-T1	WP_094481307.1 / none	55.8	Rhodoferax sp. TH121	Bacteria	23	25	25	2	0
+411.83	640.60	Gma_003061-T1	QCW25750.1 / none	65.8	Lysobacter enzymogenes	Bacteria	25	25	25	0	0
+411.57	639.80	Gma_002847-T1	WP_158984956.1 / none	56.9	Lysobacter panacisoli	Bacteria	24	25	25	1	0
+408.50	635.60	Gma_002509-T1	WP_187265904.1 / none	47.5	Lysobacter sp. Alg18-2.2	Bacteria	20	25	25	5	0
+406.77	632.90	Gma_002582-T1	WP_163729528.1 / none	51.9	Parabacteroides sp. 52	Bacteria	21	25	25	4	0
+406.03	632.10	Gma_011513-T1	WP_164775377.1 / none	44.2	Paenibacillus glycanilyticus	Bacteria	24	25	25	1	0
+404.42	629.80	Gma_014067-T1	WP_167201305.1 / none	44.4	Paenibacillus sp. BK720	Bacteria	23	25	25	2	0
+404.09	630.20	Gma_015527-T1	WP_189045797.1 / none	53.8	Aliidongia dinghuensis	Bacteria	23	24	25	1	0
+398.16	620.20	Gma_021309-T1	WP_115557860.1 / none	63.5	Spiroplasma alleghenense	Bacteria	25	25	25	0	0
+398.01	620.90	Gma_001875-T1	WP_080393025.1 / none	55.7	Stenotrophomonas maltophilia	Bacteria	24	25	25	1	0
+397.25	619.00	Gma_008632-T1	WP_163674813.1 / none	65.2	Magnetospirillum aberrantis	Bacteria	20	25	25	5	0
+391.59	610.90	Gma_010233-T1	VUP62653.1 / none	64.1	Stenotrophomonas maltophilia	Bacteria	6	25	25	1	0
+391.03	610.50	Gma_001983-T1	WP_007686825.1 / none	67.0	Novosphingobium sp. AP12	Bacteria	20	25	25	5	0
+390.03	609.00	Gma_003649-T1	TXH42313.1 / none	59.6	Desulfurellales bacterium	Bacteria	20	25	25	5	0
+390.03	609.00	Gma_003674-T1	TXH42313.1 / none	59.6	Desulfurellales bacterium	Bacteria	20	25	25	5	0
+389.26	607.40	Gma_003713-T1	KZV14809.1 / none	60.9	Dorcoceras hygrometricum	Eukaryota@Viridiplantae	1	25	25	0	0
+389.04	607.40	Gma_002973-T1	KAF1013919.1 / none	62.2	Stenotrophomonas maltophilia	Bacteria	25	25	25	0	0
+388.55	606.70	Gma_002152-T1	GAE60412.1 / none	60.4	Xanthomonas arboricola pv. pruni MAFF 301427	Bacteria	24	25	25	1	0
+388.50	605.90	Gma_009849-T1	WP_046145795.1 / none	65.7	Parabacteroides goldsteinii	Bacteria	25	25	25	0	0
+385.11	602.80	Gma_015538-T1	CQR83327.1 / none	55.2	Escherichia coli K-12	Bacteria	1	25	25	0	0
+383.12	598.20	Gma_000554-T1	WP_068772092.1 / none	67.6	Opitutaceae bacterium TSB47	Bacteria	5	25	25	20	0
+382.27	598.20	Gma_021169-T1	WP_158314271.1 / none	35.5	Priestia megaterium	Bacteria	17	22	25	5	0
+377.77	591.30	Gma_014066-T1	WP_164775377.1 / none	43.9	Paenibacillus glycanilyticus	Bacteria	24	25	25	1	0
+376.88	589.30	Gma_021682-T1	WP_154283371.1 / none	62.3	Pedobacter petrophilus	Bacteria	16	25	25	9	0
+375.06	587.00	Gma_001932-T1	VEA18722.1 / none	56.9	Salmonella enterica subsp. enterica	Bacteria	3	25	25	0	0
+374.45	586.30	Gma_004502-T1	WP_063107529.1 / none	63.9	Rhodanobacter thiooxydans	Bacteria	24	25	25	1	0
+373.16	585.10	Gma_003722-T1	WP_158731839.1 / none	60.1	Lysobacter sp. SYSU H10001	Bacteria	24	25	25	1	0
+373.10	584.30	Gma_012904-T1	WP_163306567.1 / none	66.8	Dysgonomonas sp. 521	Bacteria	20	25	25	5	0
+369.84	579.30	Gma_015528-T1	WP_160400156.1 / none	54.5	unclassified Gilliamella	Bacteria	25	25	25	0	0
+357.19	561.20	Gma_002221-T1	WP_131598237.1 / none	58.7	Mycoplasma marinum	Bacteria	22	24	25	2	0
+357.14	560.80	Gma_009878-T1	WP_119986208.1 / none	59.7	Arachidicoccus soli	Bacteria	7	19	25	12	0
+356.16	559.30	Gma_002381-T1	OPZ08140.1 / none	65.3	Alphaproteobacteria bacterium ADurb.BinA280	Bacteria	21	24	25	3	0
+352.76	554.30	Gma_004490-T1	WP_122276152.1 / none	62.6	Parabacteroides sp. AM08-6	Bacteria	20	24	25	4	0
+352.49	554.30	Gma_005390-T1	WP_083382854.1 / none	60.7	Lysobacter enzymogenes	Bacteria	23	25	25	2	0
+350.52	551.20	Gma_001961-T1	WP_123174777.1 / none	64.8	Methylocystis hirsuta	Bacteria	20	23	25	3	0
+345.77	544.70	Gma_004253-T1	CRK29432.1 / none	52.2	Verticillium longisporum	Eukaryota@Fungi	1	25	25	0	0
+344.51	542.30	Gma_004013-T1	WP_068772092.1 / none	64.0	Opitutaceae bacterium TSB47	Bacteria	20	25	25	5	0
+343.46	540.80	Gma_003571-T1	GBU08642.1 / none	66.2	Bacteroidales bacterium	Bacteria	25	25	25	0	0
+343.26	540.80	Gma_003883-T1	KRT66644.1 / none	54.4	Candidatus Dadabacteria bacterium CSP1-2	Bacteria	20	25	25	5	0
+343.09	542.00	Gma_015573-T1	WP_177554694.1 / none	48.6	Alphaproteobacteria bacterium	Bacteria	11	25	25	14	0
+342.17	539.30	Gma_008666-T1	WP_161770600.1 / none	57.4	Stenotrophomonas maltophilia	Bacteria	23	25	25	2	0
+340.78	537.00	Gma_002826-T1	WP_142136900.1 / none	65.9	Pseudomonas sp. SLBN-2	Bacteria	25	25	25	0	0
+339.01	535.00	Gma_003887-T1	WP_122357249.1 / none	45.3	Parabacteroides	Bacteria	24	24	25	0	0
+338.22	533.50	Gma_007714-T1	WP_155448058.1 / none	61.9	Rhodoblastus acidophilus	Bacteria	22	25	25	3	0
+337.45	532.30	Gma_000518-T1	WP_068182368.1 / none	54.2	Macellibacteroides sp. HH-ZS	Bacteria	20	25	25	5	0
+337.35	532.30	Gma_008635-T1	WP_119546981.1 / none	56.2	Bacillus salacetis	Bacteria	25	25	25	0	0
+336.79	531.90	Gma_003648-T1	WP_083640527.1 / none	49.0	Paraburkholderia phenazinium	Bacteria	15	25	25	1	0
+336.79	531.90	Gma_003673-T1	WP_083640527.1 / none	49.0	Paraburkholderia phenazinium	Bacteria	15	25	25	1	0
+336.00	530.40	Gma_001045-T1	CRX37214.1 / none	58.7	Candidatus Hepatoplasma crinochetorum	Bacteria	23	23	25	0	0
+335.15	529.60	Gma_021334-T1	WP_166507754.1 / none	49.8	Spiroplasma chinense	Bacteria	25	25	25	0	0
+333.78	526.60	Gma_004367-T1	WP_158731731.1 / none	69.9	Lysobacter sp. SYSU H10001	Bacteria	25	25	25	0	0
+333.69	526.90	Gma_003387-T1	AIF00464.1 / none	58.3	uncultured marine group II/III euryarchaeote KM3_133_F10	Archaea	1	25	25	1	0
+326.13	515.80	Gma_004020-T1	WP_106830786.1 / none	69.1	Parabacteroides pacaensis	Bacteria	24	25	25	1	0
+322.27	511.90	Gma_001997-T1	WP_082312431.1 / none	44.0	Chelatococcus sp. CO-6	Bacteria	25	26	26	1	0
+321.45	509.60	Gma_015582-T1	WP_142848676.1 / none	63.7	Telmatospirillum sp. J64-1	Bacteria	13	25	25	12	0
+321.20	508.80	Gma_002757-T1	WP_035608790.1 / none	57.6	Haloferula sp. BvORR071	Bacteria	8	25	25	6	0
+320.95	508.80	Gma_002012-T1	PDH31526.1 / none	55.4	Puniceicoccaceae bacterium MED-G30	Bacteria	19	25	25	6	0
+320.88	508.10	Gma_002562-T1	WP_051697937.1 / none	68.8	Prevotella sp. 10(H)	Bacteria	25	25	25	0	0
+319.80	506.50	Gma_015529-T1	WP_151681974.1 / none	67.2	unclassified Bacillus	Bacteria	24	25	25	1	0
+319.42	506.10	Gma_002651-T1	SUJ89032.1 / none	67.6	Sphingobacterium multivorum	Bacteria	21	25	25	4	0
+318.10	504.60	Gma_021336-T1	WP_169605273.1 / none	58.1	Mycoplasma sp. Phocoena C-264-GEN	Bacteria	22	24	25	2	0
+318.04	504.20	Gma_009090-T1	WP_038462282.1 / none	60.8	Candidatus Hepatoplasma crinochetorum	Bacteria	23	24	25	1	0
+316.50	501.90	Gma_003408-T1	WP_033069268.1 / none	61.9	Thalassospira australica	Bacteria	23	24	25	1	0
+315.27	500.70	Gma_001891-T1	WP_119986208.1 / none	58.6	Arachidicoccus soli	Bacteria	8	19	25	11	0
+315.19	500.40	Gma_003758-T1	VUI88172.1 / none	59.7	Stenotrophomonas maltophilia	Bacteria	22	25	25	3	0
+314.67	499.20	Gma_021860-T1	WP_025075191.1 / none	63.0	Bacteroides faecichinchillae	Bacteria	22	25	25	3	0
+313.49	497.70	Gma_003970-T1	WP_026627489.1 / none	68.4	Dysgonomonas capnocytophagoides	Bacteria	25	25	25	0	0
+310.67	493.40	Gma_002587-T1	WP_128293663.1 / none	69.8	Afifella aestuarii	Bacteria	19	24	25	5	0
+310.67	493.40	Gma_021779-T1	WP_184208373.1 / none	67.7	Prosthecobacter dejongeii	Bacteria	22	25	25	3	0
+309.78	492.70	Gma_003646-T1	WP_017773840.1 / none	69.8	Paraburkholderia kururiensis	Bacteria	22	24	25	2	0
+309.78	492.70	Gma_003671-T1	WP_017773840.1 / none	69.8	Paraburkholderia kururiensis	Bacteria	22	24	25	2	0
+307.55	489.20	Gma_010341-T1	WP_031370110.1 / none	61.2	Lysobacter antibioticus	Bacteria	23	25	25	2	0
+306.59	487.60	Gma_004098-T1	WP_137083477.1 / none	58.1	Puteibacter caeruleilacunae	Bacteria	24	24	25	0	0
+306.06	486.90	Gma_015602-T1	SUS05379.1 / none	63.5	uncultured Defluviicoccus sp.	Bacteria	16	25	25	9	0
+305.60	486.50	Gma_015598-T1	WP_120496565.1 / none	53.1	Kiloniella sp. EL199	Bacteria	23	25	25	2	0
+305.37	485.70	Gma_002679-T1	WP_060828064.1 / none	67.8	Tannerella forsythia	Bacteria	23	25	25	2	0
+303.35	483.40	Gma_004349-T1	SBW06451.1 / none	66.4	uncultured Dysgonomonas sp.	Bacteria	25	25	25	0	0
+303.25	483.00	Gma_008496-T1	WP_131613296.1 / none	56.2	Mycoplasma todarodis	Bacteria	22	23	25	1	0
+303.07	483.40	Gma_002261-T1	WP_158755874.1 / none	59.9	Dyella sp. S184	Bacteria	25	25	25	0	0
+302.81	483.40	Gma_001054-T1	WP_016338912.1 / none	39.1	Spiroplasma chrysopicola	Bacteria	25	25	25	0	0
+302.33	482.30	Gma_021164-T1	WP_169604929.1 / none	46.3	Mycoplasma sp. Phocoena C-264-GEN	Bacteria	23	25	25	2	0
+301.84	480.70	Gma_000402-T1	AXH76726.1 / none	67.5	Inoviridae sp.	Viruses	1	24	25	0	0
+301.54	480.30	Gma_003846-T1	AQS42189.1 / none	51.1	Candidatus Tokpelaia hoelldoblerii	Bacteria	25	25	25	0	0
+301.38	479.90	Gma_021715-T1	WP_136701028.1 / none	68.4	Azospirillum sp. TSA2s	Bacteria	25	25	25	0	0
+301.17	479.90	Gma_020055-T1	WP_095266640.1 / none	58.2	Paenibacillus	Bacteria	25	25	25	0	0
+300.72	479.20	Gma_003035-T1	TXI50608.1 / none	65.7	Lysobacter sp.	Bacteria	21	24	25	3	0
+299.83	478.80	Gma_004033-T1	WP_151662487.1 / none	53.5	Brucella intermedia	Bacteria	25	25	25	0	0
+299.42	477.20	Gma_021884-T1	WP_181051892.1 / none	64.5	Microvirga mediterraneensis	Bacteria	23	25	25	2	0
+299.34	477.20	Gma_000559-T1	WP_158731463.1 / none	56.3	Lysobacter sp. SYSU H10001	Bacteria	23	25	25	2	0
+298.00	476.50	Gma_003809-T1	WP_070425892.1 / none	64.8	Stenotrophomonas sp. LM091	Bacteria	25	25	25	0	0
+296.77	474.20	Gma_015552-T1	WP_175612634.1 / none	51.2	Fusobacterium mortiferum	Bacteria	25	25	25	0	0
+296.63	473.40	Gma_002048-T1	ONF75263.1 / none	59.7	Salmonella enterica subsp. enterica serovar Typhimurium	Bacteria	1	25	25	0	0
+295.93	472.20	Gma_002177-T1	GHB98104.1 / none	67.1	Thermomonas carbonis	Bacteria	22	25	25	3	0
+294.81	471.90	Gma_002001-T1	WP_173947450.1 / none	45.0	Microvirga sp. R24	Bacteria	23	25	25	2	0
+293.45	468.40	Gma_003955-T1	WP_037021077.1 / none	64.8	Rhizobiales bacterium YIM 77505	Bacteria	25	25	25	0	0
+292.78	468.40	Gma_003628-T1	WP_023463592.1 / none	57.7	Asticcacaulis sp. YBE204	Bacteria	6	25	25	0	0
+292.78	468.40	Gma_003653-T1	WP_023463592.1 / none	57.7	Asticcacaulis sp. YBE204	Bacteria	6	25	25	0	0
+291.74	466.50	Gma_002770-T1	GBL30018.1 / none	61.9	Opitutae bacterium	Bacteria	13	23	25	10	0
+289.17	463.40	Gma_015568-T1	CCZ22268.1 / none	52.8	Acetobacter sp. CAG:977	Bacteria	23	25	25	2	0
+289.10	462.60	Gma_021329-T1	WP_066226699.1 / none	53.3	Metabacillus fastidiosus	Bacteria	23	24	25	1	0
+288.84	461.80	Gma_021544-T1	WP_163175042.1 / none	68.8	Bacteroides sp. 51	Bacteria	22	24	25	2	0
+287.35	461.10	Gma_003397-T1	WP_157879077.1 / none	56.4	Pararhodospirillum photometricum	Bacteria	25	25	25	0	0
+287.18	459.50	Gma_021504-T1	WP_086541911.1 / none	64.9	Algoriphagus antarcticus	Bacteria	19	25	25	6	0
+285.26	456.40	Gma_003952-T1	KEJ87646.1 / none	69.0	Porphyromonas sp. 31_2	Bacteria	24	25	25	1	0
+284.42	456.80	Gma_002496-T1	WP_095597561.1 / none	54.6	Pseudomonas sp. PIC25	Bacteria	22	25	25	3	0
+283.53	454.50	Gma_003857-T1	WP_163219103.1 / none	54.3	Bacteroides sp. 224	Bacteria	22	25	25	3	0
+283.12	454.90	Gma_015574-T1	WP_168831544.1 / none	60.2	Rhizobium sp. P32RR-XVIII	Bacteria	25	25	25	0	0
+281.76	452.20	Gma_015566-T1	OIN86615.1 / none	60.5	Alphaproteobacteria bacterium CG1_02_46_17	Bacteria	15	25	25	9	0
+281.19	451.10	Gma_002078-T1	VUK04466.1 / none	55.4	Stenotrophomonas maltophilia	Bacteria	25	25	25	0	0
+280.73	450.30	Gma_002649-T1	WP_183305768.1 / none	54.5	Dysgonomonas hofstadii	Bacteria	24	25	25	1	0
+279.33	449.90	Gma_002835-T1	WP_132383987.1 / none	46.6	Paraburkholderia sp. BL9I2N2	Bacteria	24	25	25	1	0
+279.23	448.70	Gma_008515-T1	WP_117795699.1 / none	40.3	Phocaeicola	Bacteria	22	25	25	3	0
+278.85	448.00	Gma_001956-T1	WP_116383813.1 / none	49.0	Cupriavidus taiwanensis	Bacteria	20	22	25	2	0
+278.61	447.60	Gma_002452-T1	WP_185677331.1 / none	62.5	Ruficoccus amylovorans	Bacteria	14	25	25	11	0
+278.21	446.80	Gma_006350-T1	WP_123771517.1 / none	69.6	Vulcaniibacterium tengchongense	Bacteria	25	25	25	0	0
+277.74	446.40	Gma_004492-T1	GBU06780.1 / none	44.2	Bacteroidales bacterium	Bacteria	24	25	25	1	0
+277.04	445.30	Gma_005536-T1	WP_109263442.1 / none	48.8	Marinilabilia rubra	Bacteria	18	25	25	7	0
+276.84	444.90	Gma_002450-T1	TAF18473.1 / none	57.9	Verrucomicrobia bacterium	Bacteria	15	24	25	9	0
+275.35	442.20	Gma_002773-T1	WP_104384507.1 / none	67.7	Sphingobacterium sp. HMA12	Bacteria	24	25	25	1	0
+273.27	440.70	Gma_002225-T1	WP_048622569.1 / none	42.8	Bacillus smithii	Bacteria	22	25	25	3	0
+273.05	439.10	Gma_003587-T1	WP_073400511.1 / none	60.2	Bacteroides luti	Bacteria	19	25	25	6	0
+269.98	435.30	Gma_021592-T1	GBU08737.1 / none	58.6	Bacteroidales bacterium	Bacteria	24	25	25	1	0
+266.14	429.50	Gma_002779-T1	WP_185677042.1 / none	50.8	Ruficoccus amylovorans	Bacteria	18	25	25	7	0
+266.14	429.10	Gma_021894-T1	WP_185711909.1 / none	64.6	Tannerella forsythia	Bacteria	25	25	25	0	0
+265.82	429.10	Gma_002342-T1	RLD54018.1 / none	50.0	Bacteroidetes bacterium	Bacteria	11	19	25	8	0
+265.76	428.70	Gma_002975-T1	WP_158982408.1 / none	59.8	Lysobacter panacisoli	Bacteria	24	25	25	1	0
+263.54	425.60	Gma_015557-T1	WP_012018972.1 / none	50.5	Pseudomonas mendocina	Bacteria	24	25	25	1	0
+263.44	425.20	Gma_021335-T1	WP_134112515.1 / none	61.1	Hypnocyclicus thermotrophus	Bacteria	23	24	25	1	0
+262.87	424.50	Gma_008134-T1	WP_165305376.1 / none	57.8	Sphingobacterium sp. DR205	Bacteria	23	25	25	2	0
+262.82	424.10	Gma_000080-T1	WP_163271903.1 / none	68.9	Dysgonomonas sp. 511	Bacteria	18	25	25	7	0
+261.30	422.20	Gma_004487-T1	PWM31170.1 / none	65.0	Verrucomicrobia bacterium	Bacteria	18	25	25	7	0
+260.91	422.50	Gma_001953-T1	PZN17127.1 / none	39.9	Proteobacteria bacterium	Bacteria	20	25	25	5	0
+260.64	421.40	Gma_002563-T1	WP_185674028.1 / none	55.2	Ruficoccus amylovorans	Bacteria	15	25	25	10	0
+258.78	421.00	Gma_002484-T1	WP_175109524.1 / none	39.9	Paraburkholderia solisilvae	Bacteria	21	24	26	3	0
+257.89	416.80	Gma_002698-T1	RQP19950.1 / none	67.6	Parapedobacter sp.	Bacteria	23	25	25	2	0
+256.86	415.60	Gma_002738-T1	WP_045089083.1 / none	65.3	Fermentimonas caenicola	Bacteria	19	25	25	6	0
+255.90	415.20	Gma_004218-T1	GBL27213.1 / none	64.4	Verrucomicrobia bacterium	Bacteria	13	25	25	12	0
+255.62	413.70	Gma_002878-T1	OHB64851.1 / none	66.8	Planctomycetes bacterium RBG_13_60_9	Bacteria	16	25	25	9	0
+255.59	413.70	Gma_001868-T1	VUO18005.1 / none	65.8	Stenotrophomonas maltophilia	Bacteria	25	25	25	0	0
+254.11	411.80	Gma_004023-T1	WP_009860561.1 / none	61.8	Parabacteroides goldsteinii	Bacteria	23	24	25	1	0
+253.81	411.40	Gma_002643-T1	TSA31936.1 / none	54.9	Opitutales bacterium	Bacteria	13	24	25	11	0
+253.67	411.00	Gma_011712-T1	TFU91379.1 / none	66.3	Dysgonomonas mossii	Bacteria	25	25	25	0	0
+253.57	411.80	Gma_001040-T1	CCY47164.1 / none	38.4	Firmicutes bacterium CAG:822	Bacteria	25	25	25	0	0
+253.51	412.10	Gma_003056-T1	WP_034206878.1 / none	58.4	Burkholderia cepacia	Bacteria	25	25	25	0	0
+253.42	411.40	Gma_003811-T1	WP_070425893.1 / none	61.6	Stenotrophomonas sp. LM091	Bacteria	24	25	25	1	0
+252.59	409.10	Gma_004397-T1	WP_158732727.1 / none	68.3	Lysobacter sp. SYSU H10001	Bacteria	24	25	25	1	0
+250.98	407.50	Gma_002724-T1	WP_050998532.1 / none	45.1	Actinomyces naeslundii	Bacteria	22	25	25	3	0
+250.89	407.50	Gma_002828-T1	WP_151200940.1 / none	47.4	Hafnia alvei	Bacteria	21	24	25	3	0
+250.89	408.70	Gma_021681-T1	PKN05683.1 / none	39.8	Deltaproteobacteria bacterium HGW-Deltaproteobacteria-9	Bacteria	8	25	25	17	0
+250.39	407.10	Gma_007968-T1	WP_104984661.1 / none	39.0	Sorangium cellulosum	Bacteria	23	25	25	2	0
+250.39	407.10	Gma_007968-T2	WP_104984661.1 / none	39.0	Sorangium cellulosum	Bacteria	23	25	25	2	0
+248.68	404.10	Gma_004680-T1	WP_158982392.1 / none	62.2	Lysobacter panacisoli	Bacteria	24	25	25	1	0
+248.09	402.90	Gma_000112-T1	WP_036230461.1 / none	67.9	unclassified Methylibium	Bacteria	21	25	25	4	0
+247.61	402.10	Gma_002879-T1	WP_121735506.1 / none	67.1	Parabacteroides distasonis	Bacteria	24	25	25	1	0
+247.52	402.90	Gma_003642-T1	TXH42761.1 / none	56.8	Desulfurellales bacterium	Bacteria	8	25	25	2	0
+247.52	402.90	Gma_003667-T1	TXH42761.1 / none	56.8	Desulfurellales bacterium	Bacteria	8	25	25	2	0
+247.40	401.70	Gma_010638-T1	GBU06872.1 / none	67.5	Bacteroidales bacterium	Bacteria	23	25	25	2	0
+247.29	401.70	Gma_020509-T1	DAA96578.1 / none	64.2	Candidatus Gastranaerophilales bacterium HUM_9	Bacteria	21	25	25	4	0
+246.79	401.00	Gma_002880-T1	WP_114770641.1 / none	68.6	Microvirga	Bacteria	25	25	25	0	0
+246.64	402.10	Gma_004501-T1	OJW48193.1 / none	65.3	Candidatus Accumulibacter sp. 66-26	Bacteria	24	25	25	1	0
+246.52	401.00	Gma_010943-T1	WP_173158986.1 / none	52.2	Phytohabitans suffuscus	Bacteria	24	24	25	0	0
+246.11	401.40	Gma_001894-T1	WP_083241508.1 / none	37.1	Methyloceanibacter stevinii	Bacteria	25	25	25	0	0
+245.85	399.80	Gma_008634-T1	WP_091704786.1 / none	60.3	Anoxybacillus pushchinoensis	Bacteria	23	25	25	2	0
+244.57	397.90	Gma_002722-T1	AWT59931.1 / none	67.5	Candidatus Moanabacter tarae	Bacteria	21	25	25	4	0
+243.89	397.10	Gma_002601-T1	WP_112665888.1 / none	56.4	Rhizobiales bacterium	Bacteria	25	25	25	0	0
+242.01	395.60	Gma_003566-T1	WP_096377799.1 / none	47.6	Lysobacter enzymogenes	Bacteria	24	25	25	1	0
+240.64	392.50	Gma_004169-T1	WP_074783419.1 / none	50.2	Bacteroidales	Bacteria	25	25	25	0	0
+240.27	391.70	Gma_003972-T1	WP_122276863.1 / none	60.4	Parabacteroides sp. AM08-6	Bacteria	23	25	25	2	0
+239.37	390.60	Gma_002228-T1	WP_048925173.1 / none	61.9	Coprobacillus sp. 8_1_38FAA	Bacteria	25	25	25	0	0
+239.00	389.80	Gma_002697-T1	WP_163628979.1 / none	66.2	Paludibacter sp. 221	Bacteria	18	25	25	7	0
+239.00	389.80	Gma_021828-T1	OFX54695.1 / none	60.6	Bacteroidetes bacterium GWC2_46_850	Bacteria	22	24	25	2	0
+238.94	391.30	Gma_001041-T1	WP_070406444.1 / none	51.7	unclassified Spiroplasma	Bacteria	23	24	25	1	0
+237.68	389.00	Gma_002298-T1	WP_184602357.1 / none	41.6	Rhodanobacter sp. MP1X3	Bacteria	25	25	25	0	0
+236.76	386.30	Gma_002193-T1	TVT51293.1 / none	68.6	Denitromonas halophilus	Bacteria	22	25	25	3	0
+234.33	383.60	Gma_015531-T1	RIK84492.1 / none	69.8	Rhizobiales bacterium	Bacteria	25	25	25	0	0
+233.99	382.50	Gma_002581-T1	GAP71750.1 / none	56.5	Candidatus Symbiothrix dinenymphae	Bacteria	21	25	25	4	0
+232.99	381.70	Gma_004414-T1	WP_079969354.1 / none	47.9	Salmonella enterica	Bacteria	7	19	25	12	0
+232.30	380.90	Gma_003463-T1	WP_162615277.1 / none	39.5	Saezia sanguinis	Bacteria	24	25	25	1	0
+231.87	380.20	Gma_006539-T1	WP_128152486.1 / none	57.6	Apibacter raozihei	Bacteria	22	25	25	3	0
+231.82	379.40	Gma_002565-T1	WP_084406923.1 / none	66.3	Pedobacter panaciterrae	Bacteria	23	25	25	2	0
+231.28	379.00	Gma_006335-T1	WP_185675778.1 / none	69.5	Ruficoccus amylovorans	Bacteria	17	25	25	8	0
+231.23	378.60	Gma_002848-T1	WP_158984958.1 / none	63.7	Lysobacter panacisoli	Bacteria	23	25	25	2	0
+231.15	379.00	Gma_001910-T1	GBU07233.1 / none	44.7	Bacteroidales bacterium	Bacteria	21	25	25	4	0
+231.15	378.60	Gma_015532-T1	WP_174757386.1 / none	55.7	Azospirillum	Bacteria	21	25	25	4	0
+230.56	377.90	Gma_002795-T1	WP_185677317.1 / none	64.6	Ruficoccus amylovorans	Bacteria	18	25	25	7	0
+229.27	375.90	Gma_002660-T1	OAM87533.1 / none	56.0	Opitutaceae bacterium TSB47	Bacteria	13	25	25	12	0
+229.01	375.90	Gma_002376-T1	WP_181303237.1 / none	58.6	Rhodanobacter sp. PCA2	Bacteria	24	25	25	1	0
+228.08	374.40	Gma_018049-T1	WP_143019675.1 / none	56.8	Niabella drilacis	Bacteria	16	23	25	7	0
+227.62	373.60	Gma_003535-T1	WP_106892827.1 / none	55.7	Ahniella affigens	Bacteria	24	25	25	1	0
+227.21	373.20	Gma_002702-T1	WP_019615645.1 / none	47.5	Psychromonas ossibalaenae	Bacteria	10	18	25	8	0
+227.12	372.90	Gma_003240-T1	WP_177723539.1 / none	57.0	Clostridia bacterium	Bacteria	24	25	25	1	0
+226.67	372.10	Gma_002782-T1	WP_187576687.1 / none	51.6	Parabacteroides faecis	Bacteria	21	25	25	4	0
+225.95	371.30	Gma_020471-T1	CEA05903.1 / none	52.0	Metalysinibacillus saudimassiliensis	Bacteria	23	25	25	2	0
+225.56	370.50	Gma_005797-T1	WP_006798967.1 / none	55.1	Dysgonomonas gadei	Bacteria	25	25	25	0	0
+225.07	369.80	Gma_000083-T1	WP_040613634.1 / none	62.3	Roseomonas cervicalis	Bacteria	25	25	25	0	0
+224.91	369.40	Gma_002641-T1	GBU07795.1 / none	59.2	Bacteroidales bacterium	Bacteria	20	25	25	5	0
+224.86	369.40	Gma_003959-T1	PNE29755.1 / none	54.4	Tannerella sp. oral taxon 808	Bacteria	25	25	25	0	0
+224.52	369.00	Gma_003439-T1	OUX44425.1 / none	57.0	Rhodobacterales bacterium TMED271	Bacteria	24	25	25	1	0
+224.37	369.40	Gma_003053-T1	WP_057944502.1 / none	51.8	Lysobacter gummosus	Bacteria	25	25	25	0	0
+223.93	368.60	Gma_015579-T1	WP_085783826.1 / none	45.1	Candidatus Nucleicultrix amoebiphila	Bacteria	15	25	25	10	0
+223.71	368.20	Gma_020580-T1	WP_051175929.1 / none	59.5	Luteimonas mephitis	Bacteria	25	25	25	0	0
+222.76	367.50	Gma_015556-T1	WP_091539822.1 / none	67.0	Alkaliphilus peptidifermentans	Bacteria	18	25	25	7	0
+222.56	366.30	Gma_021851-T1	ATC66162.1 / none	55.0	Nibricoccus aquaticus	Bacteria	15	25	25	10	0
+222.40	366.30	Gma_000324-T1	WP_053946434.1 / none	49.8	Spiroplasma cantharicola	Bacteria	21	25	25	4	0
+221.53	364.80	Gma_002590-T1	KAA6301521.1 / none	55.9	Bacteroidales bacterium St1	Bacteria	24	25	25	1	0
+220.95	364.00	Gma_015546-T1	WP_018702627.1 / none	56.5	Sporomusaceae	Bacteria	23	25	25	2	0
+219.44	362.10	Gma_002591-T1	OQA58222.1 / none	45.9	Candidatus Omnitrophica bacterium ADurb.Bin277	Bacteria	17	25	25	8	0
+219.10	361.70	Gma_000354-T1	WP_006785133.1 / none	45.4	Turicibacter	Bacteria	14	24	25	10	0
+218.28	360.50	Gma_016078-T1	PYV61869.1 / none	40.2	Acidobacteria bacterium	Bacteria	24	25	25	1	0
+217.49	358.60	Gma_004413-T1	WP_119260257.1 / none	63.9	cyanobacterium endosymbiont of Rhopalodia gibberula	Bacteria	19	25	25	6	0
+217.44	358.60	Gma_000088-T1	WP_068771580.1 / none	61.5	Opitutaceae bacterium TSB47	Bacteria	15	25	25	10	0
+216.26	357.50	Gma_002871-T1	RQW01815.1 / none	45.7	candidate division KSB1 bacterium	Bacteria	14	25	25	11	0
+215.19	356.70	Gma_001874-T1	RMH87544.1 / none	39.9	Lysobacter pythonis	Bacteria	24	25	25	1	0
+215.03	355.10	Gma_021396-T1	WP_123275978.1 / none	58.3	Chryseobacterium sp. G0240	Bacteria	24	25	25	1	0
+214.76	354.80	Gma_021889-T1	WP_006801392.1 / none	60.4	Dysgonomonas gadei	Bacteria	25	25	25	0	0
+214.47	355.10	Gma_004109-T1	WP_131658578.1 / none	53.7	Pseudoxanthomonas sp. NML171590	Bacteria	23	25	25	2	0
+213.61	353.20	Gma_003407-T1	OHC74820.1 / none	54.7	Rhodospirillales bacterium RIFCSPLOWO2_02_FULL_58_16	Bacteria	12	25	25	13	0
+213.55	353.20	Gma_002357-T1	WP_082121014.1 / none	49.5	Dyella japonica	Bacteria	24	25	25	1	0
+212.61	352.10	Gma_021325-T1	WP_125164735.1 / none	67.5	Erysipelothrix	Bacteria	25	25	25	0	0
+211.84	350.90	Gma_002217-T1	ODU31369.1 / none	57.4	Xanthomonadaceae bacterium SCN 69-320	Bacteria	25	25	25	0	0
+210.43	348.60	Gma_002633-T1	WP_069960404.1 / none	55.3	Lacunisphaera limnophila	Bacteria	17	25	25	8	0
+210.17	348.60	Gma_004348-T1	WP_146267610.1 / none	67.3	unclassified Bacteroidaceae	Bacteria	15	25	25	10	0
+209.70	347.40	Gma_004201-T1	WP_071147619.1 / none	66.5	Bacteroides ihuae	Bacteria	22	24	25	2	0
+209.60	347.10	Gma_002611-T1	WP_029006858.1 / none	69.2	Azospirillum halopraeferens	Bacteria	25	25	25	0	0
+209.44	346.70	Gma_004370-T1	WP_158733552.1 / none	52.9	Lysobacter sp. SYSU H10001	Bacteria	24	25	25	1	0
+206.49	343.60	Gma_007968-T3	WP_104984661.1 / none	38.0	Sorangium cellulosum	Bacteria	23	25	25	2	0
+206.49	342.80	Gma_010500-T1	WP_073269867.1 / none	57.8	Alkalibacter saccharofermentans	Bacteria	22	25	25	3	0
+206.49	342.80	Gma_021303-T1	WP_073269867.1 / none	57.8	Alkalibacter saccharofermentans	Bacteria	22	25	25	3	0
+206.40	342.80	Gma_003125-T1	WP_167390415.1 / none	50.9	Stenotrophomonas bentonitica	Bacteria	23	25	25	2	0
+206.36	342.80	Gma_003244-T1	WP_178142485.1 / none	54.0	Bacilli bacterium	Bacteria	24	25	25	1	0
+206.36	342.80	Gma_007064-T1	WP_110888723.1 / none	52.5	Deinococcus yavapaiensis	Bacteria	24	25	25	1	0
+206.24	342.80	Gma_002120-T1	RYD74392.1 / none	64.4	Verrucomicrobiaceae bacterium	Bacteria	24	25	25	1	0
+204.83	340.50	Gma_000561-T1	SBV91465.1 / none	61.3	uncultured Dysgonomonas sp.	Bacteria	25	25	25	0	0
+204.10	339.30	Gma_000078-T1	RKX32555.1 / none	61.0	Verrucomicrobia bacterium	Bacteria	15	25	25	10	0
+203.87	339.00	Gma_002725-T1	WP_087329546.1 / none	55.1	Parabacteroides sp. An277	Bacteria	22	25	25	3	0
+203.24	338.60	Gma_004360-T1	WP_078759155.1 / none	53.5	Lysobacter spongiicola	Bacteria	24	25	25	1	0
+203.16	338.20	Gma_015555-T1	WP_047384867.1 / none	54.9	Cetobacterium sp. ZWU0022	Bacteria	23	25	25	2	0
+203.12	338.60	Gma_015567-T1	WP_105191508.1 / none	42.9	Amnimonas aquatica	Bacteria	21	25	25	4	0
+202.64	337.80	Gma_009113-T1	WP_089111447.1 / none	49.4	Xanthomonas citri	Bacteria	25	25	25	0	0
+202.16	336.30	Gma_006366-T1	WP_183336405.1 / none	68.2	Chelatococcus composti	Bacteria	23	25	25	2	0
+201.93	336.30	Gma_020676-T1	WP_090017580.1 / none	59.2	Lachnospiraceae bacterium XBB1006	Bacteria	22	25	25	3	0
+200.77	334.30	Gma_013516-T1	WP_162666689.1 / none	67.4	Gemmata massiliana	Bacteria	17	25	25	8	0
+200.14	334.70	Gma_002499-T1	WP_057646036.1 / none	47.5	Stenotrophomonas panacihumi	Bacteria	24	25	25	1	0
+199.92	333.60	Gma_001051-T1	WP_020836187.1 / none	50.0	Spiroplasma diminutum	Bacteria	24	25	25	1	0
+199.63	332.80	Gma_002963-T1	WP_158982822.1 / none	61.3	Lysobacter panacisoli	Bacteria	23	25	25	2	0
+199.63	332.80	Gma_003879-T1	GBL29390.1 / none	61.0	Opitutae bacterium	Bacteria	12	22	25	10	0
+199.58	332.80	Gma_004017-T1	WP_108060607.1 / none	61.0	Spartobacteria bacterium LR76	Bacteria	18	25	25	7	0
+199.37	332.40	Gma_006471-T1	WP_163176788.1 / none	63.5	Bacteroides sp. 51	Bacteria	23	25	25	2	0
+198.94	332.00	Gma_002892-T1	OAM91261.1 / none	69.1	Opitutaceae bacterium TSB47	Bacteria	25	25	25	0	0
+198.78	333.20	Gma_003638-T1	TXH48638.1 / none	42.0	Desulfurellales bacterium	Bacteria	17	25	25	8	0
+198.78	333.20	Gma_003663-T1	TXH48638.1 / none	42.0	Desulfurellales bacterium	Bacteria	17	25	25	8	0
+198.21	333.20	Gma_002485-T1	WP_187055889.1 / none	65.0	Dyella sp. G9	Bacteria	24	25	25	1	0
+197.76	331.30	Gma_002446-T1	WP_188702912.1 / none	43.4	Silvimonas iriomotensis	Bacteria	25	25	25	0	0
+197.49	329.70	Gma_000544-T1	WP_009512469.1 / none	66.2	Opitutaceae bacterium TAV5	Bacteria	24	25	25	1	0
+197.28	329.30	Gma_000096-T1	WP_102407285.1 / none	66.4	Parabacteroides bouchesdurhonensis	Bacteria	25	25	25	0	0
+196.69	328.20	Gma_002356-T1	WP_075559094.1 / none	69.7	Parabacteroides timonensis	Bacteria	23	24	25	1	0
+196.21	328.20	Gma_004183-T1	WP_185676065.1 / none	61.4	Ruficoccus amylovorans	Bacteria	13	24	25	11	0
+196.11	327.80	Gma_020770-T1	WP_096862705.1 / none	58.0	Mesoplasma lactucae	Bacteria	24	24	25	0	0
+195.80	327.40	Gma_002919-T1	WP_191615679.1 / none	60.3	Pelagicoccus sp. NFK12	Bacteria	12	25	25	13	0
+195.38	326.60	Gma_002695-T1	WP_060828067.1 / none	62.7	Tannerella forsythia	Bacteria	8	8	8	0	0
+195.19	327.00	Gma_007456-T1	WP_057949616.1 / none	64.8	Lysobacter enzymogenes	Bacteria	24	25	25	1	0
+195.13	326.60	Gma_000347-T1	WP_110888723.1 / none	50.3	Deinococcus yavapaiensis	Bacteria	24	25	25	1	0
+194.93	326.60	Gma_002121-T1	WP_166669751.1 / none	50.7	Rhodanobacter sp. TND4FH1	Bacteria	6	25	25	0	0
+194.69	326.20	Gma_002723-T1	WP_062183522.1 / none	41.0	Dysgonomonas macrotermitis	Bacteria	18	25	25	7	0
+194.38	326.20	Gma_021168-T1	CDA80451.1 / none	38.5	Clostridium sp. CAG:594	Bacteria	21	24	25	3	0
+193.50	324.30	Gma_002875-T1	WP_052573053.1 / none	48.6	Haloferula sp. BvORR071	Bacteria	13	25	25	12	0
+193.23	323.60	Gma_000086-T1	WP_149821112.1 / none	62.4	Salinarimonas sp. BN140002	Bacteria	24	25	25	1	0
+191.94	321.60	Gma_002806-T1	WP_122351492.1 / none	59.4	Parabacteroides	Bacteria	24	25	25	1	0
+191.50	321.20	Gma_003703-T1	WP_171008108.1 / none	66.7	Xanthomonadaceae bacterium P	Bacteria	25	25	25	0	0
+190.16	319.30	Gma_004184-T1	WP_189513032.1 / none	63.8	Cerasicoccus arenae	Bacteria	14	24	25	10	0
+189.36	318.50	Gma_003389-T1	WP_045441662.1 / none	44.5	Tepidicaulis marinus	Bacteria	25	25	25	0	0
+189.27	318.50	Gma_000316-T1	WP_036452675.1 / none	39.2	Mycoplasma iowae	Bacteria	23	25	25	2	0
+189.18	319.30	Gma_008636-T1	WP_093046282.1 / none	61.0	Thalassobacillus cyri	Bacteria	25	25	25	0	0
+188.85	317.00	Gma_001944-T1	RQP19480.1 / none	64.0	Parapedobacter sp.	Bacteria	24	25	25	1	0
+187.62	315.50	Gma_006517-T1	WP_012377123.1 / none	56.8	Opitutus terrae	Bacteria	22	25	25	3	0
+185.82	313.50	Gma_002904-T1	WP_149670450.1 / none	63.0	Paraburkholderia sp. DCY113	Bacteria	25	25	25	0	0
+185.68	314.30	Gma_015558-T1	PKN64226.1 / none	50.3	Deltaproteobacteria bacterium HGW-Deltaproteobacteria-15	Bacteria	23	24	25	1	0
+185.15	312.40	Gma_021883-T1	WP_189517343.1 / none	45.4	Cerasicoccus arenae	Bacteria	13	25	25	12	0
+184.86	311.20	Gma_003289-T1	WP_162666689.1 / none	68.7	Gemmata massiliana	Bacteria	16	25	25	9	0
+184.68	311.20	Gma_001994-T1	WP_094777931.1 / none	61.6	Paraburkholderia ribeironis	Bacteria	25	25	25	0	0
+183.62	310.50	Gma_008326-T1	WP_075300609.1 / none	46.6	Burkholderia sp. SRS-W-2-2016	Bacteria	25	25	25	0	0
+183.56	309.70	Gma_002558-T1	WP_151057879.1 / none	59.1	Cellvibrio sp. KY-YJ-3	Bacteria	10	22	25	12	0
+183.29	309.70	Gma_002794-T1	AGK57629.1 / none	48.1	Hyphomicrobium denitrificans 1NES1	Bacteria	22	25	25	3	0
+183.08	310.10	Gma_000353-T1	WP_004803738.1 / none	44.6	Eggerthia catenaformis	Bacteria	22	25	25	3	0
+182.77	308.50	Gma_002416-T1	WP_158733806.1 / none	67.4	Lysobacter sp. SYSU H10001	Bacteria	24	25	25	1	0
+181.72	307.00	Gma_001999-T1	WP_055459967.1 / none	68.8	Chelatococcus sambhunathii	Bacteria	22	25	25	3	0
+181.72	307.40	Gma_021742-T1	WP_157028989.1 / none	52.8	Lysobacter soli	Bacteria	25	25	25	0	0
+181.64	307.80	Gma_003730-T1	WP_158731190.1 / none	64.7	Lysobacter sp. SYSU H10001	Bacteria	23	25	25	2	0
+181.64	307.00	Gma_004053-T1	ALN59865.1 / none	62.5	Lysobacter enzymogenes	Bacteria	24	25	25	1	0
+181.12	306.20	Gma_002571-T1	WP_109122284.1 / none	54.9	Azospirillum sp. TSO22-1	Bacteria	24	25	25	1	0
+180.65	306.20	Gma_019871-T1	WP_070407043.1 / none	50.2	unclassified Spiroplasma	Bacteria	24	25	25	1	0
+180.36	305.10	Gma_021850-T1	WP_084738443.1 / none	53.2	Pseudomonas putida	Bacteria	24	24	25	0	0
+180.29	306.20	Gma_000317-T1	WP_000508137.1 / none	38.2	Leptospira interrogans	Bacteria	25	25	25	0	0
+180.20	306.20	Gma_003852-T1	PYI96824.1 / none	39.1	Verrucomicrobia bacterium	Bacteria	24	25	25	1	0
+180.02	304.70	Gma_002687-T1	WP_176930551.1 / none	47.0	Clostridia bacterium	Bacteria	25	25	25	0	0
+179.13	303.10	Gma_004485-T1	GBL29534.1 / none	58.1	Opitutae bacterium	Bacteria	15	24	25	9	0
+178.96	303.10	Gma_002730-T1	WP_138088087.1 / none	55.4	Phragmitibacter flavus	Bacteria	25	25	25	0	0
+178.96	303.10	Gma_004168-T1	WP_165025918.1 / none	51.6	unclassified Dysgonomonas	Bacteria	20	25	25	5	0
+178.96	303.10	Gma_004316-T1	WP_103788727.1 / none	56.5	Solitalea longa	Bacteria	19	25	25	6	0
+178.29	302.00	Gma_006499-T1	WP_171829664.1 / none	60.2	Klebsiella aerogenes	Bacteria	25	25	25	0	0
+178.22	302.80	Gma_003633-T1	WP_171585780.1 / none	34.9	unclassified Roseobacter	Bacteria	3	24	25	0	0
+178.22	302.80	Gma_003658-T1	WP_171585780.1 / none	34.9	unclassified Roseobacter	Bacteria	3	24	25	0	0
+177.81	302.00	Gma_001034-T1	WP_016338944.1 / none	40.4	Spiroplasma chrysopicola	Bacteria	25	25	25	0	0
+177.20	301.20	Gma_010463-T1	PJB55081.1 / none	40.8	Bacteroidetes bacterium CG_4_9_14_3_um_filter_41_19	Bacteria	14	22	25	8	0
+176.34	300.10	Gma_004285-T1	TAF18153.1 / none	64.5	Verrucomicrobia bacterium	Bacteria	14	24	25	10	0
+176.27	299.30	Gma_002678-T1	WP_144230795.1 / none	53.2	Rariglobus hedericola	Bacteria	11	25	25	14	0
+175.96	298.50	Gma_002746-T1	GBU07070.1 / none	58.8	Bacteroidales bacterium	Bacteria	25	25	25	0	0
+175.00	297.00	Gma_003965-T1	OKZ27009.1 / none	65.0	Bacteroides sp. 43_108	Bacteria	22	25	25	3	0
+174.53	297.40	Gma_004310-T1	WP_182422833.1 / none	53.0	Bacteroides uniformis	Bacteria	24	25	25	1	0
+174.16	296.60	Gma_004264-T1	WP_186930498.1 / none	63.0	Parabacteroides sp. N37	Bacteria	23	25	25	2	0
+172.81	294.70	Gma_002670-T1	PAZ02311.1 / none	46.6	Opitutae bacterium AMD-G3	Bacteria	13	24	25	11	0
+172.43	293.50	Gma_004317-T1	WP_103788727.1 / none	59.9	Solitalea longa	Bacteria	19	25	25	6	0
+171.63	292.00	Gma_002645-T1	GBU07659.1 / none	64.9	Bacteroidales bacterium	Bacteria	23	25	25	2	0
+171.44	293.10	Gma_004132-T1	WP_057649203.1 / none	44.4	Stenotrophomonas panacihumi	Bacteria	25	25	25	0	0
+170.97	292.40	Gma_015564-T1	WP_091543876.1 / none	65.8	Alkaliphilus peptidifermentans	Bacteria	23	25	25	2	0
+170.63	290.80	Gma_015545-T1	PLX29943.1 / none	62.0	Alphaproteobacteria bacterium	Bacteria	15	25	25	10	0
+170.49	291.20	Gma_001052-T1	WP_134298374.1 / none	44.2	Spiroplasma gladiatoris	Bacteria	24	24	25	0	0
+170.30	290.40	Gma_002748-T1	WP_068186580.1 / none	67.2	Macellibacteroides sp. HH-ZS	Bacteria	23	25	25	2	0
+169.75	289.70	Gma_021476-T1	WP_106891816.1 / none	58.8	Ahniella affigens	Bacteria	10	25	25	1	0
+168.65	288.10	Gma_000578-T1	WP_057964311.1 / none	55.4	Mycobacteroides	Bacteria	21	25	25	4	0
+167.62	287.30	Gma_000400-T1	WP_025161210.1 / none	61.1	Sphingobium	Bacteria	25	25	25	0	0
+167.45	286.20	Gma_006593-T1	WP_008313711.1 / none	56.9	Leptolyngbya sp. PCC 6406	Bacteria	17	25	25	8	0
+166.86	285.40	Gma_021896-T1	WP_108825925.1 / none	68.7	Ereboglobus luteus	Bacteria	9	25	25	16	0
+166.03	283.90	Gma_002803-T1	GBU08452.1 / none	65.5	Bacteroidales bacterium	Bacteria	25	25	25	0	0
+165.52	283.10	Gma_003994-T1	WP_163724496.1 / none	69.6	Parabacteroides sp. 52	Bacteria	23	25	25	2	0
+164.91	283.90	Gma_003637-T1	TXH48641.1 / none	41.6	Desulfurellales bacterium	Bacteria	4	25	25	4	0
+164.91	283.90	Gma_003662-T1	TXH48641.1 / none	41.6	Desulfurellales bacterium	Bacteria	4	25	25	4	0
+164.53	282.30	Gma_002948-T1	PBS11359.1 / none	61.9	Xanthomonadaceae bacterium NML93-0792	Bacteria	24	25	25	1	0
+164.24	282.30	Gma_021337-T1	WP_016340276.1 / none	57.3	Spiroplasma syrphidicola	Bacteria	25	25	25	0	0
+163.69	282.00	Gma_002876-T1	PNC30760.1 / none	36.8	Akkermansia muciniphila	Bacteria	23	25	25	2	0
+163.22	280.80	Gma_002553-T1	WP_130316902.1 / none	44.7	Stenotrophomonas sp. BK441	Bacteria	24	25	25	1	0
+162.29	279.30	Gma_004452-T1	WP_129610833.1 / none	40.9	Rhodoplanes piscinae	Bacteria	24	25	25	1	0
+160.78	276.60	Gma_021324-T1	BCJ88599.1 / none	60.1	Effusibacillus sp. skT53	Bacteria	25	25	25	0	0
+160.02	275.40	Gma_003239-T1	WP_025208914.1 / none	68.9	Candidatus Hepatoplasma crinochetorum	Bacteria	18	25	25	7	0
+159.85	275.40	Gma_002031-T1	KAF1728806.1 / none	67.9	Pseudoxanthomonas mexicana	Bacteria	24	25	25	1	0
+159.51	275.00	Gma_003915-T1	WP_108039531.1 / none	49.2	Verrucomicrobia bacterium LW23	Bacteria	23	23	25	0	0
+158.88	274.60	Gma_020760-T1	KPC97390.1 / none	36.4	Geobacillus sp. BCO2	Bacteria	21	24	25	3	0
+157.81	271.90	Gma_004475-T1	SEG15130.1 / none	56.9	Parabacteroides chinchillae	Bacteria	23	25	25	2	0
+157.78	273.10	Gma_002451-T1	PYJ60911.1 / none	38.9	Verrucomicrobia bacterium	Bacteria	13	25	25	12	0
+157.44	271.90	Gma_021881-T1	GBU07049.1 / none	51.4	Bacteroidales bacterium	Bacteria	23	25	25	2	0
+156.95	270.80	Gma_002768-T1	GBL30401.1 / none	67.3	Opitutae bacterium	Bacteria	15	25	25	10	0
+156.48	270.80	Gma_001053-T1	WP_047791953.1 / none	43.6	Spiroplasma eriocheiris	Bacteria	24	24	25	0	0
+156.39	270.80	Gma_003595-T1	WP_123770056.1 / none	67.3	Vulcaniibacterium tengchongense	Bacteria	24	25	25	1	0
+156.05	269.60	Gma_003810-T1	WP_083279798.1 / none	63.8	Stenotrophomonas sp. LM091	Bacteria	25	25	25	0	0
+155.93	270.00	Gma_002010-T1	WP_106891858.1 / none	47.1	Ahniella affigens	Bacteria	24	25	25	1	0
+155.79	269.60	Gma_021848-T1	WP_163318971.1 / none	47.5	Dysgonomonas sp. 520	Bacteria	16	25	25	9	0
+155.29	268.90	Gma_002897-T1	WP_007360556.1 / none	52.1	Opitutaceae bacterium TAV1	Bacteria	16	25	25	9	0
+155.03	267.70	Gma_005816-T1	WP_085534990.1 / none	61.6	Massilibacteroides vaginae	Bacteria	22	25	25	3	0
+154.44	267.30	Gma_002754-T1	WP_052747170.1 / none	59.5	Alistipes sp. AL-1	Bacteria	21	25	25	4	0
+154.41	268.50	Gma_006396-T1	WP_084027475.1 / none	42.2	Entomoplasma somnilux	Bacteria	23	25	25	2	0
+153.63	266.50	Gma_021316-T1	CRX37065.1 / none	48.8	Candidatus Hepatoplasma crinochetorum	Bacteria	24	25	25	1	0
+153.58	266.50	Gma_015591-T1	WP_012975103.1 / none	49.0	Azospirillum lipoferum	Bacteria	2	24	25	1	0
+153.24	266.50	Gma_003143-T1	WP_027473201.1 / none	32.9	Saccharicrinis fermentans	Bacteria	21	23	25	2	0
+153.17	266.20	Gma_021685-T1	WP_165043744.1 / none	42.7	Dysgonomonas sp. ZJ709	Bacteria	18	25	25	7	0
+153.14	265.80	Gma_003929-T1	TVS16303.1 / none	48.0	Planctomycetaceae bacterium	Bacteria	8	25	25	17	0
+152.91	265.00	Gma_015519-T1	WP_169561831.1 / none	60.3	Sneathiella chinensis	Bacteria	18	25	25	7	0
+152.86	265.00	Gma_002673-T1	WP_012056083.1 / none	58.7	Parabacteroides distasonis	Bacteria	23	25	25	2	0
+152.86	265.40	Gma_003394-T1	WP_169878093.1 / none	48.7	Pseudomonas proteolytica	Bacteria	25	25	25	0	0
+152.62	265.00	Gma_006927-T1	CAA9226749.1 / none	56.6	uncultured Chthoniobacterales bacterium	Bacteria	21	24	25	3	0
+152.30	265.40	Gma_004290-T1	WP_048674335.1 / none	39.9	Candidatus Competibacter denitrificans	Bacteria	18	25	25	7	0
+152.26	265.00	Gma_004180-T1	WP_165025995.1 / none	57.9	Dysgonomonas sp. ZJ279	Bacteria	23	25	25	2	0
+151.88	264.60	Gma_004228-T1	WP_080880271.1 / none	69.8	Nitrospira sp. ND1	Bacteria	22	22	25	0	0
+151.79	264.60	Gma_008560-T1	WP_176943856.1 / none	61.3	Pseudoxanthomonas sp. CF125	Bacteria	22	25	25	3	0
+150.84	262.70	Gma_000847-T1	WP_137734052.1 / none	62.5	Aquabacterium pictum	Bacteria	24	25	25	1	0
+150.81	262.70	Gma_004415-T1	WP_163248918.1 / none	47.2	Clostridium niameyense	Bacteria	23	25	25	2	0
+150.56	262.30	Gma_000332-T1	WP_134297242.1 / none	48.1	Spiroplasma gladiatoris	Bacteria	25	25	25	0	0
+150.36	261.90	Gma_003773-T1	WP_080902736.1 / none	58.8	Parabacteroides sp. Marseille-P3160	Bacteria	25	25	25	0	0
+150.27	261.20	Gma_002401-T1	EGM77008.1 / none	68.1	Rheinheimera sp. A13L	Bacteria	24	25	25	1	0
+149.70	262.30	Gma_002444-T1	WP_008152725.1 / none	45.8	Parabacteroides johnsonii	Bacteria	24	25	25	1	0
+149.41	260.00	Gma_021720-T1	WP_115499684.1 / none	53.4	Parabacteroides acidifaciens	Bacteria	25	25	25	0	0
+148.67	260.00	Gma_002614-T1	WP_108824275.1 / none	35.6	Ereboglobus luteus	Bacteria	16	25	25	9	0
+148.54	258.80	Gma_020053-T1	PWL70365.1 / none	58.1	Firmicutes bacterium	Bacteria	22	25	25	3	0
+148.44	258.50	Gma_002672-T1	WP_165042744.1 / none	66.0	Dysgonomonas sp. ZJ709	Bacteria	19	23	25	4	0
+148.31	258.80	Gma_001607-T1	BAX09104.1 / none	52.2	Cryptomeria japonica	Eukaryota@Viridiplantae	1	25	25	0	0
+148.21	258.80	Gma_021332-T1	WP_034627045.1 / none	47.7	Alkalihalobacillus okhensis	Bacteria	25	25	25	0	0
+147.45	256.90	Gma_002644-T1	WP_106831860.1 / none	69.9	Parabacteroides pacaensis	Bacteria	23	25	25	2	0
+147.10	256.50	Gma_004215-T1	TAF20833.1 / none	63.7	Verrucomicrobia bacterium	Bacteria	13	21	25	8	0
+146.67	256.10	Gma_000846-T1	WP_053515261.1 / none	55.2	Stenotrophomonas maltophilia	Bacteria	25	25	25	0	0
+146.62	256.10	Gma_004214-T1	TAF20833.1 / none	63.7	Verrucomicrobia bacterium	Bacteria	13	21	25	8	0
+146.41	255.80	Gma_002896-T1	TFH14525.1 / none	58.1	Lentisphaerales bacterium	Bacteria	11	24	25	13	0
+146.00	255.00	Gma_002648-T1	WP_112663172.1 / none	65.5	Microvirga flavescens	Bacteria	25	25	25	0	0
+145.84	255.40	Gma_004004-T1	GBU07225.1 / none	66.0	Bacteroidales bacterium	Bacteria	23	25	25	2	0
+145.59	255.40	Gma_000273-T1	WP_115635144.1 / none	55.8	Alcaligenes faecalis	Bacteria	21	25	25	4	0
+145.48	254.60	Gma_000542-T1	WP_153659432.1 / none	54.5	Chitinophaga sp. SYP-B3965	Bacteria	21	25	25	4	0
+144.80	254.20	Gma_004350-T1	GBU08505.1 / none	47.6	Bacteroidales bacterium	Bacteria	23	25	25	2	0
+144.73	254.20	Gma_002149-T1	WP_187710912.1 / none	59.1	Lysobacter sp. II4	Bacteria	22	25	25	3	0
+144.32	253.40	Gma_003850-T1	PDH29893.1 / none	65.3	Puniceicoccaceae bacterium MED-G30	Bacteria	9	23	25	14	0
+144.11	252.30	Gma_002583-T1	WP_183449789.1 / none	66.8	Microvirga lupini	Bacteria	25	25	25	0	0
+143.78	253.40	Gma_021166-T1	PMP78843.1 / none	60.1	Mesoaciditoga sp.	Bacteria	24	25	25	1	0
+142.42	250.80	Gma_002218-T1	RJQ45596.1 / none	40.1	Gammaproteobacteria bacterium	Bacteria	20	25	25	5	0
+141.77	249.60	Gma_002566-T1	CAA9253362.1 / none	61.9	uncultured Chthoniobacterales bacterium	Bacteria	19	25	25	6	0
+141.57	249.20	Gma_022267-T1	WP_180734082.1 / none	67.2	Paraburkholderia sp. PGU19	Bacteria	12	25	25	1	0
+141.48	249.20	Gma_004191-T1	TSA32266.1 / none	59.0	Opitutales bacterium	Bacteria	15	22	25	7	0
+141.00	248.10	Gma_003396-T1	WP_127748458.1 / none	46.8	Parasedimentitalea marina	Bacteria	23	25	25	2	0
+140.75	247.70	Gma_002196-T1	WP_082124729.1 / none	52.2	Lysobacter capsici	Bacteria	25	25	25	0	0
+140.22	202.20	Gma_006137-T1	WP_144086350.1 / XP_015920212.1	30.8	Cardinium endosymbiont of Dermatophagoides farinae	Bacteria	1	1	25	0	0
+139.87	246.90	Gma_002877-T1	WP_185674354.1 / none	43.6	Ruficoccus amylovorans	Bacteria	13	25	25	12	0
+139.82	246.90	Gma_019216-T1	WP_111518360.1 / none	41.1	Mycoplasma auris	Bacteria	19	24	25	5	0
+139.72	247.30	Gma_003726-T1	SEO80549.1 / none	48.1	Streptomyces rubidus	Bacteria	25	25	25	0	0
+139.54	245.70	Gma_021172-T1	WP_024863740.1 / none	61.2	Entomoplasma somnilux	Bacteria	25	25	25	0	0
+139.36	246.10	Gma_004216-T1	WP_163217830.1 / none	66.3	Bacteroides sp. 224	Bacteria	20	24	25	4	0
+139.33	245.70	Gma_000075-T1	WP_124381269.1 / none	66.8	Ralstonia sp. SET104	Bacteria	25	25	25	0	0
+139.23	246.10	Gma_002675-T1	OQC05907.1 / none	35.1	Candidatus Hydrogenedentes bacterium ADurb.Bin101	Bacteria	12	22	25	10	0
+138.72	244.60	Gma_004305-T1	WP_150961451.1 / none	65.3	Methylobacterium sp. YIM 132548	Bacteria	25	25	25	0	0
+138.72	244.60	Gma_004306-T1	WP_150961451.1 / none	65.3	Methylobacterium sp. YIM 132548	Bacteria	25	25	25	0	0
+138.63	244.60	Gma_003874-T1	YP_009609697.1 / none	56.2	Acidovorax phage ACP17	Viruses	5	25	25	1	0
+138.43	245.00	Gma_021165-T1	WP_055070965.1 / none	39.1	Clostridium massiliamazoniense	Bacteria	16	24	25	8	0
+137.89	243.80	Gma_007655-T1	WP_184418386.1 / none	58.4	Rhodanobacter sp. MP7CTX1	Bacteria	25	25	25	0	0
+137.75	244.20	Gma_004194-T1	OAM88928.1 / none	57.5	Opitutaceae bacterium TSB47	Bacteria	25	25	25	0	0
+137.62	244.20	Gma_003458-T1	WP_096413965.1 / none	42.3	Lysobacter capsici	Bacteria	21	25	25	4	0
+137.62	243.40	Gma_003900-T1	WP_143157896.1 / none	57.7	Rubritalea squalenifaciens	Bacteria	24	25	25	1	0
+137.57	243.00	Gma_003010-T1	AEW22028.1 / none	49.6	Tannerella forsythia 92A2	Bacteria	25	25	25	0	0
+137.32	243.00	Gma_003776-T1	WP_141250593.1 / none	54.8	unclassified Xanthomonadaceae	Bacteria	25	25	25	0	0
+137.20	242.30	Gma_006365-T1	WP_036355131.1 / none	61.0	Microvirga sp. BSC39	Bacteria	25	25	25	0	0
+136.99	243.00	Gma_004186-T1	WP_129593634.1 / none	56.9	unclassified Porphyromonadaceae	Bacteria	19	25	25	6	0
+136.25	240.70	Gma_021849-T1	WP_081914330.1 / none	66.1	Rhizobiales bacterium YIM 77505	Bacteria	24	25	25	1	0
+135.99	241.50	Gma_002692-T1	AWI09751.1 / none	37.3	Ereboglobus luteus	Bacteria	11	24	25	13	0
+135.76	240.70	Gma_001367-T1	BAX09104.1 / none	51.0	Cryptomeria japonica	Eukaryota@Viridiplantae	1	25	25	0	0
+135.45	240.00	Gma_006376-T1	GBU08620.1 / none	58.5	Bacteroidales bacterium	Bacteria	23	25	25	2	0
+134.98	238.80	Gma_002807-T1	KAA6301477.1 / none	68.2	Bacteroidales bacterium St1	Bacteria	23	25	25	2	0
+134.66	238.40	Gma_003906-T1	WP_165020849.1 / none	67.1	Dysgonomonas sp. ZJ279	Bacteria	24	25	25	1	0
+134.60	238.80	Gma_003935-T1	KXU34538.1 / none	66.8	Cephaloticoccus capnophilus	Bacteria	20	24	25	4	0
+134.52	239.20	Gma_003482-T1	WP_185822094.1 / none	58.9	Xanthomonas sp. GW	Bacteria	22	25	25	3	0
+134.39	240.40	Gma_003042-T1	AAW73467.1 / none	52.2	Xanthomonas oryzae pv. oryzae KACC 10331	Bacteria	23	25	25	2	0
+133.45	237.70	Gma_002551-T1	PCJ26804.1 / none	38.7	Flavobacteriales bacterium	Bacteria	14	24	25	10	0
+132.96	236.90	Gma_000274-T1	WP_147674789.1 / none	64.9	Vulcaniibacterium tengchongense	Bacteria	24	25	25	1	0
+132.96	236.10	Gma_003120-T1	WP_158732240.1 / none	60.2	Lysobacter sp. SYSU H10001	Bacteria	23	25	25	2	0
+132.72	236.50	Gma_017695-T1	VUJ13441.1 / none	51.1	Stenotrophomonas maltophilia	Bacteria	7	7	7	0	0
+132.49	236.50	Gma_004233-T1	WP_163215573.1 / none	51.9	Bacteroides sp. 519	Bacteria	25	25	25	0	0
+132.19	235.70	Gma_004291-T1	TAF20773.1 / none	58.1	Verrucomicrobia bacterium	Bacteria	12	24	25	12	0
+131.96	235.30	Gma_004273-T1	GBU07700.1 / none	69.6	Bacteroidales bacterium	Bacteria	25	25	25	0	0
+131.60	234.20	Gma_004181-T1	CCZ99608.1 / none	57.4	Alistipes sp. CAG:157	Bacteria	7	13	13	6	0
+130.72	233.40	Gma_021317-T1	WP_066153373.1 / none	48.0	Alkalihalobacillus krulwichiae	Bacteria	25	25	25	0	0
+130.66	233.80	Gma_004187-T1	WP_064500638.1 / none	46.6	unclassified Opitutaceae	Bacteria	20	25	25	5	0
+130.55	233.80	Gma_021440-T1	WP_166417589.1 / none	34.3	Planktotalea sp. M26A2M	Bacteria	17	25	25	8	0
+130.29	233.80	Gma_021171-T1	WP_047791742.1 / none	45.2	Spiroplasma eriocheiris	Bacteria	25	25	25	0	0
+130.15	233.40	Gma_004130-T1	WP_157030225.1 / none	63.4	Lysobacter soli	Bacteria	24	25	25	1	0
+130.12	233.80	Gma_002564-T1	WP_161554725.1 / none	34.1	Ereboglobus luteus	Bacteria	23	25	25	2	0
+129.91	231.90	Gma_019996-T1	WP_073404124.1 / none	52.9	Bacteroides luti	Bacteria	22	25	25	3	0
+129.64	233.00	Gma_008603-T1	WP_183316783.1 / none	49.4	Chelatococcus caeni	Bacteria	22	25	25	3	0
+129.05	231.50	Gma_020495-T1	ADI87845.1 / none	41.6	uncultured bacterium Ak20-3	Bacteria	24	25	25	1	0
+128.54	229.60	Gma_003329-T1	WP_149114524.1 / none	63.2	Limnoglobus roseus	Bacteria	19	25	25	6	0
+128.41	229.60	Gma_021852-T1	WP_154045001.1 / none	59.0	Bacteroidaceae bacterium	Bacteria	22	25	25	3	0
+128.30	231.10	Gma_003836-T1	WP_175952288.1 / none	45.2	Burkholderia sp. BCC0405	Bacteria	25	25	25	0	0
+127.81	229.90	Gma_006118-T1	WP_175111133.1 / none	50.8	Paraburkholderia solisilvae	Bacteria	24	25	25	1	0
+127.69	228.80	Gma_010349-T1	WP_134849017.1 / none	47.4	Porphyromonas levii	Bacteria	24	25	25	1	0
+127.66	228.80	Gma_006338-T1	WP_169423431.1 / none	52.1	Pseudoflavitalea sp. G-6-1-2	Bacteria	19	23	25	4	0
+127.64	229.60	Gma_004261-T1	WP_081913898.1 / none	59.4	Rhizobiales bacterium YIM 77505	Bacteria	24	25	25	1	0
+127.61	229.60	Gma_018292-T1	WP_166417589.1 / none	33.4	Planktotalea sp. M26A2M	Bacteria	15	25	25	10	0
+127.42	229.60	Gma_001152-T1	WP_162649311.1 / none	40.2	Spiroplasma sp. TIUS-1	Bacteria	24	25	25	1	0
+127.15	227.60	Gma_003409-T1	WP_046502819.1 / none	64.1	Kiloniella litopenaei	Bacteria	18	24	25	6	0
+127.09	229.90	Gma_003643-T1	WP_008140972.1 / none	35.2	Bradyrhizobium sp. YR681	Bacteria	19	19	19	0	0
+127.09	229.90	Gma_003668-T1	WP_008140972.1 / none	35.2	Bradyrhizobium sp. YR681	Bacteria	19	19	19	0	0
+126.94	228.80	Gma_020994-T1	TAK31976.1 / none	59.6	Myxococcaceae bacterium	Bacteria	23	25	25	2	0
+126.31	226.90	Gma_003974-T1	OJX99709.1 / none	50.2	Rhizobiales bacterium 62-17	Bacteria	25	25	25	0	0
+126.31	226.90	Gma_006373-T1	OJU47704.1 / none	45.0	Bacteroidales bacterium 45-6	Bacteria	24	25	25	1	0
+126.00	226.50	Gma_002492-T1	WP_158730596.1 / none	54.8	Lysobacter sp. SYSU H10001	Bacteria	22	25	25	3	0
+125.16	224.90	Gma_003909-T1	SDP28498.1 / none	42.7	Afipia sp. GAS231	Bacteria	22	25	25	3	0
+125.14	224.60	Gma_021708-T1	WP_075589251.1 / none	69.4	Tannerella forsythia	Bacteria	25	25	25	0	0
+124.00	223.00	Gma_003933-T1	WP_163210997.1 / none	65.8	Bacteroides sp. 519	Bacteria	23	25	25	2	0
+123.87	223.00	Gma_004182-T1	CCZ99608.1 / none	58.2	Alistipes sp. CAG:157	Bacteria	7	10	10	3	0
+122.50	221.90	Gma_006371-T1	WP_164361620.1 / none	39.8	Verrucomicrobiales bacterium T37	Bacteria	22	25	25	3	0
+122.25	221.90	Gma_009793-T1	WP_007351574.1 / none	33.9	Marinobacter sp. ELB17	Bacteria	25	25	25	0	0
+122.24	221.50	Gma_003635-T1	PYS90928.1 / none	42.8	Acidobacteria bacterium	Bacteria	4	9	9	5	0
+122.24	221.50	Gma_003660-T1	PYS90928.1 / none	42.8	Acidobacteria bacterium	Bacteria	4	9	9	5	0
+121.94	219.90	Gma_004280-T1	PNE25510.1 / none	67.9	Tannerella sp. oral taxon 808	Bacteria	19	25	25	6	0
+121.94	221.10	Gma_004398-T1	WP_036139758.1 / none	47.5	Lysobacter daejeonensis	Bacteria	23	25	25	2	0
+120.21	217.60	Gma_002765-T1	WP_102728677.1 / none	62.4	Akkermansia muciniphila	Bacteria	23	25	25	2	0
+120.09	217.20	Gma_004225-T1	WP_126289198.1 / none	66.2	[Pasteurella] aerogenes	Bacteria	23	24	25	1	0
+119.86	218.00	Gma_000318-T1	WP_106720760.1 / none	43.7	Tenericutes bacterium MO-XQ	Bacteria	18	25	25	7	0
+119.40	217.20	Gma_000100-T1	OQB85299.1 / none	41.8	Planctomycetes bacterium ADurb.Bin126	Bacteria	10	22	25	12	0
+119.40	217.20	Gma_004440-T1	KXU34752.1 / none	48.9	Cephaloticoccus primus	Bacteria	28	45	45	17	0
+119.15	216.50	Gma_002523-T1	WP_158731605.1 / none	60.3	Lysobacter sp. SYSU H10001	Bacteria	25	25	25	0	0
+119.09	216.10	Gma_005808-T1	WP_110310474.1 / none	61.8	Dysgonomonas alginatilytica	Bacteria	21	25	25	4	0
+119.04	216.50	Gma_004249-T1	GBU06677.1 / none	67.5	Bacteroidales bacterium	Bacteria	23	24	25	1	0
+118.95	215.70	Gma_003128-T1	WP_158730879.1 / none	69.3	Lysobacter sp. SYSU H10001	Bacteria	24	25	25	1	0
+118.37	214.90	Gma_000204-T1	WP_118107188.1 / none	61.8	Odoribacter splanchnicus	Bacteria	24	25	25	1	0
+117.73	214.90	Gma_000206-T1	WP_139977092.1 / none	44.3	Ochrobactrum sp. CGA5	Bacteria	25	25	25	0	0
+117.53	213.80	Gma_001950-T1	PIP97941.1 / none	49.6	Rhodobacterales bacterium CG18_big_fil_WC_8_21_14_2_50_71_9	Bacteria	23	25	25	2	0
+117.52	214.50	Gma_021017-T1	WP_031542552.1 / none	39.8	Mesoplasma photuris	Bacteria	24	25	25	1	0
+117.03	213.40	Gma_002758-T1	WP_185711802.1 / none	45.5	Tannerella forsythia	Bacteria	24	25	25	1	0
+116.90	213.00	Gma_006927-T2	PYK92617.1 / none	56.9	Verrucomicrobia bacterium	Bacteria	22	25	25	3	0
+116.69	212.60	Gma_002417-T1	WP_158731821.1 / none	54.9	Lysobacter sp. SYSU H10001	Bacteria	25	25	25	0	0
+116.52	213.00	Gma_002482-T1	WP_184418386.1 / none	62.6	Rhodanobacter sp. MP7CTX1	Bacteria	25	25	25	0	0
+116.33	211.80	Gma_002537-T1	WP_133778893.1 / none	67.7	Pedobacter sp. OK701	Bacteria	23	24	25	1	0
+116.07	212.20	Gma_008358-T1	WP_176233359.1 / none	49.1	Candidatus Hakubanella thermoalkaliphilus	Bacteria	6	23	25	7	0
+115.82	211.50	Gma_002767-T1	WP_112664511.1 / none	57.1	Microvirga flavescens	Bacteria	25	25	25	0	0
+115.38	210.30	Gma_003897-T1	VBB48457.1 / none	69.1	uncultured Paludibacter sp.	Bacteria	23	25	25	2	0
+115.29	210.70	Gma_021705-T1	WP_014185479.1 / none	59.0	Desulfosporosinus orientis	Bacteria	24	24	25	0	0
+114.21	209.50	Gma_021327-T1	WP_045433856.1 / none	40.9	Mycoplasma canadense	Bacteria	25	25	25	0	0
+113.91	209.90	Gma_001071-T1	WP_163305232.1 / none	34.8	Dysgonomonas sp. 521	Bacteria	24	24	25	0	0
+113.85	209.50	Gma_011944-T1	PDM26746.1 / none	41.6	Candidatus Bathyarchaeota archaeon B24-2	Archaea	2	25	25	1	0
+113.69	208.00	Gma_005813-T1	WP_092877493.1 / none	68.7	Rhizobiales bacterium GAS188	Bacteria	23	25	25	2	0
+113.60	209.10	Gma_002377-T1	WP_192275206.1 / none	67.6	Xanthomonas sp. XNM01	Bacteria	25	25	25	0	0
+113.49	163.80	Gma_018616-T1	WP_144086350.1 / KAF2893532.1	29.6	Cardinium endosymbiont of Dermatophagoides farinae	Bacteria	1	1	25	0	0
+113.42	208.40	Gma_004128-T1	WP_122581001.1 / none	52.8	Pseudomonas viridiflava	Bacteria	25	25	25	0	0
+113.08	207.20	Gma_003966-T1	WP_191442441.1 / none	59.5	Candidatus Heritagella gallinarum	Bacteria	13	25	25	12	0
+112.88	207.60	Gma_008357-T1	PYN74272.1 / none	48.8	Candidatus Rokubacteria bacterium	Bacteria	4	25	25	3	0
+112.42	206.50	Gma_015595-T1	WP_121052916.1 / none	33.0	Sphingosinicella microcystinivorans	Bacteria	19	25	25	6	0
+111.87	206.80	Gma_002905-T1	WP_184418386.1 / none	62.5	Rhodanobacter sp. MP7CTX1	Bacteria	25	25	25	0	0
+111.83	206.80	Gma_003400-T1	WP_155303700.1 / none	37.3	Desulfosarcina widdelii	Bacteria	22	25	25	3	0
+111.83	205.30	Gma_006675-T1	WP_185153985.1 / none	68.3	Dysgonomonas sp. ZJ709	Bacteria	24	25	25	1	0
+111.47	204.90	Gma_004314-T1	WP_051567926.1 / none	69.0	Draconibacterium orientale	Bacteria	20	25	25	5	0
+111.35	204.50	Gma_004315-T1	WP_051567926.1 / none	69.0	Draconibacterium orientale	Bacteria	20	25	25	5	0
+110.58	204.10	Gma_008202-T1	WP_107741658.1 / none	55.5	Opitutaceae bacterium EW11	Bacteria	15	25	25	10	0
+110.34	203.40	Gma_021730-T1	PHX72511.1 / none	60.8	Opitutae bacterium	Bacteria	14	25	25	11	0
+110.19	203.80	Gma_000068-T1	WP_173909455.1 / none	59.3	Microvirga ossetica	Bacteria	25	25	25	0	0
+110.19	203.00	Gma_003854-T1	WP_158733070.1 / none	52.3	Lysobacter sp. SYSU H10001	Bacteria	25	25	25	0	0
+110.19	204.50	Gma_021167-T1	CCY46415.1 / none	48.3	Firmicutes bacterium CAG:822	Bacteria	20	25	25	5	0
+109.74	203.00	Gma_003052-T1	WP_057944501.1 / none	68.9	Lysobacter gummosus	Bacteria	25	25	25	0	0
+109.74	203.00	Gma_021045-T1	WP_017798601.1 / none	41.0	Oceanobacillus kimchii	Bacteria	11	25	25	1	0
+109.53	203.40	Gma_017902-T1	TDY53477.1 / none	41.5	Paraburkholderia rhizosphaerae	Bacteria	24	25	25	1	0
+109.39	203.80	Gma_003762-T1	WP_139370368.1 / none	42.2	Xanthomonas	Bacteria	19	25	25	6	0
+109.36	203.80	Gma_003210-T1	WP_093297196.1 / none	69.3	Sphingomonas sp. NFR04	Bacteria	21	22	22	1	0
+109.33	202.60	Gma_020484-T1	WP_176587444.1 / none	39.2	Halolactibacillus alkaliphilus	Bacteria	24	25	25	1	0
+108.93	201.80	Gma_002639-T1	WP_069962549.1 / none	47.9	Lacunisphaera limnophila	Bacteria	15	25	25	10	0
+108.82	201.40	Gma_002637-T1	WP_138528137.1 / none	49.5	Labilibacter sediminis	Bacteria	25	25	25	0	0
+107.96	200.30	Gma_014231-T1	WP_124790978.1 / none	45.7	Tannerella forsythia	Bacteria	24	25	25	1	0
+107.75	199.90	Gma_000288-T1	WP_104207736.1 / none	44.1	Mesoplasma corruscae	Bacteria	25	25	25	0	0
+107.48	199.90	Gma_002315-T1	OPY91526.1 / none	49.7	Syntrophus sp. PtaU1.Bin208	Bacteria	23	25	25	2	0
+107.16	198.40	Gma_003984-T1	BBE17621.1 / none	66.7	Aquipluma nitroreducens	Bacteria	25	25	25	0	0
+107.12	201.80	Gma_010340-T1	WP_158731826.1 / none	69.0	Lysobacter sp. SYSU H10001	Bacteria	27	27	27	0	0
+106.89	199.50	Gma_021701-T1	WP_038170646.1 / none	41.5	Verrucomicrobium sp. BvORR106	Bacteria	16	25	25	9	0
+106.59	198.00	Gma_002751-T1	WP_167671359.1 / none	58.4	Microvirga sp. c23x22	Bacteria	24	25	25	1	0
+106.41	198.40	Gma_004213-T1	WP_117934697.1 / none	67.5	unclassified Bacteroides	Bacteria	24	25	25	1	0
+106.33	197.60	Gma_003384-T1	WP_090389097.1 / none	61.0	Niabella drilacis	Bacteria	24	25	25	1	0
+106.22	198.00	Gma_006534-T1	TMA27574.1 / none	57.7	Deltaproteobacteria bacterium	Bacteria	20	25	25	5	0
+106.13	197.60	Gma_002594-T1	WP_074820292.1 / none	43.6	Pragia fontium	Bacteria	12	12	12	0	0
+106.01	198.40	Gma_003985-T1	WP_144761512.1 / none	58.1	Methylobacterium dankookense	Bacteria	25	25	25	0	0
+105.92	198.00	Gma_006336-T1	WP_095475168.1 / none	33.9	Vibrio	Bacteria	24	25	25	1	0
+105.51	198.00	Gma_002159-T1	WP_180545401.1 / none	48.9	Luteimonas sp. SJ-16	Bacteria	23	25	25	2	0
+105.45	198.00	Gma_004427-T1	WP_067777838.1 / none	34.3	Akkermansia glycaniphila	Bacteria	15	25	25	10	0
+104.41	196.40	Gma_015600-T1	WP_185961471.1 / none	45.4	Telmatospirillum sp. J64-1	Bacteria	18	25	25	7	0
+104.37	194.50	Gma_004465-T1	WP_055744847.1 / none	52.0	Brevibacillus choshinensis	Bacteria	25	25	25	0	0
+104.14	194.90	Gma_000538-T1	WP_160967665.1 / none	54.2	unclassified Xanthomonas	Bacteria	15	15	15	0	0
+103.52	193.40	Gma_004205-T1	WP_183452439.1 / none	63.5	Mesorhizobium loti	Bacteria	20	25	25	5	0
+103.21	195.70	Gma_002288-T1	GDY17072.1 / none	34.9	Verrucomicrobia bacterium	Bacteria	24	24	25	0	0
+103.15	193.00	Gma_016640-T1	WP_179136917.1 / none	48.5	Candidatus Entotheonella palauensis	Bacteria	21	25	25	4	0
+102.92	193.40	Gma_002577-T1	PWM29724.1 / none	53.8	Verrucomicrobia bacterium	Bacteria	14	25	25	11	0
+102.83	193.40	Gma_021874-T1	WP_167122008.1 / none	46.0	Cupidesulfovibrio liaohensis	Bacteria	24	25	25	1	0
+102.52	193.00	Gma_003934-T1	WP_068770406.1 / none	49.0	Opitutaceae bacterium TSB47	Bacteria	6	6	6	0	0
+102.52	192.20	Gma_005793-T1	GBU08503.1 / none	55.9	Bacteroidales bacterium	Bacteria	24	25	25	1	0
+102.21	191.40	Gma_003890-T1	WP_183754436.1 / none	67.9	Pseudochelatococcus contaminans	Bacteria	24	25	25	1	0
+102.13	192.20	Gma_002229-T1	WP_166507691.1 / none	41.9	Spiroplasma chinense	Bacteria	23	24	25	1	0
+101.50	191.00	Gma_004235-T1	WP_112397812.1 / none	58.9	Rhizobiales bacterium	Bacteria	24	25	25	1	0
+101.42	190.70	Gma_002567-T1	WP_044216157.1 / none	48.4	Dysgonomonas gadei	Bacteria	18	22	25	4	0
+101.33	191.40	Gma_004030-T1	PAZ02122.1 / none	54.4	Opitutae bacterium AMD-G3	Bacteria	13	22	25	9	0
+100.67	190.70	Gma_000897-T1	WP_088761984.1 / none	35.6	unclassified Sphingobacteriales	Bacteria	24	25	25	1	0
+100.09	188.70	Gma_004002-T1	WP_084431255.1 / none	48.5	unclassified Opitutaceae	Bacteria	9	9	9	0	0
+100.01	189.50	Gma_003636-T1	TXH44228.1 / none	42.2	Desulfurellales bacterium	Bacteria	2	5	5	3	0
+100.01	189.50	Gma_003661-T1	TXH44228.1 / none	42.2	Desulfurellales bacterium	Bacteria	2	5	5	3	0
+99.63	187.60	Gma_008606-T1	ETK12603.1 / none	46.0	Tannerella sp. oral taxon BU063 isolate Cell 8/11	Bacteria	25	25	25	0	0
+98.92	187.20	Gma_002598-T1	WP_068768423.1 / none	51.1	Opitutaceae bacterium TSB47	Bacteria	22	25	25	3	0
+98.32	186.00	Gma_004296-T1	WP_108825450.1 / none	60.6	Ereboglobus luteus	Bacteria	22	25	25	3	0
+98.18	187.60	Gma_003877-T1	WP_082501163.1 / none	29.5	Methylobacterium sp. Leaf88	Bacteria	25	25	25	0	0
+97.98	185.30	Gma_000537-T1	WP_158731620.1 / none	63.7	Lysobacter sp. SYSU H10001	Bacteria	24	25	25	1	0
+97.95	185.70	Gma_004389-T1	WP_158732258.1 / none	67.6	Lysobacter sp. SYSU H10001	Bacteria	6	8	8	2	0
+97.68	186.00	Gma_002158-T1	KRG77339.1 / none	46.1	Stenotrophomonas ginsengisoli	Bacteria	21	25	25	4	0
+97.65	184.50	Gma_004177-T1	WP_093323103.1 / none	63.6	Olivibacter domesticus	Bacteria	23	25	25	2	0
+97.55	184.50	Gma_002873-T1	WP_118038325.1 / none	66.9	Bacteroidales	Bacteria	23	25	25	2	0
+97.42	184.90	Gma_003774-T1	WP_046151180.1 / none	56.4	Parabacteroides sp. HGS0025	Bacteria	23	24	25	1	0
+97.36	185.30	Gma_000071-T1	WP_050735801.1 / none	50.9	Methylobacterium sp. ARG-1	Bacteria	25	25	25	0	0
+97.29	184.90	Gma_003849-T1	WP_092436478.1 / none	62.2	Williamwhitmania taraxaci	Bacteria	19	25	25	6	0
+97.27	184.90	Gma_002741-T1	WP_043128012.1 / none	52.6	Opitutaceae bacterium TAV1	Bacteria	20	25	25	5	0
+96.45	183.30	Gma_019196-T1	OCL08812.1 / none	53.5	Glonium stellatum	Eukaryota@Fungi	25	25	25	0	0
+96.18	183.70	Gma_020457-T1	WP_016339264.1 / none	35.3	Spiroplasma chrysopicola	Bacteria	15	22	25	7	0
+96.07	182.60	Gma_021239-T1	WP_050517258.1 / none	61.1	Mycoplasma sp. HU2014	Bacteria	11	20	25	9	0
+96.02	184.50	Gma_000290-T1	WP_071441987.1 / none	64.1	Traorella massiliensis	Bacteria	25	25	25	0	0
+96.02	183.30	Gma_015560-T1	OGK18619.1 / none	38.1	Candidatus Roizmanbacteria bacterium RIFCSPHIGHO2_01_FULL_40_98	Bacteria	8	25	25	0	0
+95.88	184.90	Gma_001046-T1	WP_177974746.1 / none	39.3	Lachnospiraceae bacterium	Bacteria	24	25	25	1	0
+95.06	181.00	Gma_004209-T1	WP_106831739.1 / none	62.6	Parabacteroides pacaensis	Bacteria	22	25	25	3	0
+94.75	181.00	Gma_001993-T1	WP_018308784.1 / none	59.1	Cupriavidus sp. UYPR2.512	Bacteria	24	25	25	1	0
+94.69	181.00	Gma_008201-T1	TRZ70677.1 / none	65.9	Bacteroidetes bacterium	Bacteria	23	24	25	1	0
+94.51	181.80	Gma_001151-T1	AYV34439.1 / none	46.3	Erysipelothrix rhusiopathiae	Bacteria	23	25	25	2	0
+94.44	181.80	Gma_001955-T1	WP_114280896.1 / none	30.6	Thioalbus denitrificans	Bacteria	20	24	25	4	0
+94.22	179.90	Gma_004192-T1	WP_189516525.1 / none	61.5	Cerasicoccus arenae	Bacteria	15	24	25	9	0
+94.07	180.60	Gma_001043-T1	WP_024544179.1 / none	50.3	Mycoplasma salivarium	Bacteria	24	25	25	1	0
+93.94	181.40	Gma_011471-T1	WP_163305240.1 / none	48.9	Dysgonomonas sp. 521	Bacteria	23	25	25	2	0
+93.76	179.10	Gma_001958-T1	WP_007435109.1 / none	62.4	Acetobacteraceae bacterium AT-5844	Bacteria	23	25	25	2	0
+93.76	180.60	Gma_006330-T1	WP_144765707.1 / none	61.7	Methylobacterium dankookense	Bacteria	23	25	25	2	0
+93.02	179.10	Gma_020995-T1	WP_174981854.1 / none	50.0	Burkholderia lata	Bacteria	25	25	25	0	0
+92.90	179.10	Gma_004278-T1	WP_120272649.1 / none	53.4	Mangrovibacterium diazotrophicum	Bacteria	20	25	25	5	0
+92.86	178.30	Gma_020579-T1	WP_074551783.1 / none	47.8	Dyella sp. AtDHG13	Bacteria	23	25	25	2	0
+92.36	177.90	Gma_020759-T1	WP_138190814.1 / none	35.5	Culicoidibacter larvae	Bacteria	24	24	25	0	0
+92.31	177.20	Gma_003470-T1	WP_158731182.1 / none	63.2	Lysobacter sp. SYSU H10001	Bacteria	25	25	25	0	0
+91.84	177.60	Gma_002761-T1	WP_176014690.1 / none	38.3	Victivallis sp. Marseille-Q1083	Bacteria	22	25	25	3	0
+91.46	176.00	Gma_000116-T1	WP_068772579.1 / none	58.7	Opitutaceae bacterium TSB47	Bacteria	22	25	25	3	0
+91.46	177.20	Gma_002719-T1	WP_159049894.1 / none	39.6	Tannerella sp. oral taxon HOT-286	Bacteria	2	2	2	0	0
+91.07	176.40	Gma_002661-T1	OHB62294.1 / none	35.0	Planctomycetes bacterium RBG_13_50_24	Bacteria	6	25	25	4	0
+90.62	174.50	Gma_002780-T1	GBL28997.1 / none	67.5	Opitutae bacterium	Bacteria	9	23	25	14	0
+90.56	175.30	Gma_003911-T1	WP_185674255.1 / none	58.2	Ruficoccus amylovorans	Bacteria	17	25	25	8	0
+90.51	130.60	Gma_002289-T1	WP_158985609.1 / CDW57982.1	65.0	Lysobacter panacisoli	Bacteria	5	6	25	1	0
+90.28	174.10	Gma_004461-T1	PAW83675.1 / none	49.2	Opitutae bacterium Tous-C2FEB	Bacteria	15	23	25	8	0
+90.26	174.10	Gma_021899-T1	WP_074450331.1 / none	53.0	Tannerella forsythia	Bacteria	25	25	25	0	0
+89.40	174.50	Gma_001971-T1	VUP82233.1 / none	50.2	Stenotrophomonas maltophilia	Bacteria	4	4	4	0	0
+89.11	172.90	Gma_002801-T1	WP_068179673.1 / none	53.7	Macellibacteroides sp. HH-ZS	Bacteria	22	25	25	3	0
+88.70	173.70	Gma_004392-T1	WP_152540987.1 / none	35.8	Luteimonas huabeiensis	Bacteria	25	25	25	0	0
+88.67	172.20	Gma_021294-T1	CRX37196.1 / none	55.9	Candidatus Hepatoplasma crinochetorum	Bacteria	20	25	25	2	0
+88.61	171.80	Gma_019310-T1	GBU07082.1 / none	69.7	Bacteroidales bacterium	Bacteria	20	25	25	5	0
+88.23	171.00	Gma_000125-T1	WP_122267972.1 / none	65.5	Parabacteroides distasonis	Bacteria	23	25	25	2	0
+88.15	170.60	Gma_003782-T1	WP_137833690.1 / none	67.2	Xanthomonadaceae bacterium P	Bacteria	24	25	25	1	0
+88.15	171.80	Gma_003995-T1	GBL30022.1 / none	47.9	Opitutae bacterium	Bacteria	19	25	25	6	0
+88.12	127.10	Gma_003640-T1	TXH55881.1 / VDO06519.1	31.6	Desulfurellales bacterium	Bacteria	10	10	25	0	0
+88.12	127.10	Gma_003665-T1	TXH55881.1 / VDO06519.1	31.6	Desulfurellales bacterium	Bacteria	10	10	25	0	0
+87.61	171.00	Gma_000356-T1	WP_129225003.1 / none	42.3	Candidatus Borkfalkia ceftriaxoniphila	Bacteria	21	25	25	4	0
+87.58	171.00	Gma_002585-T1	WP_114772241.1 / none	53.1	Microvirga	Bacteria	25	25	25	0	0
+87.51	170.60	Gma_000289-T1	WP_114838821.1 / none	42.9	Halarcobacter bivalviorum	Bacteria	18	24	25	6	0
+87.24	169.50	Gma_001871-T1	EAO52612.1 / none	67.9	Bacillus thuringiensis serovar israelensis ATCC 35646	Bacteria	25	25	25	0	0
+87.16	169.90	Gma_004486-T1	WP_009511441.1 / none	57.1	Opitutaceae bacterium TAV5	Bacteria	17	25	25	8	0
+87.09	169.90	Gma_002740-T1	WP_007362643.1 / none	55.5	Opitutaceae bacterium TAV1	Bacteria	22	25	25	3	0
+87.09	169.90	Gma_003833-T1	WP_158731627.1 / none	54.3	Lysobacter sp. SYSU H10001	Bacteria	24	25	25	1	0
+86.91	170.60	Gma_000422-T1	WP_110409268.1 / none	43.9	Wolbachia endosymbiont of Folsomia candida	Bacteria	25	25	25	0	0
+86.91	169.50	Gma_002618-T1	RYD46730.1 / none	57.1	Verrucomicrobiaceae bacterium	Bacteria	15	25	25	10	0
+86.58	169.90	Gma_000547-T1	WP_158635705.1 / none	60.6	Vulcaniibacterium tengchongense	Bacteria	21	25	25	4	0
+86.50	171.00	Gma_002021-T1	WP_026897751.1 / none	33.3	Daejeonella oryzae	Bacteria	20	24	25	4	0
+86.50	168.70	Gma_021472-T1	WP_188583170.1 / none	59.2	Azorhizobium oxalatiphilum	Bacteria	25	25	25	0	0
+86.43	169.50	Gma_000205-T1	WP_107835637.1 / none	43.9	Opitutus sp. ER46	Bacteria	22	25	25	3	0
+86.40	170.20	Gma_002220-T1	WP_025317143.1 / none	56.7	Spiroplasma	Bacteria	22	25	25	3	0
+85.99	169.50	Gma_021587-T1	ODU25022.1 / none	32.2	Verrucomicrobia bacterium SCN 57-15	Bacteria	2	3	3	1	0
+85.91	168.30	Gma_002000-T1	WP_183316779.1 / none	51.6	Chelatococcus caeni	Bacteria	24	25	25	1	0
+85.29	168.70	Gma_008319-T1	WP_068758852.1 / none	30.1	Turicibacter sp. H121	Bacteria	20	25	25	5	0
+85.27	167.90	Gma_002147-T1	WP_158985186.1 / none	36.4	Lysobacter panacisoli	Bacteria	23	25	25	2	0
+85.27	167.90	Gma_002691-T1	WP_185694095.1 / none	35.2	Puniceicoccus vermicola	Bacteria	3	24	25	11	0
+84.93	167.20	Gma_000326-T1	WP_178284203.1 / none	39.8	Erysipelotrichaceae bacterium	Bacteria	20	25	25	5	0
+84.73	166.00	Gma_004301-T1	GBU06750.1 / none	57.6	Bacteroidales bacterium	Bacteria	25	25	25	0	0
+84.45	165.60	Gma_004170-T1	WP_176898608.1 / none	60.2	Bacteroidales bacterium	Bacteria	23	25	25	2	0
+84.28	165.20	Gma_003983-T1	WP_093317413.1 / none	61.5	Olivibacter domesticus	Bacteria	23	25	25	2	0
+84.00	166.00	Gma_003886-T1	YP_009850972.1 / none	37.8	Stenotrophomonas phage Moby	Viruses	5	5	5	0	0
+84.00	166.80	Gma_015559-T1	PCJ29084.1 / none	31.4	Rickettsiales bacterium	Bacteria	11	25	25	14	0
+83.97	164.90	Gma_002607-T1	WP_178977984.1 / none	60.6	Capnocytophaga sp. oral taxon 902	Bacteria	25	25	25	0	0
+83.94	167.50	Gma_021930-T1	WP_188326153.1 / none	63.6	Stenotrophomonas sp. 169	Bacteria	18	22	25	4	0
+83.74	164.90	Gma_015541-T1	PIR37566.1 / none	48.7	Alphaproteobacteria bacterium CG11_big_fil_rev_8_21_14_0_20_39_49	Bacteria	12	24	25	0	0
+83.69	164.50	Gma_020334-T1	WP_006688700.1 / none	63.7	Ureaplasma parvum	Bacteria	22	25	25	3	0
+83.65	164.50	Gma_004488-T1	WP_189516298.1 / none	61.9	Cerasicoccus arenae	Bacteria	11	20	25	9	0
+83.47	164.50	Gma_004234-T1	WP_112397812.1 / none	57.6	Rhizobiales bacterium	Bacteria	24	25	25	1	0
+83.42	164.10	Gma_017631-T1	TBR12492.1 / none	55.8	Rugosibacter sp.	Bacteria	22	24	25	2	0
+83.12	163.70	Gma_003926-T1	GBL27413.1 / none	66.4	Verrucomicrobia bacterium	Bacteria	14	25	25	11	0
+83.01	164.10	Gma_003943-T1	WP_163219861.1 / none	56.3	Bacteroides sp. 224	Bacteria	23	25	25	2	0
+82.42	162.50	Gma_002593-T1	WP_005675781.1 / none	54.4	Bacteroides caccae	Bacteria	24	25	25	1	0
+82.20	163.30	Gma_002674-T1	PAW65533.1 / none	55.7	Opitutae bacterium Tous-C1TDCM	Bacteria	14	25	25	11	0
+82.20	163.70	Gma_005796-T1	WP_129048013.1 / none	57.8	Oleiharenicola lentus	Bacteria	16	25	25	9	0
+81.43	161.80	Gma_020861-T1	WP_095545059.1 / none	41.0	Candidatus Izimaplasma sp. ZiA1	Bacteria	25	25	25	0	0
+81.37	161.00	Gma_003969-T1	RPH44429.1 / none	66.1	Planctomycetes bacterium	Bacteria	23	24	25	1	0
+81.35	162.20	Gma_021170-T1	WP_118671698.1 / none	35.9	Coprobacillus sp. AF09-1A	Bacteria	25	25	25	0	0
+80.59	159.80	Gma_002616-T1	WP_122374433.1 / none	59.3	Parabacteroides sp. AF18-52	Bacteria	25	25	25	0	0
+80.50	160.20	Gma_002552-T1	RFC48578.1 / none	64.1	Verrucomicrobia bacterium	Bacteria	10	25	25	15	0
+80.50	160.20	Gma_003855-T1	WP_119718741.1 / none	48.6	Lysobacter tabacisoli	Bacteria	22	25	25	3	0
+80.50	160.20	Gma_003978-T1	AIM37631.1 / none	47.9	Sphingobacterium sp. ML3W	Bacteria	23	24	25	1	0
+80.41	161.40	Gma_003799-T1	WP_068768768.1 / none	45.8	Opitutaceae bacterium TSB47	Bacteria	14	25	25	11	0
+79.46	158.30	Gma_002743-T1	WP_046865748.1 / none	59.8	Microvirga massiliensis	Bacteria	25	25	25	0	0
+79.00	157.50	Gma_004424-T1	WP_108824465.1 / none	68.4	Ereboglobus luteus	Bacteria	22	25	25	3	0
+78.94	160.20	Gma_014610-T1	WP_163531309.1 / none	29.5	Halobacillus ihumii	Bacteria	24	25	25	1	0
+78.78	157.90	Gma_002665-T1	WP_061976286.1 / none	45.1	Aureimonas sp. AU20	Bacteria	14	22	25	2	0
+78.29	157.90	Gma_000321-T1	WP_016338867.1 / none	48.7	Spiroplasma chrysopicola	Bacteria	22	25	25	3	0
+78.03	156.40	Gma_005795-T1	GBL43440.1 / none	67.5	Verrucomicrobia bacterium	Bacteria	11	24	25	13	0
+77.82	156.40	Gma_004295-T1	WP_173947450.1 / none	50.9	Microvirga sp. R24	Bacteria	25	25	25	0	0
+77.55	156.40	Gma_002627-T1	SOS49382.1 / none	52.9	Tenacibaculum finnmarkense	Bacteria	4	25	25	1	0
+77.06	156.40	Gma_002872-T1	OAM91713.1 / none	60.2	Opitutaceae bacterium TSB47	Bacteria	17	25	25	8	0
+76.88	156.00	Gma_008557-T1	WP_187712319.1 / none	64.8	Lysobacter sp. II4	Bacteria	24	25	25	1	0
+76.81	154.80	Gma_000117-T1	WP_144238689.1 / none	47.9	Opitutaceae bacterium TAV5	Bacteria	16	25	25	9	0
+76.74	154.80	Gma_003058-T1	WP_057944513.1 / none	47.0	Lysobacter gummosus	Bacteria	7	9	9	2	0
+76.72	154.80	Gma_003604-T1	WP_008688258.1 / none	61.9	Firmicutes	Bacteria	22	24	25	2	0
+76.66	154.50	Gma_018724-T1	OPZ33064.1 / none	61.8	Tenericutes bacterium ADurb.BinA124	Bacteria	23	24	25	1	0
+75.72	154.10	Gma_003156-T1	WP_185814164.1 / none	67.0	Xanthomonas sp. SS	Bacteria	18	19	19	1	0
+75.65	154.80	Gma_002174-T1	TGC12216.1 / none	34.4	Escherichia sp. E4385	Bacteria	24	25	25	1	0
+75.29	153.70	Gma_002771-T1	PAZ02541.1 / none	53.7	Opitutae bacterium AMD-G3	Bacteria	14	25	25	11	0
+75.29	152.50	Gma_004207-T1	WP_185674989.1 / none	54.3	Ruficoccus amylovorans	Bacteria	10	24	25	14	0
+75.20	152.50	Gma_004208-T1	WP_185674989.1 / none	54.3	Ruficoccus amylovorans	Bacteria	10	24	25	14	0
+74.89	152.10	Gma_003898-T1	WP_096054720.1 / none	54.2	Nibricoccus aquaticus	Bacteria	16	24	25	8	0
+74.82	152.90	Gma_021807-T1	TAF21816.1 / none	34.6	Verrucomicrobia bacterium	Bacteria	6	20	21	14	0
+74.65	152.50	Gma_021891-T1	WP_183290216.1 / none	42.2	Chitinophaga sancti	Bacteria	25	25	25	0	0
+74.57	152.50	Gma_001038-T1	CRX37223.1 / none	39.6	Candidatus Hepatoplasma crinochetorum	Bacteria	22	24	25	2	0
+74.53	152.10	Gma_003243-T1	WP_008824869.1 / none	40.6	Haloplasma contractile	Bacteria	20	25	25	5	0
+74.48	107.40	Gma_019122-T1	YP_009333351.1 / XP_032578016.1	32.8	Beihai partiti-like virus 2	Viruses	1	1	3	0	0
+74.46	152.10	Gma_002763-T1	WP_156121321.1 / none	42.6	Alistipes sp. ZOR0009	Bacteria	19	25	25	6	0
+73.28	149.10	Gma_004333-T1	WP_099463927.1 / none	60.5	Parabacteroides	Bacteria	24	25	25	1	0
+73.28	149.10	Gma_004334-T1	WP_099463927.1 / none	60.5	Parabacteroides	Bacteria	24	25	25	1	0
+73.04	149.40	Gma_002647-T1	WP_113489908.1 / none	52.5	Rhizobiales bacterium	Bacteria	24	25	25	1	0
+72.73	149.80	Gma_001149-T1	CCZ85161.1 / none	67.3	Firmicutes bacterium CAG:631	Bacteria	23	25	25	2	0
+72.16	147.90	Gma_003568-T1	WP_068701737.1 / none	63.7	Paludibacter jiangxiensis	Bacteria	23	25	25	2	0
+71.87	147.50	Gma_002734-T1	WP_080903246.1 / none	64.9	Parabacteroides sp. Marseille-P3160	Bacteria	23	25	25	2	0
+71.86	147.50	Gma_019451-T1	WP_047791478.1 / none	46.6	Spiroplasma eriocheiris	Bacteria	25	25	25	0	0
+71.83	147.50	Gma_002619-T1	WP_189517345.1 / none	55.1	Cerasicoccus arenae	Bacteria	19	25	25	6	0
+71.80	148.70	Gma_003853-T1	KAA6303126.1 / none	48.1	Bacteroidales bacterium St1	Bacteria	25	25	25	0	0
+71.38	147.10	Gma_002574-T1	TVQ41218.1 / none	46.2	Spirochaetaceae bacterium	Bacteria	21	25	25	4	0
+71.28	147.50	Gma_003956-T1	OAM91711.1 / none	36.0	Opitutaceae bacterium TSB47	Bacteria	18	25	25	7	0
+70.97	147.50	Gma_002127-T1	WP_146784743.1 / none	36.7	Arachidicoccus ginsenosidivorans	Bacteria	25	25	25	0	0
+70.85	147.10	Gma_008562-T1	WP_123648377.1 / none	48.5	Lysobacter enzymogenes	Bacteria	25	25	25	0	0
+69.88	144.40	Gma_008435-T1	WP_148389028.1 / none	60.2	Chitinophaga sp. XS-30	Bacteria	23	25	25	2	0
+69.37	144.10	Gma_021046-T1	WP_133015903.1 / none	49.3	Clostridium cuniculi	Bacteria	23	25	25	2	0
+69.31	143.70	Gma_003891-T1	WP_035094309.1 / none	59.5	Devosia sp. 17-2-E-8	Bacteria	25	25	25	0	0
+69.24	145.20	Gma_001037-T1	CRX37242.1 / none	36.8	Candidatus Hepatoplasma crinochetorum	Bacteria	21	25	25	4	0
+68.74	142.90	Gma_002025-T1	WP_158732508.1 / none	66.9	Lysobacter sp. SYSU H10001	Bacteria	25	25	25	0	0
+68.74	142.90	Gma_002653-T1	WP_106829424.1 / none	56.5	Parabacteroides pacaensis	Bacteria	21	25	25	4	0
+67.85	143.30	Gma_002064-T1	WP_131613636.1 / none	41.5	Mycoplasma todarodis	Bacteria	25	25	25	0	0
+67.77	141.00	Gma_004029-T1	WP_119078275.1 / none	68.2	Chitinophaga alhagiae	Bacteria	24	24	25	0	0
+67.60	141.00	Gma_002596-T1	WP_163216609.1 / none	62.3	Bacteroides sp. 224	Bacteria	22	25	25	3	0
+67.19	141.40	Gma_021858-T1	WP_066097410.1 / none	55.6	Xanthomonas massiliensis	Bacteria	19	25	25	6	0
+67.16	141.00	Gma_003921-T1	TSA30993.1 / none	55.4	Opitutales bacterium	Bacteria	11	25	25	14	0
+67.02	140.20	Gma_000084-T1	WP_012573266.1 / none	64.1	Candidatus Azobacteroides pseudotrichonymphae	Bacteria	18	25	25	7	0
+66.90	140.20	Gma_004266-T1	WP_068714703.1 / none	66.0	Vibrio tritonius	Bacteria	25	25	25	0	0
+66.59	140.20	Gma_003901-T1	TVP78660.1 / none	42.9	Puniceicoccaceae bacterium	Bacteria	15	22	25	7	0
+66.37	144.40	Gma_015524-T1	WP_144966888.1 / none	23.6	Herbaspirillum hiltneri	Bacteria	25	25	25	0	0
+66.13	139.40	Gma_002299-T1	PMQ06095.1 / none	53.5	Dyella sp. AD56	Bacteria	23	25	25	2	0
+65.82	140.20	Gma_002573-T1	OQB85299.1 / none	38.3	Planctomycetes bacterium ADurb.Bin126	Bacteria	18	25	25	7	0
+65.00	138.30	Gma_021365-T1	ESN17358.1 / none	55.5	Enterobacter sp. MGH 24	Bacteria	24	25	25	1	0
+64.83	137.50	Gma_000123-T1	WP_099464268.1 / none	47.7	Parabacteroides	Bacteria	23	25	25	2	0
+64.79	137.90	Gma_020831-T1	WP_014062698.1 / none	41.0	Thermoanaerobacter wiegelii	Bacteria	25	25	25	0	0
+64.49	136.30	Gma_010122-T1	WP_074453610.1 / none	64.5	Tannerella forsythia	Bacteria	25	25	25	0	0
+64.29	137.50	Gma_003503-T1	RGR26248.1 / none	34.1	Bacteroides stercoris	Bacteria	25	25	25	0	0
+64.29	137.50	Gma_004489-T1	WP_124789928.1 / none	40.9	Tannerella forsythia	Bacteria	24	25	25	1	0
+64.07	137.50	Gma_002203-T1	VUS11236.1 / none	50.3	Stenotrophomonas maltophilia	Bacteria	1	1	1	0	0
+63.94	135.60	Gma_021875-T1	PKM15758.1 / none	61.3	Gammaproteobacteria bacterium HGW-Gammaproteobacteria-2	Bacteria	15	16	16	1	0
+63.68	136.00	Gma_005810-T1	WP_167619247.1 / none	42.3	Maribellus sp. GM1-28	Bacteria	17	24	25	7	0
+63.64	136.30	Gma_004437-T1	ODS81367.1 / none	68.1	Cytophagaceae bacterium SCN 52-12	Bacteria	21	25	25	4	0
+63.44	136.00	Gma_004202-T1	WP_166670762.1 / none	57.1	Olivibacter sp. XZL3	Bacteria	23	25	25	2	0
+63.37	136.30	Gma_004254-T1	PDH29450.1 / none	49.6	Puniceicoccaceae bacterium MED-G31	Bacteria	12	24	25	12	0
+63.37	135.20	Gma_005538-T1	WP_175632384.1 / none	46.1	Pedobacter sp. Marseille-Q2390	Bacteria	24	25	25	1	0
+63.31	135.20	Gma_003390-T1	PID61712.1 / none	50.0	Gammaproteobacteria bacterium	Bacteria	22	25	25	3	0
+63.22	135.20	Gma_020599-T1	WP_026893980.1 / none	44.8	Clostridiisalibacter paucivorans	Bacteria	20	25	25	5	0
+63.19	137.10	Gma_011930-T1	OBV29542.1 / none	39.8	Helicobacter sp. CLO-3	Bacteria	21	22	25	0	0
+62.99	134.80	Gma_004069-T1	WP_158733647.1 / none	63.8	Lysobacter sp. SYSU H10001	Bacteria	25	25	25	0	0
+62.97	134.40	Gma_002597-T1	OJX90563.1 / none	67.0	Paludibacter sp. 47-17	Bacteria	12	24	25	12	0
+62.65	135.20	Gma_021888-T1	WP_183970134.1 / none	36.1	Quisquiliibacterium transsilvanicum	Bacteria	23	24	25	1	0
+62.57	136.00	Gma_020468-T1	WP_160921297.1 / none	29.0	Alkalihalobacillus hwajinpoensis	Bacteria	21	24	25	3	0
+62.53	134.00	Gma_003950-T1	WP_074820114.1 / none	48.5	Pragia fontium	Bacteria	25	25	25	0	0
+62.20	133.30	Gma_003962-T1	RLA94767.1 / none	61.1	Deltaproteobacteria bacterium	Bacteria	1	24	25	0	0
+61.83	132.90	Gma_020762-T1	PLX79356.1 / none	49.3	Desulfuromonas sp.	Bacteria	23	25	25	2	0
+60.86	132.10	Gma_002736-T1	GBL27162.1 / none	45.9	Verrucomicrobia bacterium	Bacteria	16	25	25	9	0
+60.73	132.50	Gma_004250-T1	RFC50364.1 / none	52.9	Verrucomicrobia bacterium	Bacteria	13	25	25	12	0
+60.69	131.70	Gma_021707-T1	WP_191768627.1 / none	43.8	Stenotrophomonas sp. Sa5BUN4	Bacteria	24	25	25	1	0
+60.64	132.50	Gma_010360-T1	WP_095228504.1 / none	31.3	Helicobacter sp. 13S00401-1	Bacteria	22	25	25	3	0
+60.45	131.30	Gma_002533-T1	WP_165044162.1 / none	54.8	Dysgonomonas sp. ZJ709	Bacteria	25	25	25	0	0
+60.35	131.00	Gma_006367-T1	WP_085537319.1 / none	58.0	Massilibacteroides vaginae	Bacteria	23	25	25	2	0
+60.25	131.30	Gma_015601-T1	PPR40918.1 / none	63.0	Alphaproteobacteria bacterium MarineAlpha8_Bin1	Bacteria	2	25	25	2	0
+59.27	85.50	Gma_013698-T1	WP_112477227.1 / PSN55856.1	35.4	Wolbachia endosymbiont of Folsomia candida	Bacteria	3	3	25	0	0
+59.13	131.00	Gma_004289-T1	WP_165064820.1 / none	32.2	Paludisphaera sp. JC665	Bacteria	8	11	11	3	0
+59.03	129.80	Gma_002752-T1	WP_191320900.1 / none	39.3	Camelimonas fluminis	Bacteria	24	25	25	1	0
+58.99	129.40	Gma_000286-T1	WP_075048801.1 / none	58.8	Spiroplasma turonicum	Bacteria	25	25	25	0	0
+58.74	129.00	Gma_015599-T1	WP_005911117.1 / none	67.8	Fusobacterium	Bacteria	25	25	25	0	0
+58.70	129.40	Gma_017392-T1	CRX37166.1 / none	44.4	Candidatus Hepatoplasma crinochetorum	Bacteria	19	25	25	6	0
+58.61	129.00	Gma_000331-T1	CDE98160.1 / none	57.0	Clostridium sp. CAG:628	Bacteria	18	25	25	7	0
+58.46	127.90	Gma_000827-T1	OPZ33064.1 / none	62.4	Tenericutes bacterium ADurb.BinA124	Bacteria	20	25	25	5	0
+57.94	126.70	Gma_003862-T1	WP_158734211.1 / none	67.6	Lysobacter sp. SYSU H10001	Bacteria	24	25	25	1	0
+57.92	127.90	Gma_004393-T1	WP_162145297.1 / none	37.6	Chthoniobacter flavus	Bacteria	6	6	6	0	0
+57.16	126.30	Gma_002164-T1	WP_115861123.1 / none	52.0	Lysobacter silvisoli	Bacteria	24	25	25	1	0
+56.54	125.60	Gma_002667-T1	ERK03122.1 / none	59.4	Prevotella pleuritidis F0068	Bacteria	25	25	25	0	0
+56.50	125.90	Gma_004255-T1	CDE82933.1 / none	48.3	Coraliomargarita sp. CAG:312	Bacteria	12	24	25	12	0
+56.47	126.30	Gma_006536-T1	WP_016289356.1 / none	48.2	Lachnospiraceae bacterium 3-1	Bacteria	22	25	25	3	0
+56.43	124.80	Gma_010639-T1	WP_148726973.1 / none	57.1	Bacteroides pyogenes	Bacteria	21	25	25	4	0
+55.98	124.00	Gma_004466-T1	WP_176002947.1 / none	64.1	Rhizobiales bacterium	Bacteria	25	25	25	0	0
+55.84	125.90	Gma_012067-T1	WP_027473201.1 / none	30.0	Saccharicrinis fermentans	Bacteria	22	23	25	1	0
+55.58	124.80	Gma_004337-T1	CAA9304611.1 / none	35.5	uncultured Microvirga sp.	Bacteria	24	25	25	1	0
+55.46	123.20	Gma_017934-T1	WP_153820251.1 / none	61.1	Polyangium spumosum	Bacteria	9	12	12	3	0
+55.30	124.40	Gma_003884-T1	WP_091054872.1 / none	34.1	Opitutus sp. GAS368	Bacteria	22	24	25	2	0
+55.17	125.20	Gma_007369-T1	WP_154890235.1 / none	28.4	Paenibacillus xylanexedens	Bacteria	24	25	25	1	0
+55.17	124.80	Gma_015977-T1	OPD63308.1 / none	47.1	Lysobacter enzymogenes	Bacteria	25	25	25	0	0
+55.00	124.80	Gma_015594-T1	WP_163132767.1 / none	29.3	Agarivorans sp. Alg241-V36	Bacteria	25	25	25	0	0
+54.79	122.10	Gma_012071-T1	WP_158734167.1 / none	68.8	Lysobacter sp. SYSU H10001	Bacteria	23	25	25	2	0
+54.67	122.90	Gma_004010-T1	SBV94474.1 / none	46.7	uncultured delta proteobacterium	Bacteria	21	24	25	3	0
+54.62	122.50	Gma_000826-T1	WP_004025160.1 / none	63.7	Mycoplasma iowae	Bacteria	22	25	25	3	0
+54.52	122.10	Gma_003798-T1	GBU06876.1 / none	60.2	Bacteroidales bacterium	Bacteria	23	25	25	2	0
+54.47	122.90	Gma_003980-T1	OJU55022.1 / none	34.8	Bacteroidales bacterium 45-6	Bacteria	16	17	18	1	0
+54.47	122.10	Gma_021585-T1	WP_138292744.1 / none	55.0	Bacteroides intestinalis	Bacteria	23	25	25	2	0
+54.23	121.70	Gma_001954-T1	WP_177393373.1 / none	59.8	Alphaproteobacteria bacterium	Bacteria	22	23	25	1	0
+53.74	121.70	Gma_004134-T1	WP_158731999.1 / none	48.5	Lysobacter sp. SYSU H10001	Bacteria	21	25	25	4	0
+53.63	123.20	Gma_004226-T1	WP_007362771.1 / none	34.2	Opitutaceae bacterium TAV1	Bacteria	2	2	2	0	0
+53.61	120.60	Gma_004276-T1	GBL23245.1 / none	64.7	Opitutae bacterium	Bacteria	14	25	25	11	0
+53.58	121.30	Gma_021887-T1	WP_050700404.1 / none	40.8	Dysgonomonas sp. BGC7	Bacteria	24	25	25	1	0
+53.41	120.60	Gma_003968-T1	WP_153111623.1 / none	55.4	Propionivibrio limicola	Bacteria	21	25	25	4	0
+53.21	119.80	Gma_004284-T1	WP_046451763.1 / none	63.6	Parabacteroides merdae	Bacteria	22	25	25	3	0
+53.21	122.50	Gma_020469-T1	WP_139902300.1 / none	28.9	Clostridium thermarum	Bacteria	24	25	25	1	0
+52.86	120.90	Gma_003481-T1	TAM18641.1 / none	34.7	Rhodanobacter sp.	Bacteria	18	21	21	3	0
+52.78	120.20	Gma_002207-T1	WP_137267572.1 / none	63.1	Luteimonas gilva	Bacteria	25	25	25	0	0
+52.78	120.20	Gma_021315-T1	WP_100609170.1 / none	41.4	Entomoplasma freundtii	Bacteria	25	25	25	0	0
+52.55	120.20	Gma_005802-T1	WP_009505040.1 / none	42.7	Salipiger aestuarii	Bacteria	22	25	25	3	0
+52.27	119.00	Gma_004190-T1	PKN16401.1 / none	53.8	Deltaproteobacteria bacterium HGW-Deltaproteobacteria-23	Bacteria	20	23	25	3	0
+51.80	117.90	Gma_004012-T1	WP_124750872.1 / none	64.3	Tannerella forsythia	Bacteria	24	25	25	1	0
+51.77	118.60	Gma_004262-T1	WP_189516455.1 / none	43.2	Cerasicoccus arenae	Bacteria	10	25	25	15	0
+51.18	117.50	Gma_002805-T1	WP_015042065.1 / none	62.9	Bordetella parapertussis	Bacteria	21	25	25	4	0
+51.18	118.20	Gma_004000-T1	THD42360.1 / none	58.3	Bradyrhizobium sp.	Bacteria	23	25	25	2	0
+51.13	117.90	Gma_002800-T1	AUI46536.1 / none	58.6	Bacteroides fragilis	Bacteria	25	25	25	0	0
+51.06	117.90	Gma_003399-T1	RLG42525.1 / none	37.1	Candidatus Korarchaeota archaeon	Archaea	2	25	25	0	0
+50.98	73.60	Gma_006674-T1	TAM98668.1 / KAF5297776.1	58.7	Chitinophagaceae bacterium	Bacteria	2	3	25	1	0
+50.66	117.90	Gma_021322-T1	WP_052663405.1 / none	33.9	Mycoplasma testudinis	Bacteria	24	25	25	1	0
+50.56	116.30	Gma_003406-T1	RKX72315.1 / none	58.5	candidate division TA06 bacterium	Bacteria	20	25	25	5	0
+49.96	117.10	Gma_003238-T1	WP_085113117.1 / none	38.8	Thermoanaerobacterium sp. PSU-2	Bacteria	23	25	25	2	0
+49.96	115.20	Gma_003845-T1	WP_050732898.1 / none	69.5	Methylobacterium sp. ARG-1	Bacteria	25	25	25	0	0
+49.78	117.10	Gma_003989-T1	WP_185674883.1 / none	24.0	Ruficoccus amylovorans	Bacteria	22	25	25	3	0
+49.66	117.50	Gma_020769-T1	WP_094921832.1 / none	24.3	Lottiidibacillus patelloidae	Bacteria	25	25	25	0	0
+49.37	71.30	Gma_014208-T1	WP_110410115.1 / BAN21591.1	34.0	Wolbachia endosymbiont of Folsomia candida	Bacteria	1	1	17	0	0
+49.20	114.00	Gma_008038-T1	WP_153820251.1 / none	64.9	Polyangium spumosum	Bacteria	11	14	14	3	0
+49.18	114.80	Gma_002410-T1	WP_183427710.1 / none	45.3	Luteimonas sp. RC10	Bacteria	10	11	11	1	0
+49.18	115.50	Gma_020054-T1	PTQ52689.1 / none	59.4	Brockia lithotrophica	Bacteria	24	25	25	1	0
+49.11	114.80	Gma_000401-T1	WP_088431686.1 / none	60.4	Stenotrophomonas maltophilia	Bacteria	24	25	25	1	0
+49.05	116.70	Gma_008336-T1	WP_141345480.1 / none	44.0	Vibrio inusitatus	Bacteria	22	25	25	3	0
+48.57	115.20	Gma_016794-T1	WP_129720059.1 / none	29.7	Mycoplasma neurolyticum	Bacteria	24	24	25	0	0
+48.43	115.50	Gma_004319-T1	WP_116278638.1 / none	31.8	Virgibacillus dokdonensis	Bacteria	5	25	25	3	0
+48.29	69.70	Gma_009426-T1	WP_112477227.1 / PNF16237.1	33.1	Wolbachia endosymbiont of Folsomia candida	Bacteria	1	1	25	0	0
+48.17	112.80	Gma_002620-T1	WP_124789465.1 / none	47.2	Tannerella forsythia	Bacteria	23	25	25	2	0
+48.17	114.80	Gma_004302-T1	PHX79013.1 / none	36.0	Opitutae bacterium	Bacteria	10	22	25	12	0
+47.88	113.20	Gma_015543-T1	WP_074364429.1 / none	68.4	Clostridium sp. N3C	Bacteria	18	28	30	10	0
+47.82	113.20	Gma_004471-T1	WP_143158178.1 / none	52.9	Rubritalea squalenifaciens	Bacteria	19	25	25	6	0
+47.52	113.20	Gma_004060-T1	ODT04102.1 / none	49.5	Gemmatimonadetes bacterium SCN 70-22	Bacteria	18	24	25	6	0
+47.52	111.70	Gma_004409-T1	WP_013490013.1 / none	66.7	Bacillus cellulosilyticus	Bacteria	25	25	25	0	0
+47.26	112.80	Gma_010360-T2	RPH05490.1 / none	34.0	Alphaproteobacteria bacterium TMED93	Bacteria	22	25	25	3	0
+47.16	112.50	Gma_012225-T1	WP_036268766.1 / none	36.7	Mesoplasma seiffertii	Bacteria	22	24	25	2	0
+47.05	112.50	Gma_002007-T1	PZQ24369.1 / none	58.9	Stenotrophomonas acidaminiphila	Bacteria	21	21	21	0	0
+46.97	112.10	Gma_003872-T1	WP_106831374.1 / none	55.7	Parabacteroides pacaensis	Bacteria	25	25	25	0	0
+46.92	112.10	Gma_004425-T1	TAH38180.1 / none	35.3	Planctomycetes bacterium	Bacteria	22	25	25	3	0
+46.77	110.90	Gma_002140-T1	WP_158733630.1 / none	67.4	Lysobacter sp. SYSU H10001	Bacteria	25	25	25	0	0
+46.63	111.30	Gma_002750-T1	WP_124752115.1 / none	66.3	Tannerella forsythia	Bacteria	21	23	25	2	0
+45.96	109.80	Gma_008318-T1	WP_085774484.1 / none	48.5	Nonlabens sediminis	Bacteria	19	23	25	4	0
+45.65	110.20	Gma_001042-T1	CDC46027.1 / none	35.0	Firmicutes bacterium CAG:449	Bacteria	15	25	25	10	0
+45.65	110.20	Gma_020780-T1	WP_034819921.1 / none	39.9	[Eubacterium] nodatum	Bacteria	17	24	25	7	0
+45.46	110.50	Gma_003388-T1	WP_174404951.1 / none	33.5	Desulfovibrio sp. HN2	Bacteria	19	25	25	6	0
+45.14	109.00	Gma_010462-T1	GBU08251.1 / none	43.4	Bacteroidales bacterium	Bacteria	4	7	7	3	0
+44.99	108.60	Gma_002655-T1	WP_084431854.1 / none	49.2	unclassified Opitutaceae	Bacteria	20	25	25	5	0
+44.72	108.20	Gma_012256-T1	PYJ00536.1 / none	46.6	Verrucomicrobia bacterium	Bacteria	1	23	25	0	0
+44.57	109.00	Gma_021895-T1	GBL27740.1 / none	35.5	Verrucomicrobia bacterium	Bacteria	16	25	25	9	0
+43.97	107.10	Gma_002603-T1	GBU07498.1 / none	44.4	Bacteroidales bacterium	Bacteria	21	25	25	4	0
+43.91	107.80	Gma_004288-T1	GBU07203.1 / none	49.3	Bacteroidales bacterium	Bacteria	25	25	25	0	0
+43.87	108.20	Gma_001039-T1	WP_047753911.1 / none	46.0	Kosmotoga pacifica	Bacteria	16	25	25	9	0
+43.65	106.30	Gma_004011-T1	SBW07486.1 / none	50.0	uncultured Dysgonomonas sp.	Bacteria	23	25	25	2	0
+43.49	106.70	Gma_003951-T1	WP_129643597.1 / none	36.2	Bacteroides uniformis	Bacteria	10	13	13	3	0
+43.41	106.30	Gma_004407-T1	PKO98153.1 / none	50.4	Bacteroidetes bacterium HGW-Bacteroidetes-8	Bacteria	20	25	25	5	0
+43.22	105.50	Gma_003778-T1	WP_189496063.1 / none	62.2	Luteimonas padinae	Bacteria	2	2	2	0	0
+43.16	107.50	Gma_004339-T1	WP_091507064.1 / none	37.0	Flexibacter flexilis	Bacteria	18	24	25	6	0
+42.96	105.50	Gma_003418-T1	WP_173198765.1 / none	50.0	Geobacter sp. SVR	Bacteria	11	25	25	14	0
+42.87	106.30	Gma_018994-T1	WP_029512472.1 / none	43.2	Mycoplasma iners	Bacteria	24	25	25	1	0
+42.83	106.70	Gma_020771-T1	WP_134238862.1 / none	33.0	Campylobacter sp. US33a	Bacteria	5	25	25	20	0
+42.65	105.10	Gma_004055-T1	RIA78750.1 / none	48.6	Glomus cerebriforme	Eukaryota@Fungi	1	4	4	0	0
+42.39	105.50	Gma_004450-T1	WP_076931113.1 / none	42.7	Proteiniphilum saccharofermentans	Bacteria	6	8	8	2	0
+42.20	60.80	Gma_007275-T1	WP_110409268.1 / XP_024879170.1	48.4	Wolbachia endosymbiont of Folsomia candida	Bacteria	9	9	25	0	0
+42.12	105.10	Gma_003569-T1	ANB54847.1 / none	44.5	Aeromonas veronii	Bacteria	1	24	25	1	0
+41.88	104.00	Gma_002525-T1	WP_116528589.1 / none	52.9	Microvirga sp. KLBC 81	Bacteria	24	25	25	1	0
+41.80	103.60	Gma_003873-T1	GBU08797.1 / none	51.6	Bacteroidales bacterium	Bacteria	19	24	25	5	0
+41.56	104.80	Gma_020766-T1	WP_082172458.1 / none	26.9	Limnoraphis robusta	Bacteria	16	25	25	8	0
+41.47	104.40	Gma_003765-T1	VUR00957.1 / none	52.6	Stenotrophomonas maltophilia	Bacteria	2	2	2	0	0
+41.45	104.00	Gma_000077-T1	WP_183668255.1 / none	37.4	Parabacteroides faecis	Bacteria	3	3	3	0	0
+41.18	104.40	Gma_003888-T1	WP_157837066.1 / none	35.6	Geminisphaera colitermitum	Bacteria	2	2	2	0	0
+41.04	102.10	Gma_004270-T1	OHE73244.1 / none	67.6	Verrucomicrobia bacterium GWC2_42_7	Bacteria	14	25	25	11	0
+40.86	59.00	Gma_006587-T1	VFT03906.1 / CDW59146.1	54.7	Pseudomonas aeruginosa	Bacteria	2	2	25	0	0
+40.45	104.00	Gma_002561-T1	AJA07018.1 / none	39.5	Sphingopyxis fribergensis	Bacteria	24	25	25	1	0
+40.38	101.30	Gma_002529-T1	WP_128907748.1 / none	63.6	Halorubrum sp. BOL3-1	Archaea	1	25	25	0	0
+40.28	102.80	Gma_000327-T1	WP_070045722.1 / none	38.5	Mammaliicoccus lentus	Bacteria	23	25	25	2	0
+40.28	101.30	Gma_004176-T1	GBU07893.1 / none	65.1	Bacteroidales bacterium	Bacteria	24	25	25	1	0
+40.22	101.30	Gma_005903-T1	WP_167672719.1 / none	62.4	Microvirga sp. c23x22	Bacteria	24	25	25	1	0
+40.04	101.70	Gma_004026-T1	OGV73229.1 / none	48.1	Lentisphaerae bacterium RIFOXYA12_64_32	Bacteria	15	24	25	9	0
+39.84	101.70	Gma_006348-T1	WP_184621539.1 / none	55.4	Xanthomonas arboricola	Bacteria	23	25	25	2	0
+39.74	57.40	Gma_009283-T1	WP_144086350.1 / KAF2893532.1	27.0	Cardinium endosymbiont of Dermatophagoides farinae	Bacteria	1	1	25	0	0
+39.65	101.70	Gma_021811-T1	WP_185259524.1 / none	33.8	Anaerocolumna sp. CTTW	Bacteria	14	25	25	11	0
+39.59	101.30	Gma_003565-T1	WP_137832879.1 / none	56.5	Xanthomonadaceae bacterium P	Bacteria	24	25	25	1	0
+39.59	101.70	Gma_003603-T1	WP_030004579.1 / none	43.3	Acholeplasma brassicae	Bacteria	22	25	25	3	0
+39.14	101.70	Gma_002777-T1	WP_143184722.1 / none	26.9	Rubritalea squalenifaciens	Bacteria	15	24	25	9	0
+38.67	99.00	Gma_005811-T1	SDS36166.1 / none	61.2	Opitutus sp. GAS368	Bacteria	15	24	25	9	0
+38.61	99.80	Gma_006332-T1	KAF0093446.1 / none	37.9	Puniceicoccaceae bacterium 5H	Bacteria	2	2	2	0	0
+38.50	99.80	Gma_021703-T1	OYW77283.1 / none	52.0	Verrucomicrobia bacterium 12-59-8	Bacteria	8	13	15	5	0
+38.45	98.60	Gma_003908-T1	WP_071146499.1 / none	56.8	Bacteroides ihuae	Bacteria	20	25	25	5	0
+37.89	99.40	Gma_003246-T1	WP_178631611.1 / none	35.6	Clostridia bacterium	Bacteria	5	25	25	1	0
+37.71	99.40	Gma_004483-T1	WP_057788955.1 / none	27.0	Weissella minor	Bacteria	24	25	25	1	0
+37.46	97.10	Gma_003404-T1	OGT12039.1 / none	61.3	Gammaproteobacteria bacterium GWE2_42_36	Bacteria	20	25	25	5	0
+37.46	97.40	Gma_015550-T1	WP_085581224.1 / none	50.0	Thalassospira mesophila	Bacteria	21	25	25	4	0
+37.40	99.40	Gma_017043-T1	PYJ47066.1 / none	32.8	Verrucomicrobia bacterium	Bacteria	20	24	25	4	0
+37.26	98.20	Gma_002799-T1	WP_185676989.1 / none	32.4	Ruficoccus amylovorans	Bacteria	22	24	25	2	0
+37.24	97.40	Gma_002656-T1	WP_154199261.1 / none	38.5	Ancylomarina sp. 16SWW S1-10-2	Bacteria	11	12	12	1	0
+36.92	96.30	Gma_004481-T1	WP_012334495.1 / none	57.1	Methylobacterium sp. 4-46	Bacteria	25	25	25	0	0
+36.58	97.10	Gma_021639-T1	WP_169243634.1 / none	67.7	Chroococcidiopsis sp. PCC 6712	Bacteria	13	25	25	1	0
+36.44	97.80	Gma_002580-T1	OGV73227.1 / none	31.2	Lentisphaerae bacterium RIFOXYA12_64_32	Bacteria	1	2	2	1	0
+36.20	96.30	Gma_006532-T1	WP_163355485.1 / none	36.2	Dysgonomonas sp. 25	Bacteria	24	25	25	1	0
+36.05	97.40	Gma_002527-T1	WP_170060599.1 / none	54.0	Pseudomonas sp. WS 5410	Bacteria	23	23	25	0	0
+36.01	97.10	Gma_002608-T1	WP_163965014.1 / none	45.9	Puniceicoccales bacterium CK1056	Bacteria	16	19	25	3	0
+35.81	95.10	Gma_009028-T1	WP_106104172.1 / none	47.0	Mesoplasma florum	Bacteria	25	25	25	0	0
+35.71	94.40	Gma_003924-T1	WP_103983890.1 / none	65.7	Parabacteroides chinchillae	Bacteria	21	25	25	4	0
+35.29	95.50	Gma_000914-T1	WP_016274462.1 / none	30.0	Bacteroides uniformis	Bacteria	23	25	25	2	0
+35.17	94.40	Gma_002453-T1	WP_009958735.1 / none	50.5	Verrucomicrobium spinosum	Bacteria	20	23	25	3	0
+34.80	95.50	Gma_020675-T1	RRF90154.1 / none	36.7	Coriobacteriaceae bacterium	Bacteria	24	25	25	1	0
+34.66	94.70	Gma_000405-T1	WP_157956480.1 / none	30.2	Dyella sp. C11	Bacteria	1	1	1	0	0
+34.60	94.70	Gma_006276-T1	AVP49323.1 / none	32.5	Entomoplasma luminosum	Bacteria	25	25	25	0	0
+34.54	93.20	Gma_004063-T1	WP_097560321.1 / none	57.1	Tannerella forsythia	Bacteria	1	1	1	0	0
+34.44	92.80	Gma_002584-T1	WP_114772243.1 / none	63.8	Microvirga	Bacteria	25	25	25	0	0
+34.44	92.80	Gma_002640-T1	GBU07794.1 / none	46.7	Bacteroidales bacterium	Bacteria	6	9	9	3	0
+34.44	93.60	Gma_008384-T1	WP_023789927.1 / none	59.3	Spiroplasma apis	Bacteria	25	25	25	0	0
+34.36	92.40	Gma_008328-T1	WP_057944496.1 / none	62.8	Lysobacter gummosus	Bacteria	25	25	25	0	0
+34.28	94.40	Gma_001836-T1	WP_073153823.1 / none	27.1	Mesonia phycicola	Bacteria	25	25	25	0	0
+34.28	92.80	Gma_019975-T1	WP_177624483.1 / none	59.2	Clostridia bacterium	Bacteria	21	23	25	2	0
+33.41	90.90	Gma_004445-T1	WP_109599956.1 / none	63.9	Microvirga sp. 17 mud 1-3	Bacteria	24	25	25	1	0
+33.32	91.70	Gma_008386-T1	WP_162649400.1 / none	54.1	Spiroplasma sp. TIUS-1	Bacteria	24	25	25	1	0
+33.26	92.40	Gma_002613-T1	ACB76347.1 / none	28.6	Opitutus terrae PB90-1	Bacteria	4	4	4	0	0
+33.10	90.90	Gma_004062-T1	WP_097560321.1 / none	56.7	Tannerella forsythia	Bacteria	1	1	1	0	0
+32.95	94.00	Gma_003602-T1	KRO37607.1 / none	36.2	Acidimicrobium sp. BACL17 MAG-120924-bin0	Bacteria	15	25	25	10	0
+32.87	92.00	Gma_003651-T1	TXH43037.1 / none	35.3	Desulfurellales bacterium	Bacteria	1	1	1	0	0
+32.83	90.50	Gma_000521-T1	WP_145770460.1 / none	65.0	Denitratisoma oestradiolicum	Bacteria	25	25	25	0	0
+32.80	92.40	Gma_003444-T1	OFW80652.1 / none	31.3	Alphaproteobacteria bacterium RIFCSPHIGHO2_02_FULL_40_34	Bacteria	25	25	25	0	0
+32.62	91.30	Gma_006475-T1	VUQ40887.1 / none	52.2	Stenotrophomonas maltophilia	Bacteria	11	11	11	0	0
+32.57	47.00	Gma_002066-T1	KAF1853818.1 / KAF4529330.1	66.9	Lupinus albus	Eukaryota@Viridiplantae	1	4	25	3	0
+32.40	90.50	Gma_003876-T1	WP_152302172.1 / none	40.7	Ancylobacter sp. TS-1	Bacteria	6	6	6	0	0
+32.14	90.10	Gma_005800-T1	OFY31314.1 / none	36.2	Bacteroidetes bacterium GWF2_35_48	Bacteria	15	22	25	7	0
+31.90	91.30	Gma_004065-T1	EDS03379.1 / none	50.0	Alistipes putredinis DSM 17216	Bacteria	22	25	25	3	0
+31.54	90.90	Gma_002669-T1	WP_189569817.1 / none	32.4	Roseibacillus persicicus	Bacteria	22	25	25	3	0
+31.40	91.30	Gma_000320-T1	WP_099159850.1 / none	27.3	Virgibacillus ndiopensis	Bacteria	24	25	25	1	0
+31.28	88.60	Gma_003509-T1	VUQ58161.1 / none	51.5	Stenotrophomonas maltophilia	Bacteria	5	5	5	0	0
+31.28	90.90	Gma_003645-T1	WP_004626074.1 / none	28.4	Ralstonia pickettii	Bacteria	6	7	7	1	0
+31.28	90.90	Gma_003670-T1	WP_004626074.1 / none	28.4	Ralstonia pickettii	Bacteria	6	7	7	1	0
+31.17	89.40	Gma_010402-T1	SMF84209.1 / none	39.6	Paenibacillus uliginis N3/975	Bacteria	24	25	25	1	0
+31.07	90.10	Gma_002009-T1	WP_188638642.1 / none	38.5	Halomonas lutescens	Bacteria	3	3	3	0	0
+30.98	89.70	Gma_021342-T1	WP_100916666.1 / none	26.7	Spiroplasma floricola	Bacteria	25	25	25	0	0
+30.98	89.70	Gma_021345-T1	WP_100916666.1 / none	26.7	Spiroplasma floricola	Bacteria	25	25	25	0	0
+30.83	89.00	Gma_003986-T1	WP_163724177.1 / none	39.3	Parabacteroides sp. 52	Bacteria	17	24	25	7	0
+30.71	44.30	Gma_004803-T1	CRX36957.1 / KAF5303874.1	54.6	Candidatus Hepatoplasma crinochetorum	Bacteria	15	19	25	4	0
+30.69	89.40	Gma_004292-T1	WP_143053966.1 / none	37.9	Parapedobacter koreensis	Bacteria	20	24	25	4	0
+30.51	89.00	Gma_004307-T1	WP_142526950.1 / none	31.0	Pedobacter westerhofensis	Bacteria	20	22	25	2	0
+30.46	86.70	Gma_020761-T1	WP_118990605.1 / none	67.7	Suicoccus acidiformans	Bacteria	22	24	25	2	0
+30.43	87.00	Gma_016395-T1	WP_051418397.1 / none	50.6	Mesoplasma seiffertii	Bacteria	24	25	25	1	0
+30.08	88.20	Gma_020767-T1	WP_125235613.1 / none	34.1	Leptotrichia sp. OH3620_COT-345	Bacteria	24	25	25	1	0
+29.67	87.00	Gma_003392-T1	WP_009670525.1 / none	31.4	gamma proteobacterium IMCC1989	Bacteria	1	1	1	0	0
+29.53	86.70	Gma_020942-T1	RMH50193.1 / none	38.8	Zetaproteobacteria bacterium	Bacteria	19	25	25	6	0
+29.19	86.30	Gma_002792-T1	WP_122361418.1 / none	63.5	Parabacteroides sp. TM07-1AC	Bacteria	23	25	25	2	0
+28.94	84.70	Gma_004340-T1	WP_124750351.1 / none	56.6	Tannerella forsythia	Bacteria	24	25	25	1	0
+28.77	86.30	Gma_003677-T1	TXH43037.1 / none	35.8	Desulfurellales bacterium	Bacteria	1	1	1	0	0
+28.45	84.00	Gma_002548-T1	KMS93274.1 / none	60.3	Beta vulgaris subsp. vulgaris	Eukaryota@Viridiplantae	1	7	7	0	0
+28.41	86.70	Gma_020463-T1	WP_129726374.1 / none	27.0	Bacillus funiculus	Bacteria	20	25	25	5	0
+28.32	85.90	Gma_002654-T1	REK25436.1 / none	24.9	Planctomycetes bacterium	Bacteria	2	3	5	1	0
+28.30	84.70	Gma_004347-T1	WP_143732312.1 / none	60.0	Microbulbifer sp. GL-2	Bacteria	24	25	25	1	0
+28.04	40.40	Gma_003064-T1	YP_009333371.1 / XP_030755349.1	32.7	Beihai barnacle virus 12	Viruses	1	1	7	0	0
+27.77	40.00	Gma_000853-T1	WP_112477227.1 / XP_015917635.1	32.2	Wolbachia endosymbiont of Folsomia candida	Bacteria	1	1	25	0	0
+27.37	83.20	Gma_004453-T1	WP_139034223.1 / none	46.6	Methylobacterium sp. 17Sr1-39	Bacteria	25	25	25	0	0
+27.16	82.80	Gma_004016-T1	WP_078365572.1 / none	37.1	Rhodoferax fermentans	Bacteria	18	25	25	7	0
+27.16	84.00	Gma_006533-T1	WP_153869625.1 / none	57.3	Myxococcaceae	Bacteria	22	24	25	2	0
+26.76	83.20	Gma_016423-T1	OZA00558.1 / none	66.7	Rhizobiales bacterium 17-65-6	Bacteria	1	1	1	0	0
+26.53	82.40	Gma_004311-T1	GBL23436.1 / none	41.7	Opitutae bacterium	Bacteria	10	20	20	10	0
+26.50	83.20	Gma_010173-T1	WP_114564933.1 / none	28.8	Spiroplasma phoeniceum	Bacteria	24	24	25	0	0
+26.47	87.00	Gma_015526-T1	WP_129165493.1 / none	22.7	Oxalobacteraceae bacterium CAVE-383	Bacteria	7	8	8	1	0
+26.22	82.80	Gma_002006-T1	WP_170113244.1 / none	43.4	Ahniella affigens	Bacteria	6	6	6	0	0
+26.16	37.70	Gma_007967-T1	WP_104984661.1 / ODM98015.1	39.5	Sorangium cellulosum	Bacteria	19	20	25	1	0
+26.06	82.00	Gma_004005-T1	WP_081028786.1 / none	51.2	Bacteroides uniformis	Bacteria	25	25	25	0	0
+26.06	82.00	Gma_020456-T1	WP_025208487.1 / none	27.0	Candidatus Hepatoplasma crinochetorum	Bacteria	25	25	25	0	0
+26.02	80.10	Gma_004456-T1	WP_131840287.1 / none	65.5	Acetobacteroides hydrogenigenes	Bacteria	23	24	25	1	0
+25.87	83.20	Gma_002418-T1	OUN00624.1 / none	32.9	Firmicutes bacterium ZCTH02-B6	Bacteria	18	18	18	0	0
+25.82	80.50	Gma_020407-T1	WP_101780496.1 / none	56.9	Spiroplasma monobiae	Bacteria	25	25	25	0	0
+25.66	80.50	Gma_002578-T1	WP_110129876.1 / none	40.0	Coraliomargarita sinensis	Bacteria	14	23	25	9	0
+25.63	37.00	Gma_016203-T1	WP_112477227.1 / XP_015916276.1	30.2	Wolbachia endosymbiont of Folsomia candida	Bacteria	1	1	25	0	0
+25.59	81.60	Gma_011918-T1	WP_091011893.1 / none	29.6	Paraburkholderia megapolitana	Bacteria	3	3	3	0	0
+25.23	79.00	Gma_004303-T1	WP_091908958.1 / none	67.9	unclassified Porphyromonadaceae	Bacteria	19	21	21	2	0
+25.15	80.90	Gma_006531-T1	WP_075158149.1 / none	64.2	Paraburkholderia sp. SOS3	Bacteria	11	25	25	14	0
+25.10	36.20	Gma_016891-T1	CRX37033.1 / KAF5275448.1	47.6	Candidatus Hepatoplasma crinochetorum	Bacteria	18	22	25	4	0
+24.99	82.80	Gma_002136-T1	WP_167387490.1 / none	38.4	Paraburkholderia susongensis	Bacteria	5	5	5	0	0
+24.92	80.50	Gma_002762-T1	OJV40843.1 / none	42.6	Bacteroidales bacterium 36-12	Bacteria	2	2	2	0	0
+24.34	80.50	Gma_002895-T1	WP_115302876.1 / none	43.4	Legionella beliardensis	Bacteria	5	5	5	0	0
+24.34	78.60	Gma_004458-T1	WP_111069573.1 / none	41.9	Azospirillum ramasamyi	Bacteria	3	3	3	0	0
+24.30	35.10	Gma_006883-T1	WP_039950617.1 / XP_024879170.1	36.8	Wolbachia pipientis	Bacteria	3	3	25	0	0
+24.28	35.00	Gma_016418-T1	WP_112477227.1 / XP_024879170.1	31.1	Wolbachia endosymbiont of Folsomia candida	Bacteria	1	1	25	0	0
+24.26	77.80	Gma_004410-T1	WP_142540111.1 / none	51.6	Psychrobacillus lasiicapitis	Bacteria	25	25	25	0	0
+24.17	80.10	Gma_002636-T1	TSA34114.1 / none	28.2	Verrucomicrobiaceae bacterium	Bacteria	22	25	25	3	0
+24.17	79.00	Gma_004387-T1	WP_141481510.1 / none	67.7	Lysobacter maris	Bacteria	2	2	2	0	0
+24.08	79.70	Gma_001375-T1	EEX74677.1 / none	24.9	Leptotrichia hofstadii F0254	Bacteria	17	18	18	1	0
+24.02	79.30	Gma_004100-T1	WP_013443579.1 / none	29.4	Paludibacter propionicigenes	Bacteria	1	1	2	0	0
+23.94	78.20	Gma_004444-T1	WP_122362809.1 / none	58.9	Parabacteroides sp. TM07-1AC	Bacteria	46	48	48	2	0
+23.75	34.30	Gma_020050-T1	WP_110409268.1 / PSN47903.1	37.0	Wolbachia endosymbiont of Folsomia candida	Bacteria	7	7	19	0	0
+23.57	77.80	Gma_018538-T1	WP_028044486.1 / none	36.1	Candidatus Stoquefichus massiliensis	Bacteria	23	25	25	2	0
+23.41	78.60	Gma_018407-T1	WP_059042034.1 / none	61.8	Paenibacillus rubinfantis	Bacteria	25	25	25	0	0
+23.20	77.00	Gma_003939-T1	QDO75104.1 / none	47.7	Aeromonas caviae	Bacteria	6	16	16	0	0
+22.93	76.60	Gma_021053-T1	WP_036450194.1 / none	41.0	Mycoplasma molare	Bacteria	23	25	25	2	0
+22.62	75.10	Gma_015534-T1	WP_034440432.1 / none	69.2	Clostridium ihumii	Bacteria	22	25	25	3	0
+21.77	75.10	Gma_002700-T1	WP_005657240.1 / none	33.6	Bacteroides stercoris	Bacteria	24	25	25	1	0
+21.69	75.10	Gma_002428-T1	SBV94233.1 / none	47.3	uncultured Dysgonomonas sp.	Bacteria	9	9	9	0	0
+21.50	76.30	Gma_020056-T1	WP_124762801.1 / none	23.9	Erysipelotrichaceae bacterium OH741_COT-311	Bacteria	19	25	25	6	0
+21.32	74.70	Gma_011411-T1	OAE35364.1 / none	34.9	Marchantia polymorpha subsp. ruderalis	Eukaryota@Viridiplantae	6	6	6	0	0
+21.11	73.90	Gma_002703-T1	WP_166450940.1 / none	50.0	Chromobacterium haemolyticum	Bacteria	10	10	10	0	0
+20.96	74.30	Gma_003146-T1	VUQ42330.1 / none	36.3	Stenotrophomonas maltophilia	Bacteria	1	1	1	0	0
+20.83	30.00	Gma_019259-T1	WP_112477227.1 / XP_015910331.1	29.8	Wolbachia endosymbiont of Folsomia candida	Bacteria	1	1	25	0	0
+20.81	72.80	Gma_021044-T1	WP_097002851.1 / none	52.3	Lacrimispora amygdalina	Bacteria	14	25	25	1	0
+20.74	72.80	Gma_003012-T1	WP_163270705.1 / none	58.1	Dysgonomonas sp. 511	Bacteria	22	25	25	3	0
+20.30	29.30	Gma_019260-T1	WP_112477227.1 / XP_015910331.1	29.8	Wolbachia endosymbiont of Folsomia candida	Bacteria	1	1	25	0	0
+20.25	71.60	Gma_021804-T1	WP_185711906.1 / none	66.7	Tannerella forsythia	Bacteria	24	25	25	1	0
+20.19	73.20	Gma_003844-T1	WP_131244952.1 / none	43.2	Paraburkholderia steynii	Bacteria	5	5	5	0	0
+20.19	72.00	Gma_003941-T1	AWT59378.1 / none	58.6	Candidatus Moanabacter tarae	Bacteria	11	23	25	12	0
+20.14	71.60	Gma_003982-T1	WP_163178602.1 / none	63.0	Bacteroides sp. 51	Bacteria	5	9	9	4	0
+19.98	74.30	Gma_004423-T1	ODU24506.1 / none	43.5	Verrucomicrobia bacterium SCN 57-15	Bacteria	1	1	2	0	0
+19.93	72.00	Gma_015603-T1	WP_093024075.1 / none	45.0	Pustulibacterium marinum	Bacteria	17	25	25	8	0
+19.89	73.60	Gma_000541-T1	WP_106935004.1 / none	37.1	Variovorax sp. PMC12	Bacteria	23	25	25	2	0
+19.81	72.80	Gma_002939-T1	WP_117759449.1 / none	35.4	unclassified Collinsella	Bacteria	19	24	25	5	0
+19.73	72.40	Gma_002615-T1	SOY53658.1 / none	36.3	Cupriavidus taiwanensis	Bacteria	5	5	5	0	0
+19.73	73.60	Gma_004973-T1	WP_158539509.1 / none	26.5	unclassified Pseudomonas	Bacteria	24	25	25	1	0
+19.56	70.90	Gma_003737-T1	WP_158733630.1 / none	68.3	Lysobacter sp. SYSU H10001	Bacteria	1	1	1	0	0
+19.48	28.20	Gma_005453-T1	WP_112477227.1 / XP_033335214.1	30.8	Wolbachia endosymbiont of Folsomia candida	Bacteria	1	1	25	0	0
+19.41	72.00	Gma_000728-T1	OLB83652.1 / none	33.9	Actinobacteria bacterium 13_2_20CM_2_66_6	Bacteria	17	19	19	2	0
+19.36	72.00	Gma_000615-T1	OLB83652.1 / none	33.9	Actinobacteria bacterium 13_2_20CM_2_66_6	Bacteria	23	25	25	2	0
+19.06	70.10	Gma_004451-T1	WP_176873326.1 / none	61.2	Bacteroidales bacterium	Bacteria	21	25	25	4	0
+18.97	70.90	Gma_003958-T1	WP_155284145.1 / none	30.7	Capnocytophaga felis	Bacteria	25	25	25	0	0
+18.84	70.90	Gma_003087-T1	SON83195.1 / none	60.0	Xanthomonas citri pv. fuscans	Bacteria	3	3	3	0	0
+18.84	73.20	Gma_010475-T1	ORY33368.1 / none	29.8	Naematelia encephala	Eukaryota@Fungi	1	14	14	0	0
+18.72	72.80	Gma_010475-T2	ORY33368.1 / none	29.8	Naematelia encephala	Eukaryota@Fungi	1	13	13	0	0
+18.71	27.00	Gma_004271-T1	WP_131308860.1 / XP_030200133.1	37.0	Siculibacillus lacustris	Bacteria	17	23	25	6	0
+18.62	70.10	Gma_003393-T1	RTL04379.1 / none	51.2	Acidimicrobiia bacterium	Bacteria	13	15	15	2	0
+18.44	70.10	Gma_021470-T1	VVH58133.1 / none	42.2	uncultured Gammaproteobacteria bacterium	Bacteria	1	1	1	0	0
+18.42	71.20	Gma_007808-T1	KAE8674058.1 / none	27.2	Hibiscus syriacus	Eukaryota@Viridiplantae	25	25	25	0	0
+18.24	69.70	Gma_004129-T1	WP_192164200.1 / none	42.3	Rhodanobacter sp. DHG33	Bacteria	11	11	11	0	0
+18.16	70.10	Gma_015547-T1	WP_173197552.1 / none	36.8	Parvularcula mediterranea	Bacteria	22	25	25	3	0
+18.08	70.10	Gma_004460-T1	WP_109598402.1 / none	66.0	Microvirga sp. 17 mud 1-3	Bacteria	25	25	25	0	0
+17.83	70.50	Gma_003961-T1	WP_007362892.1 / none	26.0	Opitutaceae bacterium TAV1	Bacteria	2	2	2	0	0
+17.59	70.10	Gma_002118-T1	WP_146095102.1 / none	47.4	Xanthomonas arboricola	Bacteria	12	12	12	0	0
+17.59	68.60	Gma_004178-T1	WP_127462539.1 / none	40.7	Paenibacillus elgii	Bacteria	22	23	23	1	0
+17.43	69.70	Gma_003783-T1	VUJ69469.1 / none	59.1	Stenotrophomonas maltophilia	Bacteria	5	5	5	0	0
+16.77	67.80	Gma_004272-T1	WP_131308860.1 / none	32.8	Siculibacillus lacustris	Bacteria	15	16	16	1	0
+16.75	70.50	Gma_021672-T1	WP_115123557.1 / none	27.7	Marinirhabdus gelatinilytica	Bacteria	4	4	4	0	0
+16.75	70.50	Gma_021675-T1	WP_115123557.1 / none	27.7	Marinirhabdus gelatinilytica	Bacteria	5	5	5	0	0
+16.73	68.60	Gma_003889-T1	WP_120129065.1 / none	32.9	Pseudomonas sp. LS-2	Bacteria	16	16	16	0	0
+16.70	67.40	Gma_015593-T1	WP_069298185.1 / none	47.4	Pelagibacteraceae bacterium ETNP-OMZ-SAG-E2	Bacteria	9	18	25	9	0
+16.65	67.00	Gma_003386-T1	WP_018249557.1 / none	45.8	Orenia marismortui	Bacteria	21	22	22	1	0
+16.58	66.60	Gma_004227-T1	PYO02034.1 / none	44.3	Candidatus Rokubacteria bacterium	Bacteria	19	25	25	6	0
+16.56	69.30	Gma_003858-T1	WP_169457200.1 / none	33.5	Luteolibacter luteus	Bacteria	2	2	2	0	0
+16.43	66.60	Gma_003971-T1	WP_145928503.1 / none	47.9	Opitutaceae bacterium TSB47	Bacteria	14	16	16	2	0
+16.27	67.80	Gma_008648-T1	WP_142535289.1 / none	33.1	Peptacetobacter hominis	Bacteria	25	25	25	0	0
+16.22	65.90	Gma_004447-T1	WP_128133835.1 / none	61.2	Parabacteroides sp. AM58-2XD	Bacteria	25	25	25	0	0
+16.22	67.40	Gma_006309-T1	WP_170264722.1 / none	41.0	Spiroplasma tabanidicola	Bacteria	22	22	22	0	0
+16.21	23.40	Gma_019841-T1	KAF2460937.1 / XP_021959686.1	27.5	Lineolata rhizophorae	Eukaryota@Fungi	1	1	6	0	0
+16.04	23.10	Gma_001055-T1	4I3H_A / KAF5275519.1	37.7	Streptococcus pneumoniae TIGR4	Bacteria	1	1	25	0	0
+16.02	67.40	Gma_004263-T1	WP_147655377.1 / none	43.0	Youhaiella tibetensis	Bacteria	25	25	25	0	0
+16.02	67.00	Gma_004418-T1	CFU08888.1 / none	59.7	Bordetella pertussis	Bacteria	4	4	4	0	0
+16.02	23.10	Gma_021307-T1	CDB22173.1 / XP_013078513.1	53.8	Bifidobacterium bifidum CAG:234	Bacteria	1	7	25	0	0
+15.65	65.50	Gma_003981-T1	WP_042367720.1 / none	47.2	Bacteroides neonati	Bacteria	11	12	13	1	0
+15.59	68.20	Gma_020466-T1	WP_165101609.1 / none	25.7	unclassified Paenibacillus	Bacteria	4	4	4	0	0
+15.42	67.80	Gma_004309-T1	PAZ06097.1 / none	30.1	Opitutae bacterium AMD-G1	Bacteria	4	9	9	5	0
+15.33	68.60	Gma_007084-T1	WP_182405707.1 / none	25.0	Psychrobacter sp. GP33	Bacteria	2	3	3	1	0
+15.24	21.90	Gma_006837-T1	WP_015589028.1 / XP_029033925.1	34.4	unclassified Wolbachia	Bacteria	1	1	25	0	0
+15.20	66.20	Gma_002605-T1	PIU54485.1 / none	42.4	Deltaproteobacteria bacterium CG07_land_8_20_14_0_80_60_11	Bacteria	5	5	5	0	0
+15.12	64.30	Gma_004242-T1	WP_145004717.1 / none	53.7	Olleya sp. Hel_I_94	Bacteria	19	25	25	6	0

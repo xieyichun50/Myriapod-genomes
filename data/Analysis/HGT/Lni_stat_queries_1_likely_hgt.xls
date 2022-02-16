@@ -1,0 +1,762 @@
+
+ai	hgtscore	query	best_donor_acc / best_toi_acc	best_donor_pident	best_donor_orgname	best_donor_taxonomy	nb_hits_supporting_taxo	nb_hits_between_donor_and_possible_toi	nb_total_hits	nb_unknown_acc (dr)	nb_excluded_acc (dr)
+460.52	965.30	Lni_010218-T1	WP_128143808.1 / none	59.0	Serratia rubidaea	Bacteria	17	25	25	8	0
+460.52	800.00	Lni_014588-T1	YP_001956953.1 / none	53.9	Pseudomonas phage 201phi2-1	Viruses	4	25	25	0	0
+460.52	781.60	Lni_017542-T1	WP_137740720.1 / none	60.4	Pectobacterium polonicum	Bacteria	16	17	25	1	0
+460.52	1429.50	Lni_017579-T1	OXI65818.1 / none	60.2	Burkholderia sp. AU31280	Bacteria	24	25	25	1	0
+460.52	1208.40	Lni_018459-T1	WP_016657883.1 / none	68.5	Acinetobacter rudis	Bacteria	25	25	25	0	0
+460.52	923.30	Lni_018479-T1	YP_009196646.1 / none	66.1	Cronobacter phage S13	Viruses	21	25	25	0	0
+460.52	1054.30	Lni_018481-T1	YP_009196632.1 / none	69.6	Cronobacter phage S13	Viruses	24	25	25	1	0
+460.52	768.80	Lni_018498-T1	YP_009196432.1 / none	56.5	Cronobacter phage S13	Viruses	25	25	25	0	0
+460.52	1482.60	Lni_018543-T1	CAK13627.1 / none	58.0	Pseudomonas entomophila L48	Bacteria	24	25	25	1	0
+460.52	968.80	Lni_018544-T1	WP_011532060.1 / none	56.4	Pseudomonas entomophila	Bacteria	25	25	25	0	0
+460.52	1634.00	Lni_018681-T1	YP_007005940.1 / none	64.1	Bacillus phage BCD7	Viruses	1	13	13	0	0
+460.52	927.90	Lni_018745-T1	STJ45710.1 / none	69.8	Escherichia coli	Bacteria	15	25	25	10	0
+460.52	951.40	Lni_019451-T1	WP_137765580.1 / none	50.1	Nissabacter sp. SGAir0207	Bacteria	25	25	25	0	0
+460.52	1095.90	Lni_020908-T1	WP_006684033.1 / none	62.0	Citrobacter youngae	Bacteria	19	25	25	6	0
+460.52	742.70	Lni_022807-T1	STG50180.1 / none	56.7	Escherichia coli	Bacteria	25	25	25	0	0
+460.52	1048.90	Lni_022954-T1	YP_009196394.1 / none	52.3	Cronobacter phage S13	Viruses	25	25	25	0	0
+460.52	1214.50	Lni_023086-T1	WP_029093351.1 / none	53.7	Budvicia aquatica	Bacteria	25	25	25	0	0
+460.52	819.70	Lni_023107-T1	WP_112917637.1 / none	62.2	Escherichia coli	Bacteria	15	22	25	7	0
+460.52	827.00	Lni_023976-T1	YP_009196540.1 / none	60.7	Cronobacter phage S13	Viruses	25	25	25	0	0
+460.52	994.60	Lni_024620-T1	YP_007005930.1 / none	53.2	Bacillus phage BCD7	Viruses	1	25	25	0	0
+460.52	745.00	Lni_025177-T1	WP_005294107.1 / none	64.1	Acinetobacter sp. NIPH 2100	Bacteria	25	25	25	0	0
+460.52	1535.00	Lni_027450-T1	WP_137379540.1 / none	65.9	Citrobacter sp. wls826	Bacteria	21	25	25	4	0
+460.52	937.60	Lni_028766-T1	WP_094882402.1 / none	62.9	Salmonella enterica	Bacteria	5	25	25	20	0
+460.52	1062.40	Lni_031947-T1	WP_114199286.1 / none	41.8	Paraburkholderia caledonica	Bacteria	25	25	25	0	0
+460.52	850.10	Lni_031950-T1	QCP52216.1 / none	54.7	Burkholderia sp. DHOD12	Bacteria	24	25	25	1	0
+460.52	1216.40	Lni_042632-T1	QAY00559.1 / none	66.1	Escherichia phage Ecwhy_1	Viruses	2	24	25	1	0
+460.52	844.30	Lni_042657-T1	YP_009150318.1 / none	68.4	Escherichia phage PBECO4	Viruses	2	22	25	2	0
+460.52	949.50	Lni_042868-T1	QAY00386.1 / none	61.0	Escherichia phage Ecwhy_1	Viruses	2	25	25	0	0
+460.52	1432.90	Lni_043594-T1	YP_009196394.1 / none	68.5	Cronobacter phage S13	Viruses	25	25	25	0	0
+460.52	728.80	Lni_043595-T1	YP_009196392.1 / none	47.4	Cronobacter phage S13	Viruses	6	25	25	0	0
+460.52	1048.90	Lni_043675-T1	YP_009196479.1 / none	57.3	Cronobacter phage S13	Viruses	22	25	25	3	0
+460.52	1005.70	Lni_058714-T1	WP_096595152.1 / none	38.1	Calothrix sp. NIES-2098	Bacteria	22	25	25	3	0
+460.51	718.80	Lni_025176-T1	WP_005287195.1 / none	56.3	Acinetobacter	Bacteria	25	25	25	0	0
+459.45	709.10	Lni_017751-T1	YP_009102754.1 / none	67.3	Lelliottia phage phD2B	Viruses	14	25	25	3	0
+448.74	693.30	Lni_028754-T1	WP_150437884.1 / none	57.4	Brenneria sp. L3-3HA	Bacteria	7	23	25	16	0
+446.23	690.30	Lni_010215-T1	WP_048636632.1 / none	61.0	Brenneria goodwinii	Bacteria	24	25	25	1	0
+440.08	681.00	Lni_017500-T1	YP_007005944.1 / none	67.1	Bacillus phage BCD7	Viruses	1	25	25	0	0
+430.05	666.00	Lni_018679-T1	YP_007005933.1 / none	67.8	Bacillus phage BCD7	Viruses	1	25	25	0	0
+424.62	658.30	Lni_007231-T1	WP_166591227.1 / none	64.9	Pseudomonas sp. BC115LW	Bacteria	24	24	25	0	0
+422.84	655.60	Lni_038897-T1	WP_153484919.1 / none	65.8	Rhizobiales bacterium Sp-1	Bacteria	23	25	25	2	0
+422.26	655.20	Lni_018255-T1	WP_182818713.1 / none	51.7	Pseudomonas putida	Bacteria	24	25	25	1	0
+419.83	651.40	Lni_018554-T1	YP_001956998.1 / none	55.0	Pseudomonas phage 201phi2-1	Viruses	14	21	21	1	0
+419.63	651.00	Lni_056169-T1	WP_153484919.1 / none	66.7	Rhizobiales bacterium Sp-1	Bacteria	23	25	25	2	0
+418.11	650.60	Lni_017827-T1	WP_136401517.1 / none	30.8	Flavobacterium sp. CC-CTC003	Bacteria	1	1	1	0	0
+414.37	643.30	Lni_018478-T1	YP_009196644.1 / none	57.3	Cronobacter phage S13	Viruses	3	25	25	0	0
+404.34	630.60	Lni_033522-T1	WP_096595152.1 / none	32.5	Calothrix sp. NIES-2098	Bacteria	22	24	25	2	0
+396.20	617.80	Lni_028756-T1	RYO77138.1 / none	44.4	Monosporascus cannonballus	Eukaryota@Fungi	1	23	25	0	0
+394.56	615.50	Lni_010216-T1	WP_134707422.1 / none	63.8	Enterobacter sp. A11	Bacteria	23	25	25	2	0
+394.19	615.10	Lni_043674-T1	YP_009196478.1 / none	66.6	Cronobacter phage S13	Viruses	4	4	4	0	0
+392.09	611.70	Lni_019010-T1	WP_119797992.1 / none	57.5	Candidatus Fukatsuia symbiotica	Bacteria	25	25	25	0	0
+388.87	607.40	Lni_025175-T1	WP_005287189.1 / none	58.3	Acinetobacter	Bacteria	25	25	25	0	0
+388.73	606.70	Lni_008332-T1	YP_001956969.1 / none	56.1	Pseudomonas phage 201phi2-1	Viruses	5	5	5	0	0
+388.73	606.30	Lni_011945-T1	WP_075041228.1 / none	64.9	Acinetobacter radioresistens	Bacteria	24	25	25	1	0
+387.59	604.70	Lni_044654-T1	WP_153484919.1 / none	62.6	Rhizobiales bacterium Sp-1	Bacteria	24	25	25	1	0
+378.24	591.70	Lni_023089-T1	YP_001956939.1 / none	57.2	Pseudomonas phage 201phi2-1	Viruses	19	25	25	1	0
+377.98	590.90	Lni_049831-T1	WP_153484919.1 / none	61.7	Rhizobiales bacterium Sp-1	Bacteria	23	25	25	2	0
+370.25	580.50	Lni_074245-T1	RPA82103.1 / none	42.2	Ascobolus immersus RN42	Eukaryota@Fungi	25	25	25	0	0
+369.41	578.90	Lni_040150-T1	TAE56096.1 / none	49.5	Nostocales cyanobacterium	Bacteria	1	25	25	0	0
+369.03	578.20	Lni_077758-T1	WP_153484919.1 / none	61.3	Rhizobiales bacterium Sp-1	Bacteria	25	25	25	0	0
+364.65	571.60	Lni_077760-T1	WP_153484919.1 / none	60.9	Rhizobiales bacterium Sp-1	Bacteria	25	25	25	0	0
+362.58	568.50	Lni_014749-T1	YP_001956878.1 / none	68.8	Pseudomonas phage 201phi2-1	Viruses	5	5	5	0	0
+362.24	568.20	Lni_018493-T1	EEC85020.1 / none	63.3	Oryza sativa Indica Group	Eukaryota@Viridiplantae	1	25	25	0	0
+356.90	560.80	Lni_022948-T1	YP_001957019.1 / none	48.7	Pseudomonas phage 201phi2-1	Viruses	10	16	16	1	0
+351.65	553.10	Lni_007180-T1	WP_113916471.1 / none	56.2	Marinomonas rhizomae	Bacteria	20	25	25	5	0
+346.81	546.60	Lni_017237-T1	KAB2571134.1 / none	41.8	Lasiodiplodia theobromae	Eukaryota@Fungi	25	25	25	0	0
+346.70	545.80	Lni_025404-T1	WP_151781479.1 / none	59.0	Acinetobacter bereziniae	Bacteria	25	25	25	0	0
+343.09	541.20	Lni_023989-T1	YP_009196478.1 / none	60.0	Cronobacter phage S13	Viruses	7	7	7	0	0
+340.14	536.60	Lni_028751-T1	WP_142016559.1 / none	50.2	Serratia fonticola	Bacteria	22	23	25	1	0
+339.72	535.40	Lni_014769-T1	WP_191086836.1 / none	69.3	Pseudomonas putida	Bacteria	25	25	25	0	0
+330.16	521.90	Lni_017733-T1	QLQ31996.1 / none	52.8	Candidatus Thiothrix singaporensis	Bacteria	21	25	25	4	0
+325.02	514.20	Lni_008337-T1	QJB22712.1 / none	69.0	Pseudomonas phage fnug	Viruses	2	25	25	0	0
+324.77	515.00	Lni_022956-T1	YP_009196392.1 / none	40.0	Cronobacter phage S13	Viruses	15	25	25	0	0
+320.68	507.70	Lni_017714-T1	WP_032939463.1 / none	59.5	Citrobacter youngae	Bacteria	25	25	25	0	0
+313.86	498.40	Lni_017284-T1	WP_157696396.1 / none	57.1	Pseudomonas asplenii	Bacteria	25	25	25	0	0
+312.97	496.90	Lni_042615-T1	YP_007007619.1 / none	65.9	Klebsiella phage vB_KleM_RaK2	Viruses	2	25	25	0	0
+312.51	497.70	Lni_017600-T1	YP_001957174.1 / none	34.2	Pseudomonas phage 201phi2-1	Viruses	2	25	25	0	0
+310.59	494.20	Lni_015004-T1	WP_069234872.1 / none	64.3	unclassified Burkholderia	Bacteria	25	25	25	0	0
+309.54	492.30	Lni_042837-T1	QOE32508.1 / none	61.4	Klebsiella phage Muenster	Viruses	6	22	25	1	0
+308.28	490.00	Lni_070580-T1	WP_076355266.1 / none	65.7	Chryseobacterium joostei	Bacteria	24	25	25	1	0
+308.02	490.00	Lni_007452-T1	WP_023483532.1 / none	59.9	Paenibacillus larvae	Bacteria	24	25	25	1	0
+306.88	488.00	Lni_046456-T1	WP_076355266.1 / none	63.1	Chryseobacterium joostei	Bacteria	25	25	25	0	0
+306.88	488.00	Lni_046457-T1	WP_076355266.1 / none	63.1	Chryseobacterium joostei	Bacteria	25	25	25	0	0
+306.59	488.40	Lni_017464-T1	YP_001956984.1 / none	62.4	Pseudomonas phage 201phi2-1	Viruses	9	9	9	0	0
+305.46	486.10	Lni_019449-T1	WP_142445415.1 / none	51.9	Klebsiella grimontii	Bacteria	23	25	25	2	0
+305.02	485.30	Lni_066091-T1	WP_175623343.1 / none	62.9	Chryseobacterium sp. Marseille-P9602	Bacteria	24	25	25	1	0
+304.33	484.20	Lni_017514-T1	YP_009196402.1 / none	61.7	Cronobacter phage S13	Viruses	14	25	25	1	0
+302.35	481.50	Lni_077563-T1	WP_103247155.1 / none	64.1	Chryseobacterium phosphatilyticum	Bacteria	24	25	25	1	0
+302.35	481.50	Lni_077564-T1	WP_103247155.1 / none	64.1	Chryseobacterium phosphatilyticum	Bacteria	24	25	25	1	0
+302.27	481.90	Lni_031735-T1	YP_007005960.1 / none	69.2	Bacillus phage BCD7	Viruses	2	4	4	0	0
+301.05	479.60	Lni_058103-T1	WP_123943108.1 / none	63.6	Chryseobacterium sp. G0186	Bacteria	25	25	25	0	0
+299.81	478.00	Lni_018244-T1	YP_001956869.1 / none	55.4	Pseudomonas phage 201phi2-1	Viruses	10	12	12	2	0
+298.42	476.10	Lni_017606-T1	YP_001957008.1 / none	66.1	Pseudomonas phage 201phi2-1	Viruses	6	25	25	0	0
+297.26	474.60	Lni_042873-T1	QAY00372.1 / none	66.6	Escherichia phage Ecwhy_1	Viruses	2	24	25	1	0
+296.04	473.80	Lni_022957-T1	WP_137464956.1 / none	44.3	Escherichia coli	Bacteria	1	25	25	0	0
+296.00	472.20	Lni_043122-T1	WP_079179434.1 / none	68.9	Streptomyces atratus	Bacteria	15	25	25	3	0
+296.00	472.20	Lni_047917-T1	WP_079179434.1 / none	68.9	Streptomyces atratus	Bacteria	15	25	25	3	0
+295.24	471.50	Lni_018540-T1	WP_079808075.1 / none	64.7	Salmonella enterica	Bacteria	18	25	25	7	0
+294.93	470.70	Lni_070682-T1	WP_079179434.1 / none	69.7	Streptomyces atratus	Bacteria	15	25	25	3	0
+293.70	469.20	Lni_018246-T1	YP_001956872.1 / none	58.8	Pseudomonas phage 201phi2-1	Viruses	4	4	4	0	0
+291.74	466.50	Lni_011946-T1	WP_075041232.1 / none	46.8	Acinetobacter radioresistens	Bacteria	24	25	25	1	0
+289.94	464.50	Lni_042866-T1	QAY00390.1 / none	51.8	Escherichia phage Ecwhy_1	Viruses	1	24	25	3	0
+288.87	461.80	Lni_014601-T1	WP_189282420.1 / none	67.5	Streptomyces atratus	Bacteria	15	25	25	3	0
+288.27	461.10	Lni_024581-T1	YP_009196588.1 / none	63.7	Cronobacter phage S13	Viruses	2	25	25	0	0
+288.06	460.70	Lni_013268-T1	WP_189548209.1 / none	66.6	Streptomyces gelaticus	Bacteria	15	25	25	3	0
+285.69	457.60	Lni_023374-T1	WP_048028532.1 / none	67.9	Leclercia	Bacteria	25	25	25	0	0
+284.78	456.80	Lni_042909-T1	AXC36581.1 / none	51.2	Escherichia phage UB	Viruses	4	25	25	3	0
+283.83	457.20	Lni_042658-T1	QAY00486.1 / none	64.8	Escherichia phage Ecwhy_1	Viruses	2	32	33	1	0
+282.69	454.10	Lni_018212-T1	TAE56096.1 / none	43.1	Nostocales cyanobacterium	Bacteria	1	25	25	0	0
+280.65	450.30	Lni_014873-T1	YP_001956998.1 / none	61.9	Pseudomonas phage 201phi2-1	Viruses	12	13	13	1	0
+278.78	448.00	Lni_018269-T1	YP_001956943.1 / none	55.3	Pseudomonas phage 201phi2-1	Viruses	7	16	16	0	0
+274.76	441.80	Lni_038317-T1	ORY96852.1 / none	53.3	Syncephalastrum racemosum	Eukaryota@Fungi	3	25	25	0	0
+273.83	440.30	Lni_018458-T1	WP_086207916.1 / none	62.1	unclassified Acinetobacter	Bacteria	25	25	25	0	0
+271.37	437.20	Lni_015335-T1	WP_189008864.1 / none	52.2	Deinococcus roseus	Bacteria	23	25	25	2	0
+271.37	437.20	Lni_036013-T1	WP_146884959.1 / none	51.7	Deinococcus cellulosilyticus	Bacteria	22	25	25	3	0
+271.17	436.40	Lni_057935-T1	WP_170210376.1 / none	63.9	Saccharopolyspora antimicrobica	Bacteria	15	25	25	3	0
+268.45	433.00	Lni_050925-T1	PRX40969.1 / none	48.8	Planifilum fimeticola	Bacteria	16	23	25	7	0
+267.97	431.80	Lni_023305-T1	YP_001956800.1 / none	57.8	Pseudomonas phage 201phi2-1	Viruses	8	8	8	0	0
+267.50	431.00	Lni_001249-T1	KUY59297.1 / none	67.9	Burkholderia sp. RF2-non_BP3	Bacteria	24	25	25	1	0
+266.36	430.30	Lni_019461-T1	RYO78549.1 / none	50.9	Monosporascus cannonballus	Eukaryota@Fungi	1	24	25	0	0
+265.23	428.30	Lni_068185-T1	WP_146884959.1 / none	52.6	Deinococcus cellulosilyticus	Bacteria	24	25	25	1	0
+264.61	427.60	Lni_003660-T1	RPI58688.1 / none	46.9	Chloroflexi bacterium	Bacteria	17	22	25	5	0
+264.46	427.20	Lni_007274-T1	WP_096875886.1 / none	53.5	Methylomonas koyamae	Bacteria	5	6	6	1	0
+264.39	426.80	Lni_014870-T1	WP_013233507.1 / none	57.5	Herbaspirillum seropedicae	Bacteria	24	25	25	1	0
+263.92	426.40	Lni_077791-T1	PTX64964.1 / none	49.3	Melghirimyces profundicolus	Bacteria	18	22	25	4	0
+263.63	426.00	Lni_050926-T1	PRX40969.1 / none	48.5	Planifilum fimeticola	Bacteria	15	20	25	5	0
+263.32	425.60	Lni_003661-T1	RPI58688.1 / none	46.7	Chloroflexi bacterium	Bacteria	17	23	25	6	0
+262.54	424.10	Lni_042616-T1	QAY00609.1 / none	66.2	Escherichia phage Ecwhy_1	Viruses	3	25	25	4	0
+262.02	423.70	Lni_077790-T1	PRX40969.1 / none	48.8	Planifilum fimeticola	Bacteria	18	22	25	4	0
+260.21	420.20	Lni_031736-T1	YP_007005965.1 / none	69.1	Bacillus phage BCD7	Viruses	1	25	25	0	0
+258.97	419.50	Lni_042652-T1	SCA80434.1 / none	57.4	Escherichia phage vB_Eco_slurp01	Viruses	1	25	25	2	0
+258.49	418.30	Lni_014197-T1	WP_189008864.1 / none	53.2	Deinococcus roseus	Bacteria	24	25	25	1	0
+258.20	417.50	Lni_045106-T1	WP_090027709.1 / none	66.5	Chryseobacterium oleae	Bacteria	24	25	25	1	0
+256.18	414.80	Lni_014817-T1	WP_163950952.1 / none	55.1	Pseudomonas brassicae	Bacteria	25	25	25	0	0
+253.78	411.40	Lni_018234-T1	YP_007005899.1 / none	60.1	Bacillus phage BCD7	Viruses	1	25	25	0	0
+253.29	410.60	Lni_042897-T1	YP_009101754.1 / none	62.0	Escherichia phage 121Q	Viruses	1	23	25	0	0
+250.24	407.10	Lni_018270-T1	YP_001956941.1 / none	56.4	Pseudomonas phage 201phi2-1	Viruses	21	25	25	1	0
+249.37	404.80	Lni_045107-T1	WP_103247155.1 / none	58.5	Chryseobacterium phosphatilyticum	Bacteria	25	25	25	0	0
+249.21	405.20	Lni_050924-T1	PRX40969.1 / none	46.2	Planifilum fimeticola	Bacteria	14	19	25	5	0
+246.69	401.70	Lni_025405-T1	WP_078426315.1 / none	63.1	Acinetobacter sp. MF4642	Bacteria	5	5	5	0	0
+244.14	397.50	Lni_019235-T1	WP_153541560.1 / none	57.9	Actinomadura sp. RB68	Bacteria	25	25	25	0	0
+241.99	394.00	Lni_001637-T1	WP_178905334.1 / none	68.1	Acinetobacter sp. SwsAc3	Bacteria	25	25	25	0	0
+237.43	342.50	Lni_042921-T1	BBM61814.1 / XP_019385486.1	50.1	Escherichia phage SP27	Viruses	1	16	25	1	0
+237.23	387.10	Lni_043600-T1	YP_009196647.1 / none	64.9	Cronobacter phage S13	Viruses	19	25	25	0	0
+237.22	387.50	Lni_056067-T1	PHR96174.1 / none	55.0	Blastopirellula sp.	Bacteria	15	24	25	9	0
+236.98	387.10	Lni_041327-T1	WP_151594338.1 / none	57.4	Actinomadura sp. LD22	Bacteria	25	25	25	0	0
+236.90	387.50	Lni_049859-T1	WP_189008864.1 / none	46.9	Deinococcus roseus	Bacteria	23	25	25	2	0
+235.09	384.40	Lni_056070-T1	RMD87532.1 / none	55.1	Calditrichaeota bacterium	Bacteria	13	23	25	10	0
+234.60	383.60	Lni_041328-T1	WP_151594338.1 / none	56.0	Actinomadura sp. LD22	Bacteria	25	25	25	0	0
+234.60	383.60	Lni_043162-T1	WP_191329361.1 / none	57.6	Actinomadura cremea	Bacteria	25	25	25	0	0
+233.53	382.10	Lni_041326-T1	WP_151594338.1 / none	56.5	Actinomadura sp. LD22	Bacteria	25	25	25	0	0
+232.56	335.50	Lni_042920-T1	AZU98480.1 / XP_012252828.1	54.3	Salmonella phage Munch	Viruses	2	16	25	2	0
+231.97	380.90	Lni_022931-T1	QDJ96702.1 / none	37.9	Aeromonas phage PS1	Viruses	18	37	37	19	0
+231.57	379.80	Lni_041449-T1	TMK38659.1 / none	41.9	Actinobacteria bacterium	Bacteria	13	25	25	12	0
+230.70	332.80	Lni_019008-T1	WP_174769700.1 / XP_022802396.1	46.3	Paraburkholderia bonniea	Bacteria	5	6	25	1	0
+229.30	375.60	Lni_017734-T1	YP_001956936.1 / none	55.9	Pseudomonas phage 201phi2-1	Viruses	10	10	10	0	0
+228.18	374.80	Lni_010245-T1	WP_063850194.1 / none	62.8	Enterobacter hormaechei	Bacteria	25	25	25	0	0
+226.37	371.70	Lni_024905-T1	WP_131895678.1 / none	54.5	Actinomadura sp. H3C3	Bacteria	25	25	25	0	0
+225.25	371.70	Lni_043596-T1	YP_009196391.1 / none	35.4	Cronobacter phage S13	Viruses	1	26	26	0	0
+224.82	369.80	Lni_059015-T1	WP_146884959.1 / none	48.1	Deinococcus cellulosilyticus	Bacteria	23	25	25	2	0
+224.74	369.40	Lni_017830-T1	WP_097079280.1 / none	58.5	Acinetobacter puyangensis	Bacteria	25	25	25	0	0
+223.95	368.20	Lni_035006-T1	WP_151594338.1 / none	54.8	Actinomadura sp. LD22	Bacteria	25	25	25	0	0
+220.05	362.50	Lni_048437-T1	WP_086819312.1 / none	56.9	Allokutzneria sp. NRRL B-24872	Bacteria	25	25	25	0	0
+219.03	360.90	Lni_018480-T1	YP_009196647.1 / none	69.7	Cronobacter phage S13	Viruses	25	25	25	0	0
+218.48	360.10	Lni_038988-T1	WP_086819312.1 / none	57.3	Allokutzneria sp. NRRL B-24872	Bacteria	25	25	25	0	0
+215.65	357.10	Lni_007179-T1	WP_072838275.1 / none	48.7	Marinomonas polaris	Bacteria	16	17	17	1	0
+215.22	355.10	Lni_019625-T1	QJI53675.1 / none	66.7	CRESS virus sp.	Viruses	8	24	24	0	0
+215.01	355.50	Lni_018272-T1	WP_064547119.1 / none	53.0	Kluyvera georgiana	Bacteria	24	24	25	0	0
+212.55	352.10	Lni_011682-T1	BBK44810.1 / none	47.6	Stella vacuolata	Bacteria	16	25	25	9	0
+211.05	349.40	Lni_023116-T1	GER55255.1 / none	54.3	Striga asiatica	Eukaryota@Viridiplantae	25	25	25	0	0
+210.81	349.00	Lni_011944-T1	WP_012430350.1 / none	64.2	Ralstonia	Bacteria	25	25	25	0	0
+210.15	348.20	Lni_048203-T1	WP_189008864.1 / none	53.4	Deinococcus roseus	Bacteria	23	25	25	2	0
+210.01	348.20	Lni_042905-T1	YP_009599855.1 / none	64.0	Serratia phage BF	Viruses	5	25	25	1	0
+205.04	340.90	Lni_038990-T1	SDM97201.1 / none	50.3	Allokutzneria albata	Bacteria	24	25	25	1	0
+203.65	339.00	Lni_028759-T1	WP_137384068.1 / none	45.4	Citrobacter sp. wls619	Bacteria	5	14	25	9	0
+202.45	337.00	Lni_067003-T1	WP_091532610.1 / none	59.7	Fontimonas thermophila	Bacteria	18	25	25	7	0
+201.40	335.90	Lni_037139-T1	WP_022977963.1 / none	48.4	Nevskia ramosa	Bacteria	15	18	25	3	0
+200.41	334.30	Lni_018680-T1	YP_007005937.1 / none	69.1	Bacillus phage BCD7	Viruses	2	3	3	0	0
+199.63	333.20	Lni_018682-T1	YP_007005941.1 / none	63.4	Bacillus phage BCD7	Viruses	2	18	18	0	0
+196.92	329.70	Lni_022955-T1	YP_009196393.1 / none	37.2	Cronobacter phage S13	Viruses	1	6	6	3	0
+195.03	327.80	Lni_064781-T1	WP_089942825.1 / none	31.5	Candidatus Entotheonella palauensis	Bacteria	22	24	25	2	0
+194.01	325.10	Lni_014821-T1	WP_042549557.1 / none	51.2	Ralstonia solanacearum	Bacteria	22	25	25	3	0
+193.63	323.90	Lni_017698-T1	WP_170029806.1 / none	66.2	Pseudomonas sp. SK	Bacteria	24	25	25	1	0
+192.68	323.20	Lni_014871-T1	WP_122529331.1 / none	48.6	Pseudomonas viridiflava	Bacteria	23	25	25	2	0
+191.94	322.80	Lni_017611-T1	QBJ02794.1 / none	48.5	Pseudomonas phage Psa21	Viruses	5	17	17	1	0
+191.44	321.20	Lni_042852-T1	QAY00417.1 / none	57.2	Escherichia phage Ecwhy_1	Viruses	3	21	24	1	0
+191.39	321.60	Lni_008350-T1	WP_052752579.1 / none	59.0	Pseudomonas sp. CCOS 191	Bacteria	24	25	25	1	0
+190.78	320.50	Lni_008467-T1	WP_086110500.1 / none	48.9	Xenorhabdus vietnamensis	Bacteria	23	25	25	2	0
+190.71	319.70	Lni_018519-T1	YP_001956972.1 / none	56.8	Pseudomonas phage 201phi2-1	Viruses	8	25	25	0	0
+188.63	317.00	Lni_001681-T1	WP_183005633.1 / none	59.2	Achromobacter sp. UMC71	Bacteria	24	24	25	0	0
+187.86	315.80	Lni_043685-T1	YP_009196515.1 / none	68.4	Cronobacter phage S13	Viruses	2	2	2	0	0
+187.50	315.50	Lni_028711-T1	WP_125282130.1 / none	56.5	Acinetobacter baumannii	Bacteria	24	25	25	1	0
+186.56	313.90	Lni_028760-T1	WP_137381367.1 / none	64.8	Citrobacter sp. wls619	Bacteria	5	23	25	18	0
+185.87	312.80	Lni_018558-T1	VXA88563.1 / none	64.4	Acinetobacter sp. 8I-beige	Bacteria	23	24	25	1	0
+185.44	312.00	Lni_017709-T1	WP_106929634.1 / none	51.7	Enterobacteriaceae	Bacteria	20	23	25	3	0
+185.38	312.00	Lni_014766-T1	PKO86130.1 / none	63.7	Betaproteobacteria bacterium HGW-Betaproteobacteria-12	Bacteria	10	12	12	2	0
+184.30	310.80	Lni_038987-T1	WP_086819312.1 / none	50.7	Allokutzneria sp. NRRL B-24872	Bacteria	23	25	25	2	0
+180.03	304.70	Lni_038989-T1	WP_086819312.1 / none	50.0	Allokutzneria sp. NRRL B-24872	Bacteria	24	25	25	1	0
+179.34	303.50	Lni_008672-T1	WP_086726644.1 / none	57.6	Streptomyces carpinensis	Bacteria	25	25	25	0	0
+178.65	303.50	Lni_058950-T1	KAA8892683.1 / none	35.6	Sphaerosporella brunnea	Eukaryota@Fungi	25	25	25	0	0
+176.17	299.30	Lni_042861-T1	WP_137592621.1 / none	64.0	Escherichia coli	Bacteria	1	23	25	0	0
+175.37	298.90	Lni_019450-T1	WP_154160899.1 / none	47.4	Enterobacteriaceae bacterium RIT691	Bacteria	24	25	25	1	0
+175.09	298.10	Lni_027657-T1	WP_127015775.1 / none	40.2	Anoxybacter fermentans	Bacteria	8	25	25	5	0
+175.05	298.10	Lni_022880-T1	RYE46546.1 / none	50.4	Rhizobiales bacterium	Bacteria	22	25	25	3	0
+174.73	297.00	Lni_060854-T1	TVR60622.1 / none	56.8	Gemmatimonadales bacterium	Bacteria	19	24	25	5	0
+174.53	297.40	Lni_024957-T1	RKG32973.1 / none	65.0	Acinetobacter sp. WCHAc060012	Bacteria	25	25	25	0	0
+174.04	295.40	Lni_017706-T1	WP_097515544.1 / none	69.4	Listeria monocytogenes	Bacteria	11	24	25	13	0
+173.26	294.70	Lni_031949-T1	WP_137334990.1 / none	64.8	Burkholderia sp. DHOD12	Bacteria	25	25	25	0	0
+172.51	294.30	Lni_072661-T1	RLN52295.1 / none	40.3	Phytophthora kernoviae	Eukaryota@Stramenopiles	2	25	25	0	0
+171.66	293.50	Lni_019229-T1	CUS14042.1 / none	36.6	Tuber aestivum	Eukaryota@Fungi	25	25	25	0	0
+171.10	292.00	Lni_046500-T1	WP_138730147.1 / none	49.2	Pedobacter ureilyticus	Bacteria	25	25	25	0	0
+170.47	290.40	Lni_017691-T1	WP_060485583.1 / none	69.0	Pseudomonas sp. NBRC 111123	Bacteria	13	14	14	1	0
+170.39	291.60	Lni_052816-T1	PUU80538.1 / none	37.4	Tuber borchii	Eukaryota@Fungi	25	25	25	0	0
+169.75	289.70	Lni_014836-T1	WP_166891858.1 / none	58.8	Pantoea sp. Cy-639	Bacteria	25	25	25	0	0
+168.45	288.90	Lni_042629-T1	QOE32379.1 / none	42.2	Klebsiella phage Muenster	Viruses	4	25	25	7	0
+167.35	286.20	Lni_017729-T1	YP_009884137.1 / none	51.6	Escherichia phage vB_EcoM_4HA13	Viruses	12	14	14	0	0
+167.02	285.80	Lni_042612-T1	WP_137592882.1 / none	67.7	Escherichia coli	Bacteria	2	15	16	0	0
+166.84	285.80	Lni_022934-T1	YP_001957062.1 / none	53.7	Pseudomonas phage 201phi2-1	Viruses	1	1	1	0	0
+166.68	285.00	Lni_072803-T1	WP_112325516.1 / none	66.2	Rhodothermaceae bacterium	Bacteria	16	25	25	9	0
+166.25	284.60	Lni_017245-T1	TVR60622.1 / none	54.9	Gemmatimonadales bacterium	Bacteria	19	24	25	5	0
+165.88	283.90	Lni_011320-T1	WP_112325516.1 / none	66.2	Rhodothermaceae bacterium	Bacteria	17	25	25	8	0
+165.52	284.30	Lni_004797-T1	WP_161580509.1 / none	45.5	Cronobacter muytjensii	Bacteria	1	1	1	0	0
+165.26	283.50	Lni_018445-T1	WP_105393996.1 / none	52.6	Burkholderia cepacia	Bacteria	18	18	18	0	0
+164.91	282.70	Lni_035623-T1	TVR60622.1 / none	54.5	Gemmatimonadales bacterium	Bacteria	19	23	25	4	0
+164.59	282.00	Lni_018548-T1	YP_007005913.1 / none	65.1	Bacillus phage BCD7	Viruses	4	25	25	0	0
+164.56	282.70	Lni_004798-T1	WP_161580509.1 / none	45.2	Cronobacter muytjensii	Bacteria	1	1	1	0	0
+163.08	280.00	Lni_060855-T1	TVR60622.1 / none	53.5	Gemmatimonadales bacterium	Bacteria	18	24	25	6	0
+162.95	280.00	Lni_032377-T1	TVQ04749.1 / none	51.4	Balneolaceae bacterium	Bacteria	18	25	25	7	0
+162.90	280.00	Lni_018678-T1	YP_007005932.1 / none	47.3	Bacillus phage BCD7	Viruses	1	1	1	0	0
+161.33	278.50	Lni_068727-T1	WP_122899246.1 / none	39.8	Bacillus sp. KQ-3	Bacteria	9	23	25	1	0
+161.25	277.70	Lni_017487-T1	OYX17158.1 / none	45.4	Sphingomonadales bacterium 32-67-7	Bacteria	23	25	25	2	0
+161.22	278.50	Lni_068727-T2	WP_122899246.1 / none	39.8	Bacillus sp. KQ-3	Bacteria	9	23	25	1	0
+161.09	276.90	Lni_022882-T1	WP_154383023.1 / none	60.0	Duganella sp. FT80W	Bacteria	25	25	25	0	0
+160.65	276.60	Lni_065761-T1	TVQ04749.1 / none	49.4	Balneolaceae bacterium	Bacteria	22	25	25	3	0
+160.23	275.80	Lni_001638-T1	WP_005217000.1 / none	59.2	Acinetobacter sp. ANC 3862	Bacteria	25	25	25	0	0
+159.63	275.40	Lni_022942-T1	YP_001957042.1 / none	67.5	Pseudomonas phage 201phi2-1	Viruses	7	7	7	0	0
+159.39	274.20	Lni_009929-T1	WP_009586831.1 / none	66.8	Acinetobacter	Bacteria	25	25	25	0	0
+159.10	274.60	Lni_049620-T1	WP_138730147.1 / none	47.2	Pedobacter ureilyticus	Bacteria	25	25	25	0	0
+157.75	272.30	Lni_020906-T1	WP_084742750.1 / none	56.4	Citrobacter youngae	Bacteria	21	25	25	4	0
+157.68	272.30	Lni_009117-T1	TVQ04749.1 / none	51.0	Balneolaceae bacterium	Bacteria	21	25	25	4	0
+157.23	271.90	Lni_018546-T1	YP_001957142.1 / none	69.4	Pseudomonas phage 201phi2-1	Viruses	11	11	11	0	0
+157.16	272.30	Lni_018287-T1	WP_050704982.1 / none	60.4	Pseudomonas sp. 250J	Bacteria	25	25	25	0	0
+156.93	271.60	Lni_030017-T1	WP_138730147.1 / none	46.9	Pedobacter ureilyticus	Bacteria	25	25	25	0	0
+156.39	271.60	Lni_044527-T1	WP_122899246.1 / none	41.7	Bacillus sp. KQ-3	Bacteria	9	23	25	2	0
+155.66	269.20	Lni_042853-T1	QDF13813.1 / none	63.3	Escherichia phage vB_EcoM_phAPEC6	Viruses	2	18	18	1	0
+154.87	268.50	Lni_016204-T1	WP_126399197.1 / none	49.3	Streptomyces cyaneochromogenes	Bacteria	23	25	25	2	0
+154.69	268.10	Lni_040285-T1	TVR17093.1 / none	50.2	Balneolaceae bacterium	Bacteria	21	25	25	4	0
+154.48	267.30	Lni_022926-T1	YP_001957083.1 / none	65.4	Pseudomonas phage 201phi2-1	Viruses	1	1	1	0	0
+152.68	265.40	Lni_009942-T1	OLE56086.1 / none	47.7	Acidobacteria bacterium 13_1_20CM_3_53_8	Bacteria	19	23	25	4	0
+151.79	264.20	Lni_008075-T1	WP_179642520.1 / none	43.8	Spinactinospora alkalitolerans	Bacteria	24	25	25	1	0
+151.10	263.50	Lni_021491-T1	WP_127015775.1 / none	38.9	Anoxybacter fermentans	Bacteria	9	23	25	2	0
+150.32	261.50	Lni_042628-T1	YP_007007665.1 / none	53.5	Klebsiella phage vB_KleM_RaK2	Viruses	4	25	25	1	0
+149.98	261.50	Lni_014820-T1	QDH85514.1 / none	43.1	Proteus phage vB_PmiP_RS51pmB	Viruses	1	25	25	0	0
+149.98	261.90	Lni_024591-T1	YP_009196614.1 / none	56.2	Cronobacter phage S13	Viruses	2	25	25	0	0
+149.20	259.60	Lni_008348-T1	WP_157966841.1 / none	69.6	Pseudomonas sichuanensis	Bacteria	24	25	25	1	0
+149.08	259.60	Lni_079025-T1	WP_155851267.1 / none	58.2	Escherichia coli	Bacteria	1	20	20	0	0
+148.97	259.60	Lni_042900-T1	AXC36610.1 / none	63.5	Escherichia phage UB	Viruses	1	22	25	1	0
+148.36	260.00	Lni_023974-T1	QHJ78970.1 / none	41.3	Myoviridae sp.	Viruses	2	2	2	0	0
+147.86	257.70	Lni_068103-T1	WP_073151796.1 / none	64.6	Paramaledivibacter caminithermalis	Bacteria	18	25	25	7	0
+146.67	256.10	Lni_023973-T1	QHJ78968.1 / none	61.1	Myoviridae sp.	Viruses	25	25	25	0	0
+146.62	256.50	Lni_021657-T1	YP_009196409.1 / none	66.3	Cronobacter phage S13	Viruses	20	25	25	5	0
+146.34	256.10	Lni_049900-T1	WP_129889807.1 / none	47.7	Ktedonosporobacter rubrisoli	Bacteria	18	24	25	6	0
+146.00	255.80	Lni_017608-T1	YP_001957013.1 / none	56.5	Pseudomonas phage 201phi2-1	Viruses	9	9	9	0	0
+145.59	255.00	Lni_034465-T1	WP_095982961.1 / none	48.5	Melittangium boletus	Bacteria	25	25	25	0	0
+145.51	254.60	Lni_017543-T1	WP_161576687.1 / none	53.2	Cronobacter turicensis	Bacteria	19	19	25	0	0
+145.21	255.40	Lni_053439-T1	WP_127015775.1 / none	38.2	Anoxybacter fermentans	Bacteria	7	22	25	0	0
+143.78	253.10	Lni_009940-T1	WP_039715709.1 / none	44.7	Scytonema millei	Bacteria	19	24	25	5	0
+143.56	252.70	Lni_047439-T1	WP_122899246.1 / none	35.9	Bacillus sp. KQ-3	Bacteria	9	25	25	5	0
+143.54	252.70	Lni_045058-T1	WP_127015775.1 / none	39.6	Anoxybacter fermentans	Bacteria	7	22	25	0	0
+142.89	251.10	Lni_042636-T1	QAY00548.1 / none	59.8	Escherichia phage Ecwhy_1	Viruses	1	17	17	4	0
+142.50	250.40	Lni_042641-T1	YP_007007176.1 / none	67.2	Klebsiella phage vB_KleM_RaK2	Viruses	8	23	25	1	0
+142.07	251.10	Lni_071928-T1	WP_089942825.1 / none	28.8	Candidatus Entotheonella palauensis	Bacteria	22	24	25	0	0
+141.80	249.60	Lni_055951-T1	WP_163283424.1 / none	46.1	Cryomorpha ignava	Bacteria	20	25	25	5	0
+141.77	204.60	Lni_066603-T1	WP_161580509.1 / RLU24808.1	41.2	Cronobacter muytjensii	Bacteria	1	1	25	0	0
+141.28	249.20	Lni_022932-T1	YP_001957069.1 / none	42.2	Pseudomonas phage 201phi2-1	Viruses	1	1	1	0	0
+140.36	247.30	Lni_050989-T1	RIK42552.1 / none	47.8	Chloroflexi bacterium	Bacteria	2	16	16	3	0
+139.54	245.70	Lni_018793-T1	YP_007007482.1 / none	60.4	Klebsiella phage vB_KleM_RaK2	Viruses	4	25	25	2	0
+139.50	246.10	Lni_017466-T1	YP_001956986.1 / none	46.2	Pseudomonas phage 201phi2-1	Viruses	2	2	2	0	0
+139.33	246.50	Lni_054865-T1	WP_122899246.1 / none	37.9	Bacillus sp. KQ-3	Bacteria	6	22	25	1	0
+139.23	245.70	Lni_042655-T1	WP_155850909.1 / none	60.4	Escherichia coli	Bacteria	1	22	25	0	0
+138.19	245.40	Lni_043699-T1	QHJ78970.1 / none	41.2	Myoviridae sp.	Viruses	2	2	2	0	0
+137.46	243.00	Lni_024056-T1	WP_117378092.1 / none	51.3	Geodermatophilus sp. LHW52908	Bacteria	18	25	25	3	0
+137.02	242.70	Lni_042643-T1	QAY00528.1 / none	59.7	Escherichia phage Ecwhy_1	Viruses	1	19	20	0	0
+136.65	241.90	Lni_033328-T1	WP_158610323.1 / none	50.2	Promicromonospora sp. YR516	Bacteria	18	25	25	3	0
+136.51	241.10	Lni_043684-T1	YP_009196514.1 / none	66.3	Cronobacter phage S13	Viruses	1	1	1	0	0
+135.95	241.10	Lni_043713-T1	YP_009196591.1 / none	65.4	Cronobacter phage S13	Viruses	13	13	13	0	0
+135.59	240.70	Lni_021658-T1	YP_009196413.1 / none	65.5	Cronobacter phage S13	Viruses	23	25	25	2	0
+135.52	240.00	Lni_018242-T1	YP_001957002.1 / none	64.7	Pseudomonas phage 201phi2-1	Viruses	8	11	11	0	0
+135.16	240.40	Lni_044190-T1	RLN52295.1 / none	35.5	Phytophthora kernoviae	Eukaryota@Stramenopiles	1	25	25	0	0
+134.52	238.80	Lni_017590-T1	WP_032037039.1 / none	57.5	Acinetobacter baumannii	Bacteria	25	25	25	0	0
+133.45	237.70	Lni_074489-T1	OMJ93653.1 / none	37.4	Stentor coeruleus	Eukaryota	2	24	24	0	0
+132.42	236.10	Lni_074488-T1	OMJ93653.1 / none	38.1	Stentor coeruleus	Eukaryota	2	19	19	0	0
+131.86	236.50	Lni_014750-T1	YP_001956879.1 / none	32.9	Pseudomonas phage 201phi2-1	Viruses	4	5	5	0	0
+131.62	234.20	Lni_018494-T1	YP_009196440.1 / none	68.2	Cronobacter phage S13	Viruses	2	2	2	0	0
+130.84	233.00	Lni_027304-T1	YP_009196459.1 / none	64.8	Cronobacter phage S13	Viruses	5	5	5	0	0
+130.51	233.40	Lni_027302-T1	YP_009196452.1 / none	62.6	Cronobacter phage S13	Viruses	5	25	25	0	0
+130.29	232.60	Lni_072863-T1	WP_028195361.1 / none	49.6	Paraburkholderia fungorum	Bacteria	25	25	25	0	0
+130.22	232.30	Lni_077234-T1	XP_020889556.1 / none	55.5	Arabidopsis lyrata subsp. lyrata	Eukaryota@Viridiplantae	25	25	25	0	0
+129.18	232.30	Lni_058767-T1	WP_100334132.1 / none	35.8	Bacillus sp. FJAT-45122	Bacteria	9	24	25	2	0
+127.88	229.20	Lni_018197-T1	YP_009196566.1 / none	67.3	Cronobacter phage S13	Viruses	15	17	17	1	0
+127.01	228.00	Lni_042892-T1	WP_137592705.1 / none	47.5	Escherichia coli	Bacteria	1	15	15	1	0
+126.68	228.00	Lni_059249-T1	PYO08060.1 / none	43.5	Gemmatimonadetes bacterium	Bacteria	11	25	25	14	0
+126.55	226.90	Lni_079026-T1	WP_155851267.1 / none	60.9	Escherichia coli	Bacteria	1	20	20	0	0
+126.05	226.50	Lni_014810-T1	WP_162140833.1 / none	50.4	Pseudomonas sp. ATCC 13867	Bacteria	24	25	25	1	0
+125.81	225.70	Lni_031749-T1	YP_007005853.1 / none	56.7	Bacillus phage BCD7	Viruses	1	1	1	0	0
+125.73	225.70	Lni_043163-T1	WP_151594338.1 / none	60.8	Actinomadura sp. LD22	Bacteria	25	25	25	0	0
+125.61	225.30	Lni_017742-T1	YP_001956782.1 / none	61.3	Pseudomonas phage 201phi2-1	Viruses	2	2	2	0	0
+125.58	228.80	Lni_027301-T1	YP_009030243.1 / none	25.3	Serratia phage PS2	Viruses	6	25	25	0	0
+125.12	225.70	Lni_019894-T1	WP_122899246.1 / none	38.4	Bacillus sp. KQ-3	Bacteria	9	23	25	1	0
+124.96	225.70	Lni_024877-T1	CUS14042.1 / none	35.9	Tuber aestivum	Eukaryota@Fungi	25	25	25	0	0
+123.81	223.00	Lni_017735-T1	YP_001956935.1 / none	55.9	Pseudomonas phage 201phi2-1	Viruses	3	3	3	0	0
+123.81	224.90	Lni_022937-T1	YP_001957053.1 / none	42.3	Pseudomonas phage 201phi2-1	Viruses	2	25	25	0	0
+123.35	223.40	Lni_010991-T1	RPB13774.1 / none	34.7	Morchella conica CCBAS932	Eukaryota@Fungi	25	25	25	0	0
+122.58	223.40	Lni_022112-T1	QKE54959.1 / none	38.1	Parvoviridae sp.	Viruses	25	25	25	0	0
+121.94	219.90	Lni_042894-T1	SCA80045.1 / none	67.8	Escherichia phage vB_Eco_slurp01	Viruses	2	12	13	1	0
+120.78	218.40	Lni_017461-T1	YP_001956978.1 / none	65.5	Pseudomonas phage 201phi2-1	Viruses	5	5	5	0	0
+120.30	218.40	Lni_019323-T1	TVR17093.1 / none	42.7	Balneolaceae bacterium	Bacteria	19	25	25	6	0
+120.12	218.40	Lni_023303-T1	YP_001956804.1 / none	50.4	Pseudomonas phage 201phi2-1	Viruses	1	1	1	0	0
+119.20	217.20	Lni_011856-T1	WP_117936023.1 / none	35.9	unclassified Flavobacteriaceae	Bacteria	17	25	25	8	0
+118.82	216.10	Lni_056015-T1	PWT93453.1 / none	47.0	Acidobacteria bacterium	Bacteria	16	25	25	9	0
+118.74	216.50	Lni_054974-T1	WP_160360563.1 / none	39.7	Clostridium chromiireducens	Bacteria	9	24	25	5	0
+118.48	214.90	Lni_008466-T1	WP_181123113.1 / none	64.7	Pseudomonas japonica	Bacteria	25	25	25	0	0
+118.05	214.50	Lni_017462-T1	YP_001956979.1 / none	56.7	Pseudomonas phage 201phi2-1	Viruses	2	2	2	0	0
+117.86	215.30	Lni_068448-T1	WP_092208500.1 / none	35.8	Bizionia echini	Bacteria	16	25	25	9	0
+117.71	215.70	Lni_022767-T1	WP_181483884.1 / none	40.9	unclassified Klebsiella	Bacteria	24	25	25	1	0
+116.84	213.00	Lni_053319-T1	OLB96784.1 / none	60.4	Actinobacteria bacterium 13_2_20CM_2_66_6	Bacteria	25	25	25	0	0
+116.74	213.80	Lni_071276-T1	WP_113539958.1 / none	39.5	Rhizobiales bacterium	Bacteria	18	24	25	6	0
+115.82	212.20	Lni_039585-T1	WP_183489313.1 / none	36.1	Lacinutrix iliipiscaria	Bacteria	16	25	25	9	0
+115.71	212.20	Lni_051723-T1	PYO08060.1 / none	39.2	Gemmatimonadetes bacterium	Bacteria	22	24	25	2	0
+115.49	210.70	Lni_014805-T1	YP_001956967.1 / none	60.9	Pseudomonas phage 201phi2-1	Viruses	8	8	8	0	0
+113.85	209.50	Lni_011220-T1	PYP82269.1 / none	35.9	Acidobacteriia bacterium AA117	Bacteria	9	25	25	16	0
+113.56	209.10	Lni_074543-T1	WP_117936023.1 / none	34.6	unclassified Flavobacteriaceae	Bacteria	17	25	25	8	0
+113.30	207.60	Lni_024906-T1	WP_084961084.1 / none	55.3	Thermoactinospora rubra	Bacteria	24	25	25	1	0
+113.27	208.80	Lni_004364-T1	WP_002634563.1 / none	54.5	Myxococcus hansupus	Bacteria	22	25	25	3	0
+113.27	208.80	Lni_004367-T1	WP_002634563.1 / none	54.5	Myxococcus hansupus	Bacteria	22	25	25	3	0
+113.05	208.40	Lni_068449-T1	WP_092208500.1 / none	39.5	Bizionia echini	Bacteria	16	25	25	9	0
+113.04	208.40	Lni_074543-T3	WP_117936023.1 / none	34.3	unclassified Flavobacteriaceae	Bacteria	17	25	25	8	0
+112.83	207.60	Lni_077518-T1	TVR34564.1 / none	44.0	Balneolaceae bacterium	Bacteria	20	25	25	5	0
+112.64	206.50	Lni_017736-T1	YP_001956730.1 / none	64.4	Pseudomonas phage 201phi2-1	Viruses	5	25	25	0	0
+111.76	206.10	Lni_077517-T1	TVR34564.1 / none	43.2	Balneolaceae bacterium	Bacteria	22	25	25	3	0
+111.12	204.50	Lni_018465-T1	YP_009196465.1 / none	68.2	Cronobacter phage S13	Viruses	25	25	25	0	0
+110.95	205.30	Lni_051721-T1	WP_190378883.1 / none	39.3	Leptolyngbya sp. FACHB-17	Bacteria	10	22	25	12	0
+110.43	204.10	Lni_041032-T1	RKZ23628.1 / none	41.9	bacterium	Bacteria	8	25	25	6	0
+110.34	204.50	Lni_041356-T1	WP_117936023.1 / none	34.5	unclassified Flavobacteriaceae	Bacteria	16	25	25	9	0
+110.34	205.30	Lni_042876-T1	WP_137592660.1 / none	58.0	Escherichia coli	Bacteria	2	17	20	1	0
+109.88	203.80	Lni_079465-T1	PYJ80928.1 / none	36.2	Verrucomicrobia bacterium	Bacteria	18	24	25	6	0
+109.46	202.20	Lni_027303-T1	YP_009196457.1 / none	69.2	Cronobacter phage S13	Viruses	1	17	17	0	0
+108.91	201.80	Lni_069786-T1	RNC85851.1 / none	44.7	Balneola sp.	Bacteria	8	25	25	17	0
+108.89	201.40	Lni_042622-T1	AZU98077.1 / none	52.2	Salmonella phage Munch	Viruses	4	25	25	1	0
+108.89	203.00	Lni_054864-T1	RKZ23628.1 / none	34.5	bacterium	Bacteria	5	23	25	0	0
+108.72	202.60	Lni_022936-T1	YP_001957054.1 / none	58.8	Pseudomonas phage 201phi2-1	Viruses	4	25	25	0	0
+108.65	201.40	Lni_047171-T1	WP_188768663.1 / none	40.4	Emticicia aquatilis	Bacteria	8	25	25	17	0
+108.62	201.40	Lni_042904-T1	QOE32700.1 / none	52.5	Klebsiella phage Muenster	Viruses	2	25	25	0	0
+107.89	200.70	Lni_042671-T1	YP_007007246.1 / none	53.6	Klebsiella phage vB_KleM_RaK2	Viruses	5	17	19	1	0
+107.69	200.70	Lni_023167-T1	WP_107789364.1 / none	37.2	Nitrosomonas nitrosa	Bacteria	19	25	25	6	0
+107.69	199.90	Lni_031948-T1	WP_054448745.1 / none	47.3	Achromobacter xylosoxidans	Bacteria	25	25	25	0	0
+107.58	199.90	Lni_054161-T1	RNC85851.1 / none	40.0	Balneola sp.	Bacteria	5	12	25	7	0
+107.53	199.50	Lni_065753-T1	WP_119287690.1 / none	61.1	Comamonadaceae bacterium SYSU G00088	Bacteria	24	24	25	0	0
+107.43	200.30	Lni_076294-T1	WP_115808597.1 / none	37.1	Winogradskyella pacifica	Bacteria	21	25	25	4	0
+107.43	200.30	Lni_076295-T1	WP_115808597.1 / none	37.1	Winogradskyella pacifica	Bacteria	21	25	25	4	0
+107.19	199.90	Lni_037597-T1	WP_117936023.1 / none	34.5	unclassified Flavobacteriaceae	Bacteria	18	25	25	7	0
+106.63	199.10	Lni_074543-T2	WP_183489313.1 / none	37.6	Lacinutrix iliipiscaria	Bacteria	20	25	25	5	0
+106.61	198.40	Lni_011823-T1	WP_045337903.1 / none	68.8	Enterobacter cloacae complex	Bacteria	19	22	23	3	0
+106.48	199.50	Lni_023077-T1	YP_001956813.1 / none	34.9	Pseudomonas phage 201phi2-1	Viruses	3	3	3	0	0
+106.33	198.40	Lni_028763-T1	WP_079969513.1 / none	58.2	Salmonella enterica	Bacteria	7	20	25	13	0
+106.09	197.20	Lni_042863-T1	WP_155850811.1 / none	62.3	Escherichia coli	Bacteria	1	16	19	0	0
+106.00	152.90	Lni_069930-T1	OMJ93653.1 / XP_033838043.1	33.6	Stentor coeruleus	Eukaryota	2	8	10	0	0
+105.66	197.60	Lni_074545-T1	OAI44338.1 / none	37.8	Rhizomicrobium sp. SCGC AG-212-E05	Bacteria	17	24	25	7	0
+105.39	196.40	Lni_024824-T1	RKY62073.1 / none	57.7	Candidatus Marinimicrobia bacterium	Bacteria	14	25	25	11	0
+105.18	195.70	Lni_014809-T1	WP_080636234.1 / none	64.3	Pseudomonas sp. ATCC 13867	Bacteria	24	25	25	1	0
+105.13	195.70	Lni_018284-T1	WP_085677716.1 / none	67.5	unclassified Pseudomonas	Bacteria	25	25	25	0	0
+105.00	196.80	Lni_038957-T1	XP_005842157.1 / none	32.0	Guillardia theta CCMP2712	Eukaryota	3	3	3	0	0
+104.09	194.50	Lni_035327-T1	WP_145049981.1 / none	48.7	Lignipirellula cremea	Bacteria	23	25	25	2	0
+103.28	193.00	Lni_014869-T1	WP_034175149.1 / none	63.8	Burkholderia cenocepacia	Bacteria	25	25	25	0	0
+103.03	193.70	Lni_027658-T1	WP_160360563.1 / none	36.8	Clostridium chromiireducens	Bacteria	9	24	25	5	0
+103.03	193.00	Lni_028041-T1	WP_145049981.1 / none	48.7	Lignipirellula cremea	Bacteria	23	25	25	2	0
+102.62	192.60	Lni_013566-T1	RKY62073.1 / none	53.4	Candidatus Marinimicrobia bacterium	Bacteria	15	25	25	10	0
+101.67	192.60	Lni_010217-T1	WP_064554180.1 / none	38.6	Buttiauxella noackiae	Bacteria	5	25	25	0	0
+100.32	189.90	Lni_041034-T1	RKZ23628.1 / none	36.0	bacterium	Bacteria	9	24	25	5	0
+100.03	189.50	Lni_076448-T1	WP_113123444.1 / none	38.0	Rhizobiales bacterium	Bacteria	17	25	25	8	0
+99.83	188.00	Lni_008363-T1	WP_085309956.1 / none	61.4	Planktotalea arctica	Bacteria	23	25	25	2	0
+99.83	188.30	Lni_017554-T1	YP_001956766.1 / none	46.5	Pseudomonas phage 201phi2-1	Viruses	1	1	1	0	0
+99.27	188.00	Lni_001248-T1	WP_084084373.1 / none	42.8	Cupriavidus sp. USMAA2-4	Bacteria	23	25	25	2	0
+99.17	188.30	Lni_046939-T1	PYP82269.1 / none	35.2	Acidobacteriia bacterium AA117	Bacteria	18	25	25	7	0
+98.92	187.60	Lni_014781-T1	CAB4182897.1 / none	37.9	uncultured Caudovirales phage	Viruses	1	25	25	0	0
+98.92	188.30	Lni_017599-T1	YP_009609050.1 / none	50.2	Pseudomonas phage Noxifer	Viruses	13	25	25	12	0
+98.92	188.00	Lni_076447-T1	PYJ80928.1 / none	39.2	Verrucomicrobia bacterium	Bacteria	20	25	25	5	0
+98.42	186.40	Lni_076090-T1	WP_075160581.1 / none	63.4	Paraburkholderia sp. SOS3	Bacteria	19	25	25	6	0
+97.85	186.40	Lni_059441-T1	WP_020897868.1 / none	33.1	Winogradskyella psychrotolerans	Bacteria	20	24	25	4	0
+97.00	185.30	Lni_042912-T1	YP_007007441.1 / none	49.7	Klebsiella phage vB_KleM_RaK2	Viruses	4	17	17	0	0
+96.61	184.10	Lni_031688-T1	WP_158610323.1 / none	39.7	Promicromonospora sp. YR516	Bacteria	8	22	22	0	0
+96.53	183.30	Lni_076602-T1	WP_075160581.1 / none	61.4	Paraburkholderia sp. SOS3	Bacteria	16	25	25	9	0
+96.45	183.00	Lni_014860-T1	YP_001956728.1 / none	65.1	Pseudomonas phage 201phi2-1	Viruses	1	1	1	0	0
+96.37	184.10	Lni_037598-T1	WP_115808597.1 / none	39.1	Winogradskyella pacifica	Bacteria	18	25	25	7	0
+95.55	137.90	Lni_012441-T1	WP_161580509.1 / XP_023226383.1	37.3	Cronobacter muytjensii	Bacteria	1	1	25	0	0
+95.48	182.20	Lni_037378-T1	WP_075160581.1 / none	61.4	Paraburkholderia sp. SOS3	Bacteria	18	25	25	7	0
+95.40	183.00	Lni_076449-T1	RZV34817.1 / none	36.9	Chromatiales bacterium	Bacteria	20	25	25	5	0
+95.35	182.60	Lni_026216-T1	YP_009109724.1 / none	38.4	Faeces associated gemycircularvirus 7	Viruses	25	25	25	0	0
+94.64	182.20	Lni_055973-T1	QKE54959.1 / none	44.1	Parvoviridae sp.	Viruses	25	25	25	0	0
+94.41	181.00	Lni_073085-T1	WP_084467917.1 / none	38.3	Promicromonospora sukumoe	Bacteria	13	22	22	1	0
+94.14	181.40	Lni_042884-T1	QOE32617.1 / none	53.0	Klebsiella phage Muenster	Viruses	2	15	15	0	0
+94.00	181.40	Lni_042653-T1	AXC36813.1 / none	37.4	Escherichia phage UB	Viruses	3	22	25	0	0
+93.82	181.00	Lni_047668-T1	XP_005831781.1 / none	30.2	Guillardia theta CCMP2712	Eukaryota	1	25	25	0	0
+93.76	179.50	Lni_024590-T1	YP_009196611.1 / none	54.5	Cronobacter phage S13	Viruses	1	1	1	0	0
+93.49	180.30	Lni_020197-T1	XP_005842157.1 / none	35.1	Guillardia theta CCMP2712	Eukaryota	3	3	3	0	0
+93.27	178.70	Lni_014797-T1	YP_001956964.1 / none	69.8	Pseudomonas phage 201phi2-1	Viruses	2	2	2	0	0
+92.95	178.30	Lni_023799-T1	WP_089721267.1 / none	53.9	Candidatus Entotheonella palauensis	Bacteria	21	25	25	4	0
+92.88	178.70	Lni_010297-T1	VFK19531.1 / none	36.5	Candidatus Kentron sp. LPFa	Bacteria	23	24	25	1	0
+92.70	177.90	Lni_031739-T1	YP_007005969.1 / none	57.6	Bacillus phage BCD7	Viruses	1	1	1	0	0
+92.68	177.90	Lni_051001-T1	WP_089721267.1 / none	53.7	Candidatus Entotheonella palauensis	Bacteria	21	25	25	4	0
+92.53	177.20	Lni_043709-T1	YP_009196582.1 / none	68.6	Cronobacter phage S13	Viruses	2	2	2	0	0
+91.92	176.40	Lni_022935-T1	YP_001957058.1 / none	59.3	Pseudomonas phage 201phi2-1	Viruses	2	2	2	0	0
+91.84	177.20	Lni_014808-T1	YP_001957089.1 / none	54.6	Pseudomonas phage 201phi2-1	Viruses	2	2	2	0	0
+91.84	176.80	Lni_042916-T1	QDF13653.1 / none	64.6	Escherichia phage vB_EcoM_phAPEC6	Viruses	4	24	25	1	0
+91.07	176.00	Lni_042903-T1	WP_137592736.1 / none	60.0	Escherichia coli	Bacteria	1	5	8	0	0
+90.97	176.40	Lni_074547-T1	PYJ80928.1 / none	39.9	Verrucomicrobia bacterium	Bacteria	19	24	25	5	0
+90.35	174.90	Lni_042875-T1	WP_155850768.1 / none	61.9	Escherichia coli	Bacteria	2	19	20	0	0
+90.35	175.60	Lni_052307-T1	OYU89101.1 / none	34.0	Bradyrhizobiaceae bacterium PARB1	Bacteria	17	24	25	7	0
+90.13	174.90	Lni_027426-T1	WP_002694622.1 / none	43.6	Microscilla marina	Bacteria	2	25	25	1	0
+89.71	174.10	Lni_073084-T1	WP_132301039.1 / none	37.7	Kribbella sp. VKM Ac-2568	Bacteria	16	19	19	2	0
+89.54	173.70	Lni_040904-T1	WP_142455479.1 / none	48.8	Gracilimonas mengyeensis	Bacteria	20	25	25	5	0
+89.27	172.90	Lni_028765-T1	STV76487.1 / none	57.7	Klebsiella michiganensis	Bacteria	7	23	25	16	0
+89.18	128.60	Lni_047669-T1	XP_005842157.1 / TKR72622.1	33.4	Guillardia theta CCMP2712	Eukaryota	1	1	17	0	0
+89.01	173.70	Lni_072663-T1	WP_145271762.1 / none	47.8	Tautonia plasticadhaerens	Bacteria	1	25	25	0	0
+88.97	172.90	Lni_049898-T1	WP_129889807.1 / none	49.0	Ktedonosporobacter rubrisoli	Bacteria	19	24	25	5	0
+88.88	172.60	Lni_022881-T1	PYN23110.1 / none	49.4	Candidatus Rokubacteria bacterium	Bacteria	19	25	25	6	0
+88.64	127.90	Lni_030721-T1	XP_005831781.1 / CRL04381.1	31.6	Guillardia theta CCMP2712	Eukaryota	1	16	25	0	0
+88.52	173.30	Lni_009904-T1	CAA9485263.1 / none	37.1	uncultured Rubrobacteraceae bacterium	Bacteria	15	25	25	10	0
+87.84	172.60	Lni_017571-T1	WP_138879818.1 / none	45.3	Paenibacillus mesophilus	Bacteria	4	4	5	0	0
+86.91	169.10	Lni_022941-T1	YP_001957045.1 / none	66.7	Pseudomonas phage 201phi2-1	Viruses	2	2	2	0	0
+86.91	170.60	Lni_024853-T1	PYO08060.1 / none	35.0	Gemmatimonadetes bacterium	Bacteria	15	25	25	10	0
+86.91	169.90	Lni_026215-T1	QCW23725.1 / none	42.7	Genomoviridae sp.	Viruses	25	25	25	0	0
+86.71	170.20	Lni_000896-T1	PYO08060.1 / none	35.3	Gemmatimonadetes bacterium	Bacteria	21	25	25	4	0
+86.71	170.60	Lni_022945-T1	YP_001957032.1 / none	34.8	Pseudomonas phage 201phi2-1	Viruses	1	14	14	0	0
+86.43	169.90	Lni_000898-T1	PYO08060.1 / none	35.3	Gemmatimonadetes bacterium	Bacteria	21	25	25	4	0
+86.30	168.70	Lni_014880-T1	PYS26172.1 / none	50.0	Acidobacteria bacterium	Bacteria	2	25	25	1	0
+86.04	169.10	Lni_052077-T1	WP_075084699.1 / none	35.3	Mariniblastus fucicola	Bacteria	19	25	25	6	0
+85.72	167.90	Lni_042611-T1	WP_137592878.1 / none	47.7	Escherichia coli	Bacteria	1	16	17	0	0
+85.58	168.70	Lni_024849-T1	PYO08060.1 / none	35.8	Gemmatimonadetes bacterium	Bacteria	20	25	25	5	0
+85.51	167.50	Lni_020490-T1	PYS26172.1 / none	50.0	Acidobacteria bacterium	Bacteria	2	25	25	1	0
+85.10	167.20	Lni_077461-T1	WP_161580509.1 / none	39.4	Cronobacter muytjensii	Bacteria	1	1	1	0	0
+85.01	167.20	Lni_023304-T1	YP_001956802.1 / none	67.0	Pseudomonas phage 201phi2-1	Viruses	2	2	2	0	0
+84.00	165.60	Lni_077460-T1	WP_161580509.1 / none	38.0	Cronobacter muytjensii	Bacteria	1	2	2	0	1
+83.81	165.60	Lni_022878-T1	WP_051429277.1 / none	36.5	unclassified Pseudomonas	Bacteria	24	25	25	1	0
+83.81	164.90	Lni_042882-T1	AZU98350.1 / none	51.3	Salmonella phage Munch	Viruses	2	3	3	1	0
+83.74	164.50	Lni_031747-T1	YP_007005989.1 / none	69.4	Bacillus phage BCD7	Viruses	1	1	1	0	0
+83.69	165.20	Lni_025147-T1	RNC85851.1 / none	42.2	Balneola sp.	Bacteria	19	25	25	6	0
+83.04	119.80	Lni_065306-T1	WP_161580509.1 / XP_033095406.1	42.7	Cronobacter muytjensii	Bacteria	1	1	2	0	0
+82.78	119.40	Lni_045513-T1	XP_005831781.1 / XP_023320603.1	30.2	Guillardia theta CCMP2712	Eukaryota	1	9	13	0	0
+82.10	163.30	Lni_017601-T1	YP_001957173.1 / none	36.7	Pseudomonas phage 201phi2-1	Viruses	2	2	2	0	0
+81.32	161.00	Lni_014757-T1	WP_023219469.1 / none	66.4	Salmonella enterica	Bacteria	14	24	25	10	0
+81.17	161.80	Lni_047173-T1	RNC85851.1 / none	41.3	Balneola sp.	Bacteria	12	25	25	13	0
+80.50	159.80	Lni_022933-T1	YP_001957064.1 / none	68.1	Pseudomonas phage 201phi2-1	Viruses	7	7	7	0	0
+79.13	158.70	Lni_028757-T1	WP_137381362.1 / none	69.6	Citrobacter sp. wls619	Bacteria	4	23	25	19	0
+79.04	158.70	Lni_042896-T1	YP_007007397.1 / none	60.2	Klebsiella phage vB_KleM_RaK2	Viruses	1	3	5	0	0
+78.37	157.10	Lni_060118-T1	TAE30158.1 / none	53.4	Candidatus Kapabacteria bacterium	Bacteria	9	25	25	16	0
+77.37	156.40	Lni_042596-T1	QOE32219.1 / none	62.6	Klebsiella phage Muenster	Viruses	4	13	13	4	0
+77.19	155.20	Lni_007074-T1	WP_081077715.1 / none	57.3	Burkholderia stagnalis	Bacteria	25	25	25	0	0
+76.98	156.00	Lni_020012-T1	WP_146056835.1 / none	36.9	Chromobacterium sp. MWU14-2602	Bacteria	4	4	4	0	0
+76.55	154.10	Lni_014875-T1	YP_001957090.1 / none	60.2	Pseudomonas phage 201phi2-1	Viruses	3	3	3	0	0
+76.55	154.10	Lni_018245-T1	YP_001956870.1 / none	69.6	Pseudomonas phage 201phi2-1	Viruses	6	6	6	0	0
+75.58	154.10	Lni_042608-T1	AXC38874.1 / none	62.7	Escherichia phage CMSTMSU	Viruses	3	22	22	4	0
+75.34	153.30	Lni_018256-T1	QAU05465.1 / none	43.7	Klebsiella phage K1-ULIP33	Viruses	21	22	23	1	0
+75.15	153.70	Lni_042891-T1	QOE32642.1 / none	55.3	Klebsiella phage Muenster	Viruses	3	23	25	2	0
+74.76	151.80	Lni_013385-T1	WP_106678470.1 / none	61.7	Streptosporangium nondiastaticum	Bacteria	8	25	25	0	0
+74.76	151.80	Lni_056249-T1	WP_106678470.1 / none	61.7	Streptosporangium nondiastaticum	Bacteria	8	25	25	0	0
+74.57	151.80	Lni_036806-T1	WP_105592526.1 / none	46.8	Pantoea coffeiphila	Bacteria	25	25	25	0	0
+74.38	151.40	Lni_014825-T1	YP_001957123.1 / none	51.4	Pseudomonas phage 201phi2-1	Viruses	1	1	1	0	0
+74.19	151.00	Lni_022939-T1	YP_001957047.1 / none	54.1	Pseudomonas phage 201phi2-1	Viruses	1	1	1	0	0
+74.16	152.10	Lni_027070-T1	WP_161580509.1 / none	42.3	Cronobacter muytjensii	Bacteria	1	1	1	0	0
+73.98	151.00	Lni_031279-T1	WP_036530820.1 / none	37.9	Neosynechococcus sphagnicola	Bacteria	12	25	25	0	0
+73.98	151.40	Lni_042910-T1	YP_004894019.1 / none	51.2	Salmonella phage PVPSE1	Viruses	5	25	25	0	0
+73.96	151.00	Lni_017922-T1	WP_142654131.1 / none	38.5	Pseudanabaena sp. UWO311	Bacteria	13	25	25	5	0
+73.70	150.60	Lni_070983-T1	WP_126389767.1 / none	42.4	Pseudanabaena sp. ABRG5-3	Bacteria	5	25	25	0	0
+73.59	150.60	Lni_045408-T1	XP_003617915.2 / none	51.3	Medicago truncatula	Eukaryota@Viridiplantae	24	25	25	1	0
+73.15	149.40	Lni_014618-T1	WP_069386272.1 / none	52.3	Cellulosimicrobium cellulans	Bacteria	19	25	25	6	0
+73.09	150.20	Lni_030747-T1	WP_160360563.1 / none	36.6	Clostridium chromiireducens	Bacteria	3	18	18	2	0
+72.85	149.10	Lni_017292-T1	WP_179079526.1 / none	62.3	Streptomyces rectiverticillatus	Bacteria	8	25	25	0	0
+72.11	148.30	Lni_072662-T1	WP_149329942.1 / none	43.1	Halomonas sp. L5	Bacteria	23	25	25	2	0
+72.03	147.90	Lni_038491-T1	WP_106678470.1 / none	60.9	Streptosporangium nondiastaticum	Bacteria	8	25	25	0	0
+71.38	146.70	Lni_038350-T1	WP_084961084.1 / none	48.5	Thermoactinospora rubra	Bacteria	24	25	25	1	0
+70.91	147.50	Lni_001408-T1	TMA82094.1 / none	30.7	Deltaproteobacteria bacterium	Bacteria	22	25	25	3	0
+70.79	146.40	Lni_073086-T1	WP_158610323.1 / none	43.8	Promicromonospora sp. YR516	Bacteria	15	24	24	2	0
+70.64	146.00	Lni_033517-T1	WP_188768663.1 / none	45.5	Emticicia aquatilis	Bacteria	8	24	25	16	0
+70.46	146.00	Lni_040416-T1	WP_059936921.1 / none	41.8	Burkholderia multivorans	Bacteria	20	25	25	3	0
+70.35	146.40	Lni_043751-T1	WP_117391161.1 / none	36.7	Mucilaginibacter sp. MYSH2	Bacteria	20	25	25	1	0
+70.25	145.20	Lni_023971-T1	QHJ78963.1 / none	50.7	Myoviridae sp.	Viruses	2	2	2	0	0
+70.25	145.60	Lni_052707-T1	WP_036530820.1 / none	39.4	Neosynechococcus sphagnicola	Bacteria	1	25	25	0	0
+69.99	144.80	Lni_077598-T1	WP_077518825.1 / none	57.4	Rhodanobacter sp. C03	Bacteria	25	25	25	0	0
+69.62	145.60	Lni_059251-T1	PYS88733.1 / none	31.9	Acidobacteria bacterium	Bacteria	18	25	25	2	0
+69.41	144.40	Lni_067317-T1	TBL79499.1 / none	41.0	Paenibacillus thalictri	Bacteria	23	25	25	2	0
+69.38	144.40	Lni_037918-T1	WP_126389767.1 / none	42.0	Pseudanabaena sp. ABRG5-3	Bacteria	2	25	25	0	0
+68.98	143.70	Lni_023984-T1	YP_009196508.1 / none	57.9	Cronobacter phage S13	Viruses	6	25	25	0	0
+68.82	144.10	Lni_050864-T1	WP_012628795.1 / none	33.3	Cyanothece sp. PCC 7425	Bacteria	24	25	25	1	0
+68.55	144.40	Lni_022111-T1	QID88581.1 / none	33.3	Chapparvovirus sp.	Viruses	25	25	25	0	0
+68.05	142.50	Lni_040415-T1	WP_036530820.1 / none	36.3	Neosynechococcus sphagnicola	Bacteria	9	25	25	1	0
+67.72	141.00	Lni_019284-T1	RQS86446.1 / none	67.0	Burkholderia seminalis	Bacteria	5	25	25	0	0
+67.49	141.70	Lni_018160-T1	WP_059936921.1 / none	40.9	Burkholderia multivorans	Bacteria	22	25	25	3	0
+67.49	142.10	Lni_042877-T1	YP_007007343.1 / none	51.2	Klebsiella phage vB_KleM_RaK2	Viruses	7	23	25	2	0
+67.22	141.40	Lni_018581-T1	RYG67354.1 / none	42.1	bacterium	Bacteria	7	25	25	0	0
+66.59	140.60	Lni_042886-T1	YP_007007366.1 / none	51.7	Klebsiella phage vB_KleM_RaK2	Viruses	3	23	24	2	0
+66.51	139.80	Lni_031746-T1	YP_007005986.1 / none	62.0	Bacillus phage BCD7	Viruses	1	1	1	0	0
+66.44	140.20	Lni_052705-T1	WP_142654131.1 / none	39.3	Pseudanabaena sp. UWO311	Bacteria	7	25	25	0	0
+66.13	139.40	Lni_022879-T1	WP_170128888.1 / none	51.1	Minicystis rosea	Bacteria	22	24	25	2	0
+66.03	139.00	Lni_000554-T1	TEB36994.1 / none	59.4	Coprinellus micaceus	Eukaryota@Fungi	2	25	25	0	0
+65.99	139.00	Lni_017573-T1	YP_001957167.1 / none	38.0	Pseudomonas phage 201phi2-1	Viruses	3	15	15	0	0
+65.99	139.00	Lni_042594-T1	BBM61871.1 / none	53.7	Escherichia phage SP27	Viruses	2	16	16	1	0
+65.58	139.00	Lni_078529-T1	RYG67354.1 / none	41.8	bacterium	Bacteria	6	25	25	0	0
+65.44	140.20	Lni_017549-T1	TVR98363.1 / none	37.2	Rhodospirillales bacterium	Bacteria	2	2	2	0	0
+64.89	138.30	Lni_031750-T1	YP_007005854.1 / none	67.0	Bacillus phage BCD7	Viruses	2	2	2	0	0
+64.75	137.50	Lni_001452-T1	WP_161580509.1 / none	44.6	Cronobacter muytjensii	Bacteria	1	1	1	0	0
+64.71	137.10	Lni_007196-T1	WP_179153006.1 / none	54.3	Chromohalobacter salexigens	Bacteria	23	25	25	2	0
+64.60	137.50	Lni_067318-T1	WP_059936921.1 / none	41.2	Burkholderia multivorans	Bacteria	4	25	25	1	0
+64.21	137.50	Lni_042614-T1	AXC36922.1 / none	44.6	Escherichia phage UB	Viruses	2	24	25	0	0
+64.00	136.70	Lni_078527-T1	RYG67354.1 / none	41.8	bacterium	Bacteria	7	25	25	0	0
+63.73	136.00	Lni_001453-T1	WP_161580509.1 / none	45.5	Cronobacter muytjensii	Bacteria	1	1	1	0	0
+63.34	135.60	Lni_027147-T1	WP_179079526.1 / none	63.0	Streptomyces rectiverticillatus	Bacteria	9	25	25	0	0
+63.34	136.70	Lni_041291-T1	WP_126389767.1 / none	39.2	Pseudanabaena sp. ABRG5-3	Bacteria	12	25	25	0	0
+63.14	136.00	Lni_018496-T1	YP_009196435.1 / none	52.7	Cronobacter phage S13	Viruses	4	4	4	0	0
+63.04	134.80	Lni_067124-T1	WP_189222977.1 / none	56.6	Saccharothrix coeruleofusca	Bacteria	25	25	25	0	0
+62.79	134.40	Lni_067126-T1	WP_189222977.1 / none	55.8	Saccharothrix coeruleofusca	Bacteria	25	25	25	0	0
+62.50	134.80	Lni_042635-T1	YP_007007165.1 / none	55.1	Klebsiella phage vB_KleM_RaK2	Viruses	2	22	22	3	0
+62.17	133.70	Lni_020907-T1	WP_006684035.1 / none	43.2	Citrobacter youngae	Bacteria	25	25	25	0	0
+62.07	133.30	Lni_014849-T1	YP_001957180.1 / none	53.7	Pseudomonas phage 201phi2-1	Viruses	1	1	1	0	0
+61.99	132.90	Lni_017581-T1	WP_080893847.1 / none	68.0	Klebsiella	Bacteria	24	25	25	1	0
+61.99	134.40	Lni_022944-T1	YP_001957034.1 / none	63.1	Pseudomonas phage 201phi2-1	Viruses	1	1	1	0	0
+61.70	132.50	Lni_031741-T1	YP_007005971.1 / none	65.1	Bacillus phage BCD7	Viruses	1	1	1	0	0
+61.70	133.30	Lni_076317-T1	WP_052687116.1 / none	48.1	Streptomyces lydicus	Bacteria	10	25	25	0	0
+61.58	133.30	Lni_052709-T1	WP_066209297.1 / none	41.6	Flammeovirga sp. MY04	Bacteria	6	25	25	0	0
+60.92	132.10	Lni_076318-T1	WP_052687116.1 / none	48.1	Streptomyces lydicus	Bacteria	10	25	25	0	0
+60.24	132.10	Lni_017234-T1	YP_001956733.1 / none	42.6	Pseudomonas phage 201phi2-1	Viruses	1	2	2	0	0
+60.24	130.60	Lni_042913-T1	QOE32692.1 / none	47.9	Klebsiella phage Muenster	Viruses	2	2	2	0	0
+60.08	131.00	Lni_066987-T1	WP_052687116.1 / none	51.1	Streptomyces lydicus	Bacteria	3	25	25	0	0
+59.97	132.10	Lni_017749-T1	YP_001956883.1 / none	62.8	Pseudomonas phage 201phi2-1	Viruses	1	1	1	0	0
+59.60	129.40	Lni_014833-T1	YP_007005867.1 / none	62.1	Bacillus phage BCD7	Viruses	1	1	1	0	0
+59.40	131.30	Lni_022943-T1	YP_001957038.1 / none	45.5	Pseudomonas phage 201phi2-1	Viruses	8	8	8	0	0
+59.34	129.40	Lni_043691-T1	YP_009196538.1 / none	50.7	Cronobacter phage S13	Viruses	1	1	1	0	0
+59.28	129.40	Lni_032893-T1	TML35171.1 / none	49.6	Actinobacteria bacterium	Bacteria	18	25	25	7	0
+59.28	129.40	Lni_034226-T1	TML35171.1 / none	49.6	Actinobacteria bacterium	Bacteria	18	25	25	7	0
+59.17	129.40	Lni_042856-T1	QAY00411.1 / none	51.9	Escherichia phage Ecwhy_1	Viruses	2	18	20	0	0
+59.17	130.20	Lni_055010-T1	WP_149114359.1 / none	35.2	Limnoglobus roseus	Bacteria	20	24	25	4	0
+58.80	128.30	Lni_021661-T1	YP_009196422.1 / none	60.2	Cronobacter phage S13	Viruses	20	21	21	1	0
+58.80	129.40	Lni_024578-T1	QHJ78935.1 / none	62.3	Myoviridae sp.	Viruses	4	4	4	0	0
+58.51	127.90	Lni_017578-T1	WP_115537895.1 / none	61.5	Trinickia dinghuensis	Bacteria	7	7	7	0	0
+58.41	128.30	Lni_034600-T1	WP_168823084.1 / none	46.8	Marinomonas sp. M1K-6	Bacteria	21	25	25	4	0
+58.39	129.80	Lni_075072-T1	GAX90098.1 / none	39.7	Effusibacillus lacus	Bacteria	22	25	25	3	0
+58.22	127.90	Lni_022925-T1	YP_001957085.1 / none	51.1	Pseudomonas phage 201phi2-1	Viruses	1	1	1	0	0
+57.67	126.70	Lni_077600-T1	WP_114845554.1 / none	59.2	Dyella tabacisoli	Bacteria	22	25	25	3	0
+57.38	126.70	Lni_017291-T1	WP_179079526.1 / none	52.6	Streptomyces rectiverticillatus	Bacteria	18	25	25	0	0
+57.09	126.30	Lni_075593-T1	TDJ47902.1 / none	44.4	Gammaproteobacteria bacterium	Bacteria	19	25	25	6	0
+56.98	125.60	Lni_022924-T1	YP_001957086.1 / none	60.2	Pseudomonas phage 201phi2-1	Viruses	1	1	1	0	0
+56.69	125.60	Lni_022860-T1	KPK58759.1 / none	50.4	Gammaproteobacteria bacterium SG8_31	Bacteria	23	25	25	2	0
+56.61	125.60	Lni_011988-T1	KPK58759.1 / none	46.8	Gammaproteobacteria bacterium SG8_31	Bacteria	24	25	25	1	0
+56.61	125.20	Lni_079079-T1	TVR42730.1 / none	57.0	Bacteroidia bacterium	Bacteria	16	25	25	9	0
+56.54	127.90	Lni_005640-T1	TMI40341.1 / none	28.0	Candidatus Bathyarchaeota archaeon	Archaea	20	25	25	5	0
+56.47	125.60	Lni_032021-T1	WP_136413893.1 / none	42.6	Herbaspirillum sp. ST 5-3	Bacteria	6	25	25	0	0
+56.31	125.20	Lni_019384-T1	WP_052687116.1 / none	64.7	Streptomyces lydicus	Bacteria	6	25	25	0	0
+56.11	125.20	Lni_043752-T1	RUS19420.1 / none	55.9	Endogone sp. FLAS-F59071	Eukaryota@Fungi	1	25	25	0	0
+56.08	125.60	Lni_017553-T1	YP_001956771.1 / none	54.1	Pseudomonas phage 201phi2-1	Viruses	2	2	2	0	0
+55.86	124.00	Lni_020011-T1	WP_074926295.1 / none	66.0	Nitrosomonas eutropha	Bacteria	21	25	25	4	0
+55.65	124.40	Lni_069845-T1	TDJ67560.1 / none	46.3	Proteobacteria bacterium	Bacteria	19	25	25	6	0
+55.55	124.00	Lni_014375-T1	KPK58759.1 / none	46.8	Gammaproteobacteria bacterium SG8_31	Bacteria	24	25	25	1	0
+55.54	125.20	Lni_065591-T1	XP_031868118.1 / none	27.9	Venustampulla echinocandica	Eukaryota@Fungi	2	25	25	0	0
+55.27	124.00	Lni_022940-T1	YP_009617445.1 / none	44.8	Pseudomonas phage PA7	Viruses	1	1	1	0	0
+54.86	124.00	Lni_002600-T1	PNX80509.1 / none	32.5	Trifolium pratense	Eukaryota@Viridiplantae	1	1	1	0	0
+54.86	124.00	Lni_002602-T1	PNX80509.1 / none	32.5	Trifolium pratense	Eukaryota@Viridiplantae	1	1	1	0	0
+54.67	122.90	Lni_034116-T1	WP_179079526.1 / none	51.7	Streptomyces rectiverticillatus	Bacteria	17	25	25	0	0
+54.43	122.50	Lni_030707-T1	WP_171090224.1 / none	47.3	Usitatibacter rugosus	Bacteria	19	25	25	6	0
+54.31	121.70	Lni_019490-T1	WP_127353334.1 / none	64.9	Enterobacter asburiae	Bacteria	17	17	17	0	0
+54.20	122.50	Lni_074893-T1	KQB55887.1 / none	47.7	Acidovorax sp. SD340	Bacteria	22	25	25	3	0
+53.98	122.50	Lni_031742-T1	YP_007005975.1 / none	51.3	Bacillus phage BCD7	Viruses	2	2	2	0	0
+53.90	122.10	Lni_050282-T1	WP_141740759.1 / none	46.5	Corynebacterium sp. HMSC05C01	Bacteria	8	25	25	0	0
+53.88	122.10	Lni_008362-T1	WP_011532061.1 / none	42.0	Pseudomonas entomophila	Bacteria	3	3	3	0	0
+53.80	122.50	Lni_024587-T1	YP_009196603.1 / none	51.5	Cronobacter phage S13	Viruses	1	1	1	0	0
+53.78	121.70	Lni_069846-T1	KPK58759.1 / none	47.7	Gammaproteobacteria bacterium SG8_31	Bacteria	21	25	25	4	0
+53.65	121.30	Lni_016423-T1	TDJ67560.1 / none	45.5	Proteobacteria bacterium	Bacteria	20	25	25	5	0
+53.10	120.60	Lni_019488-T1	TDJ67560.1 / none	45.5	Proteobacteria bacterium	Bacteria	19	25	25	6	0
+53.10	120.60	Lni_075594-T1	TDJ47902.1 / none	43.7	Gammaproteobacteria bacterium	Bacteria	19	25	25	6	0
+52.96	120.20	Lni_037057-T1	OMJ93653.1 / none	45.6	Stentor coeruleus	Eukaryota	1	1	1	0	0
+52.27	120.60	Lni_033419-T1	WP_134758420.1 / none	28.2	Paraburkholderia sp. 7MH5	Bacteria	24	25	25	1	0
+52.13	119.40	Lni_063910-T1	WP_112267186.1 / none	46.8	Lentzea terrae	Bacteria	25	25	25	0	0
+51.83	119.00	Lni_042918-T1	YP_007007472.1 / none	56.9	Klebsiella phage vB_KleM_RaK2	Viruses	5	20	22	0	0
+51.51	74.40	Lni_070619-T1	APG78230.1 / XP_011706461.1	39.4	Hubei partiti-like virus 7	Viruses	24	24	25	0	0
+51.50	119.40	Lni_033465-T1	WP_007415720.1 / none	35.5	Pedosphaera parvula	Bacteria	20	25	25	5	0
+51.01	73.50	Lni_058014-T1	TAE56096.1 / XP_021952063.1	50.6	Nostocales cyanobacterium	Bacteria	1	1	25	0	0
+50.92	117.90	Lni_017530-T1	VFT73224.1 / none	60.0	Klebsiella aerogenes	Bacteria	1	1	1	0	0
+50.69	119.40	Lni_042923-T1	QAY00796.1 / none	29.8	Escherichia phage Ecwhy_1	Viruses	2	25	25	2	0
+50.25	116.70	Lni_074892-T1	WP_121507316.1 / none	44.8	Acidovorax sp. 93	Bacteria	21	25	25	4	0
+50.19	116.30	Lni_017637-T1	WP_139767028.1 / none	65.5	Salmonella enterica	Bacteria	5	25	25	20	0
+49.03	114.40	Lni_028553-T1	TVP51252.1 / none	46.2	Halomonas sp.	Bacteria	20	25	25	5	0
+49.01	114.40	Lni_031733-T1	YP_007005957.1 / none	53.0	Bacillus phage BCD7	Viruses	1	10	10	0	0
+48.83	115.90	Lni_074905-T1	PNX80509.1 / none	34.6	Trifolium pratense	Eukaryota@Viridiplantae	1	1	1	0	0
+48.63	114.00	Lni_017687-T1	WP_108700600.1 / none	45.6	Phytobacter sp. SCO41	Bacteria	4	4	4	0	0
+48.46	114.00	Lni_042914-T1	QDF13652.1 / none	61.8	Escherichia phage vB_EcoM_phAPEC6	Viruses	1	11	11	1	0
+48.41	114.40	Lni_042902-T1	QAY00843.1 / none	60.7	Escherichia phage Ecwhy_1	Viruses	2	3	3	1	0
+47.95	112.80	Lni_072862-T1	WP_116843877.1 / none	48.1	Pseudomonas aeruginosa	Bacteria	25	25	25	0	0
+47.82	112.80	Lni_018564-T1	GEG81121.1 / none	50.0	Escherichia coli O145:H28	Bacteria	3	3	3	0	0
+47.77	113.20	Lni_010219-T1	WP_012210564.1 / none	35.8	Salmonella enterica	Bacteria	12	24	25	12	0
+47.77	114.00	Lni_035843-T1	PKL88555.1 / none	30.4	Ignavibacteriae bacterium HGW-Ignavibacteriae-2	Bacteria	21	25	25	4	0
+46.94	112.10	Lni_020633-T1	WP_123964727.1 / none	48.4	Streptomyces sp. TLI_185	Bacteria	1	25	25	0	0
+46.79	111.70	Lni_063909-T1	KUN56009.1 / none	38.8	Streptomyces avermitilis	Bacteria	25	25	25	0	0
+46.69	110.90	Lni_063858-T1	WP_095839840.1 / none	59.3	Chitinophaga sp. MD30	Bacteria	24	25	25	1	0
+46.27	110.20	Lni_015382-T1	RNC85851.1 / none	54.5	Balneola sp.	Bacteria	18	24	25	6	0
+46.20	66.70	Lni_059144-T1	TAE56096.1 / XP_021952063.1	49.6	Nostocales cyanobacterium	Bacteria	1	14	25	0	0
+44.13	108.20	Lni_014859-T1	YP_001956727.1 / none	49.0	Pseudomonas phage 201phi2-1	Viruses	4	9	9	0	0
+44.13	107.80	Lni_042638-T1	WP_137592498.1 / none	43.5	Escherichia coli	Bacteria	2	17	21	1	0
+44.09	108.60	Lni_071653-T1	WP_147061045.1 / none	43.4	Mucilaginibacter ginsenosidivorax	Bacteria	24	25	25	1	0
+44.05	107.50	Lni_024584-T1	YP_009196593.1 / none	56.5	Cronobacter phage S13	Viruses	2	2	2	0	0
+43.34	107.10	Lni_008341-T1	YP_009217161.1 / none	34.8	Pseudomonas phage PhiPA3	Viruses	1	25	25	0	0
+43.34	106.30	Lni_028753-T1	ELX48655.1 / none	56.8	Salmonella enterica subsp. enterica serovar Tennessee str. 4535	Bacteria	21	25	25	4	0
+43.01	107.10	Lni_044189-T1	WP_061991369.1 / none	53.3	Flammeovirgaceae bacterium 311	Bacteria	18	25	25	7	0
+42.56	107.10	Lni_033532-T1	WP_068651758.1 / none	29.5	Wolbachia endosymbiont of Trichogramma pretiosum	Bacteria	3	3	3	0	0
+42.47	105.50	Lni_047010-T1	WP_052687116.1 / none	37.2	Streptomyces lydicus	Bacteria	4	25	25	0	0
+42.44	106.70	Lni_046578-T1	RLJ03321.1 / none	28.5	Candidatus Aenigmarchaeota archaeon	Archaea	1	24	25	3	0
+42.25	105.10	Lni_036287-T1	XP_007780405.1 / none	53.2	Coniosporium apollinis CBS 100218	Eukaryota@Fungi	2	25	25	0	0
+41.11	104.00	Lni_019638-T1	WP_177402271.1 / none	42.7	Bacilli bacterium	Bacteria	19	25	25	6	0
+40.92	103.60	Lni_010707-T1	WP_177402271.1 / none	42.7	Bacilli bacterium	Bacteria	20	25	25	5	0
+40.92	103.20	Lni_026323-T1	PZO44117.1 / none	36.0	Pseudanabaena frigida	Bacteria	4	22	25	1	0
+40.70	104.80	Lni_039734-T1	KAF7683062.1 / none	25.4	Thelohania contejeani	Eukaryota@Fungi	1	25	25	0	0
+40.38	104.00	Lni_044985-T1	KAF7677992.1 / none	26.2	Thelohania contejeani	Eukaryota@Fungi	1	1	1	0	0
+40.32	102.40	Lni_017752-T1	YP_009102762.1 / none	52.3	Lelliottia phage phD2B	Viruses	15	18	18	1	0
+39.90	101.30	Lni_018286-T1	WP_137814508.1 / none	46.4	Gandjariella thermophila	Bacteria	24	25	25	1	0
+39.65	100.50	Lni_014854-T1	WP_128199569.1 / none	55.8	Rubrivivax albus	Bacteria	2	3	3	1	0
+39.53	100.50	Lni_017651-T1	WP_050492989.1 / none	58.1	Pseudomonas fluorescens	Bacteria	10	10	10	0	0
+39.37	100.50	Lni_037728-T1	WP_137814508.1 / none	44.0	Gandjariella thermophila	Bacteria	23	25	25	2	0
+39.29	100.50	Lni_014853-T1	YP_001957116.1 / none	45.7	Pseudomonas phage 201phi2-1	Viruses	1	1	1	0	0
+38.19	99.40	Lni_024854-T1	PYP51965.1 / none	34.3	Gemmatimonadetes bacterium	Bacteria	14	25	25	11	0
+38.18	55.10	Lni_060896-T1	TAE56096.1 / XP_021952063.1	44.5	Nostocales cyanobacterium	Bacteria	1	1	25	0	0
+38.15	99.40	Lni_018565-T1	WP_078206235.1 / none	40.1	Escherichia coli	Bacteria	5	25	25	2	0
+37.98	99.00	Lni_031630-T1	WP_155851202.1 / none	47.1	Escherichia coli	Bacteria	1	15	18	3	0
+37.92	54.70	Lni_056740-T1	WP_155735114.1 / XP_035234209.1	31.2	Anaplasma phagocytophilum	Bacteria	5	10	22	0	5
+37.37	98.60	Lni_017723-T1	RIL03504.1 / none	36.8	Proteobacteria bacterium	Bacteria	25	25	25	0	0
+37.29	98.60	Lni_065590-T1	PVF93073.1 / none	33.6	Serendipita vermifera 'subsp. bescii'	Eukaryota@Fungi	9	25	25	0	0
+37.06	99.00	Lni_018201-T1	YP_009196576.1 / none	29.3	Cronobacter phage S13	Viruses	1	1	1	0	0
+35.74	96.70	Lni_018241-T1	YP_001957001.1 / none	33.5	Pseudomonas phage 201phi2-1	Viruses	1	1	1	0	0
+35.48	94.70	Lni_067196-T1	WP_190777696.1 / none	42.9	Microcoleus sp. FACHB-1	Bacteria	1	1	1	0	0
+34.92	94.00	Lni_020066-T1	WP_090340563.1 / none	51.1	Dyadobacter koreensis	Bacteria	14	25	25	0	0
+34.79	94.00	Lni_027256-T1	WP_090340563.1 / none	51.1	Dyadobacter koreensis	Bacteria	15	25	25	1	0
+34.44	93.20	Lni_031751-T1	YP_007005863.1 / none	53.8	Bacillus phage BCD7	Viruses	1	1	1	0	0
+34.36	94.00	Lni_074546-T1	WP_162334624.1 / none	28.9	Chitinophaga sp. H33E-04	Bacteria	17	25	25	8	0
+33.95	93.20	Lni_043258-T1	WP_123964727.1 / none	35.3	Streptomyces sp. TLI_185	Bacteria	1	25	25	0	0
+33.51	92.00	Lni_043732-T1	WP_183882886.1 / none	50.0	Pedobacter cryoconitis	Bacteria	22	24	25	2	0
+33.47	92.00	Lni_048866-T1	WP_153864322.1 / none	58.6	Myxococcaceae	Bacteria	22	25	25	3	0
+33.41	92.40	Lni_036840-T1	TNV76669.1 / none	34.6	Halteria grandinella	Eukaryota	2	2	2	0	0
+33.10	92.40	Lni_054643-T1	WP_180559318.1 / none	30.6	Arsenophonus endosymbiont of Apis mellifera	Bacteria	5	5	5	0	0
+32.75	91.30	Lni_023076-T1	YP_001956818.1 / none	55.8	Pseudomonas phage 201phi2-1	Viruses	2	2	2	0	0
+32.51	91.30	Lni_035515-T1	RYE19965.1 / none	51.3	Sphingobacteriaceae bacterium	Bacteria	21	25	25	4	0
+31.97	89.70	Lni_013846-T1	WP_176565204.1 / none	47.9	Spirosoma sp. KUDC1026	Bacteria	21	23	25	2	0
+31.25	45.10	Lni_065516-T1	WP_106367432.1 / XP_011267870.1	26.0	Chlorogloea sp. CCALA 695	Bacteria	16	23	25	7	0
+31.24	89.70	Lni_017728-T1	YP_009884138.1 / none	65.0	Escherichia phage vB_EcoM_4HA13	Viruses	4	4	4	0	0
+31.14	89.00	Lni_064270-T1	GDX53399.1 / none	37.8	Bacteroidetes bacterium	Bacteria	22	25	25	3	0
+31.07	87.80	Lni_017635-T1	WP_124234863.1 / none	66.7	Erwinia psidii	Bacteria	5	16	25	11	0
+30.93	88.20	Lni_031745-T1	YP_007005985.1 / none	45.0	Bacillus phage BCD7	Viruses	1	1	1	0	0
+30.90	87.40	Lni_038687-T1	WP_073794881.1 / none	59.1	Streptomyces sp. CB03578	Bacteria	14	24	25	10	0
+30.69	44.30	Lni_072616-T1	WP_168455572.1 / VVC27504.1	29.2	Wolbachia endosymbiont of Ctenocephalides felis wCfeJ	Bacteria	22	23	25	1	0
+30.65	89.40	Lni_022946-T1	WP_027967329.1 / none	30.5	Halomonas halocynthiae	Bacteria	2	25	25	0	0
+30.30	87.40	Lni_031951-T1	RBH58726.1 / none	39.3	Pseudomonas sp. MWU13-2860	Bacteria	25	25	25	0	0
+30.16	87.00	Lni_007496-T1	WP_184261657.1 / none	45.5	Rhodopseudomonas rhenobacensis	Bacteria	20	23	25	3	0
+29.75	88.20	Lni_033941-T1	ORY46720.1 / none	25.9	Neocallimastix californiae	Eukaryota@Fungi	1	1	1	0	0
+29.53	87.80	Lni_016484-T1	ORY46720.1 / none	25.5	Neocallimastix californiae	Eukaryota@Fungi	1	4	4	0	0
+29.46	85.50	Lni_017713-T1	WP_182407875.1 / none	67.6	Pseudomonas monteilii	Bacteria	3	4	4	1	0
+29.15	85.10	Lni_018545-T1	YP_001957143.1 / none	43.2	Pseudomonas phage 201phi2-1	Viruses	1	1	1	0	0
+29.06	85.50	Lni_024742-T1	WP_095121162.1 / none	43.0	Pseudomonas	Bacteria	19	19	19	0	0
+28.94	85.50	Lni_018161-T1	TBL79499.1 / none	36.0	Paenibacillus thalictri	Bacteria	7	25	25	1	0
+28.77	85.90	Lni_042888-T1	YP_009150710.1 / none	33.3	Escherichia phage PBECO4	Viruses	1	5	7	1	0
+28.56	41.30	Lni_056980-T1	ETL45447.1 / PAA52735.1	47.7	Phytophthora parasitica	Eukaryota@Stramenopiles	6	6	25	0	0
+28.45	84.70	Lni_069645-T1	WP_127049097.1 / none	51.1	Labedella endophytica	Bacteria	23	25	25	2	0
+28.03	84.00	Lni_067491-T1	WP_184624130.1 / none	50.6	Pedobacter cryoconitis	Bacteria	24	25	25	1	0
+27.91	84.00	Lni_014786-T1	YP_001957149.1 / none	37.6	Pseudomonas phage 201phi2-1	Viruses	1	1	1	0	0
+27.50	39.70	Lni_069325-T1	WP_168357568.1 / PAV70955.1	38.3	Dolichospermum planctonicum	Bacteria	1	5	25	0	0
+27.37	83.60	Lni_028730-T1	NP_048265.1 / none	38.7	Melanoplus sanguinipes entomopoxvirus	Viruses	3	25	25	0	0
+27.04	84.70	Lni_070662-T1	ORY46720.1 / none	24.1	Neocallimastix californiae	Eukaryota@Fungi	1	1	1	0	0
+26.71	82.40	Lni_033275-T1	PYR92273.1 / none	52.1	Acidobacteria bacterium	Bacteria	22	24	25	2	0
+26.57	82.00	Lni_030471-T1	TXE40410.1 / none	51.9	[Empedobacter] haloabium	Bacteria	23	25	25	2	0
+26.41	82.00	Lni_053636-T1	CEP08027.1 / none	34.3	Parasitella parasitica	Eukaryota@Fungi	1	6	6	0	0
+26.10	81.30	Lni_027154-T1	WP_009285176.1 / none	51.7	Fibrisoma limi	Bacteria	23	25	25	2	0
+25.93	82.00	Lni_052495-T1	ORY21125.1 / none	32.3	Neocallimastix californiae	Eukaryota@Fungi	14	18	18	0	0
+25.91	81.30	Lni_039339-T1	WP_009285176.1 / none	51.7	Fibrisoma limi	Bacteria	23	25	25	2	0
+25.44	80.90	Lni_057314-T1	WP_082391224.1 / none	41.1	Jiulongibacter sediminis	Bacteria	6	6	6	0	0
+25.33	81.60	Lni_071600-T1	TMI40341.1 / none	25.6	Candidatus Bathyarchaeota archaeon	Archaea	3	24	25	1	0
+24.99	80.90	Lni_048539-T1	KAF2836054.1 / none	28.4	Patellaria atrata CBS 101060	Eukaryota@Fungi	4	4	4	0	0
+24.80	80.10	Lni_037791-T1	XP_010253308.1 / none	45.6	Nelumbo nucifera	Eukaryota@Viridiplantae	6	25	25	0	0
+24.80	80.10	Lni_042881-T1	QAY00346.1 / none	42.9	Escherichia phage Ecwhy_1	Viruses	1	10	12	0	0
+24.80	35.90	Lni_047670-T1	XP_005842157.1 / XP_004210736.2	32.6	Guillardia theta CCMP2712	Eukaryota	1	1	9	0	0
+24.64	80.90	Lni_042924-T1	YP_009101823.1 / none	26.5	Escherichia phage 121Q	Viruses	2	24	25	3	0
+24.30	78.60	Lni_041349-T1	WP_007348088.1 / none	45.1	Marinobacter sp. ELB17	Bacteria	19	24	25	5	0
+24.26	77.80	Lni_005699-T1	AUV44745.1 / none	69.4	Citrobacter freundii complex sp. CFNIH9	Bacteria	14	25	25	11	0
+24.02	78.60	Lni_014855-T1	YP_009884080.1 / none	65.3	Escherichia phage vB_EcoM_4HA13	Viruses	1	1	1	0	0
+23.92	78.20	Lni_033733-T1	WP_030850692.1 / none	38.7	Streptomyces sp. NRRL F-4474	Bacteria	24	25	25	1	0
+23.82	79.00	Lni_014790-T1	WP_087135323.1 / none	29.0	Caballeronia arationis	Bacteria	1	2	2	0	0
+23.66	79.30	Lni_044704-T1	QBK85357.1 / none	30.3	Iridovirus LCIVAC01	Viruses	1	24	25	0	0
+23.34	78.20	Lni_003727-T1	PZO93102.1 / none	32.4	Streptococcus pyogenes	Bacteria	1	1	1	0	0
+23.19	77.00	Lni_001977-T1	WP_078174574.1 / none	45.6	Bacillus cereus	Bacteria	22	25	25	3	0
+23.19	77.00	Lni_001978-T1	WP_078174574.1 / none	45.6	Bacillus cereus	Bacteria	22	25	25	3	0
+23.13	79.30	Lni_057078-T1	XP_004994364.1 / none	22.5	Salpingoeca rosetta	Eukaryota	2	2	2	0	0
+23.13	78.20	Lni_070377-T1	XP_021971757.1 / none	28.8	Helianthus annuus	Eukaryota@Viridiplantae	2	2	2	0	0
+22.50	75.90	Lni_013978-T1	WP_156160617.1 / none	61.5	Demequina soli	Bacteria	21	25	25	4	0
+22.33	76.30	Lni_018275-T1	WP_047631148.1 / none	34.3	Escherichia coli	Bacteria	15	21	25	6	0
+22.33	76.30	Lni_018276-T1	WP_047631148.1 / none	34.3	Escherichia coli	Bacteria	15	21	25	6	0
+22.19	75.90	Lni_032358-T1	WP_183370622.1 / none	37.0	Gordonia humi	Bacteria	24	25	25	1	0
+22.11	75.10	Lni_032020-T1	OWB56784.1 / none	57.4	[Candida] boidinii	Eukaryota@Fungi	4	25	25	1	0
+22.07	75.90	Lni_067344-T1	WP_166578182.1 / none	46.3	Emticicia sp. ODNR4P	Bacteria	17	17	17	0	0
+22.00	76.30	Lni_054656-T1	WP_168455572.1 / none	30.4	Wolbachia endosymbiont of Ctenocephalides felis wCfeJ	Bacteria	4	5	5	0	0
+21.96	77.40	Lni_062702-T1	SHE21961.1 / none	32.7	Bathymodiolus brooksi thiotrophic gill symbiont	Bacteria	1	1	1	0	0
+21.96	75.90	Lni_076460-T1	WP_082391224.1 / none	46.6	Jiulongibacter sediminis	Bacteria	8	8	8	0	0
+21.93	75.90	Lni_076459-T1	WP_082391224.1 / none	46.6	Jiulongibacter sediminis	Bacteria	8	8	8	0	0
+21.90	31.60	Lni_010370-T1	DAC80269.1 / TKR87540.1	45.3	Branchiostoma lancelet adintovirus	Viruses	1	1	3	0	0
+21.86	74.70	Lni_050678-T1	RGB29435.1 / none	48.7	Rhizophagus sp. MUCL 43196	Eukaryota@Fungi	15	15	15	0	0
+21.77	75.90	Lni_033793-T1	OAQ99526.1 / none	29.8	Akanthomyces lecanii	Eukaryota@Fungi	4	25	25	0	0
+21.72	76.60	Lni_050211-T1	XP_004339562.1 / none	30.5	Acanthamoeba castellanii str. Neff	Eukaryota	1	6	6	0	0
+21.61	75.50	Lni_021956-T1	PZO93102.1 / none	33.8	Streptococcus pyogenes	Bacteria	1	1	1	0	0
+21.61	73.90	Lni_042887-T1	AXC39100.1 / none	60.9	Escherichia phage CMSTMSU	Viruses	1	5	5	0	0
+21.52	75.10	Lni_034326-T1	WP_189827517.1 / none	46.3	Streptomyces	Bacteria	25	25	25	0	0
+21.52	74.70	Lni_063911-T1	WP_052591375.1 / none	46.1	Luteipulveratus mongoliensis	Bacteria	25	25	25	0	0
+21.50	75.50	Lni_016348-T1	WP_111219512.1 / none	49.4	Rhizobium tumorigenes	Bacteria	25	25	25	0	0
+21.39	30.90	Lni_008055-T1	ETL45447.1 / PAA52735.1	47.7	Phytophthora parasitica	Eukaryota@Stramenopiles	6	6	25	0	0
+21.32	75.10	Lni_044955-T1	WP_020137071.1 / none	45.5	Streptomyces sp. 351MFTsu5.1	Bacteria	25	25	25	0	0
+21.25	75.90	Lni_017502-T1	GCD50948.1 / none	44.2	Acetobacter pasteurianus subsp. pasteurianus LMG 1262 = NBRC 106471	Bacteria	2	2	2	0	0
+21.17	75.90	Lni_042919-T1	QCW18652.1 / none	27.1	Salmonella phage 7t3	Viruses	2	25	25	0	0
+21.11	75.50	Lni_066720-T1	ORY56239.1 / none	28.0	Neocallimastix californiae	Eukaryota@Fungi	3	3	3	0	0
+21.00	73.90	Lni_044956-T1	WP_053790622.1 / none	39.1	Streptomyces sp. XY332	Bacteria	23	25	25	2	0
+20.86	75.50	Lni_010061-T1	EKD89744.1 / none	30.2	uncultured bacterium	Bacteria	1	25	25	0	0
+20.54	75.10	Lni_036592-T1	WP_177429446.1 / none	30.7	Wolbachia endosymbiont of Nilaparvata lugens	Bacteria	1	1	1	0	0
+20.46	72.80	Lni_020273-T1	WP_052591375.1 / none	51.4	Luteipulveratus mongoliensis	Bacteria	25	25	25	0	0
+20.46	73.90	Lni_029192-T1	XP_019175277.1 / none	33.3	Ipomoea nil	Eukaryota@Viridiplantae	4	25	25	0	0
+20.46	73.90	Lni_043834-T1	XP_005786881.1 / none	38.0	Emiliania huxleyi CCMP1516	Eukaryota	1	1	1	0	0
+20.34	29.20	Lni_047671-T1	OMJ93653.1 / XP_004210736.2	31.2	Stentor coeruleus	Eukaryota	1	1	18	0	0
+20.26	29.20	Lni_041910-T1	WP_015784921.1 / GAV04829.1	61.9	Rippkaea orientalis	Bacteria	7	16	25	9	0
+20.25	72.40	Lni_023211-T1	WP_052591375.1 / none	54.1	Luteipulveratus mongoliensis	Bacteria	25	25	25	0	0
+20.14	73.90	Lni_042742-T1	XP_005786881.1 / none	38.0	Emiliania huxleyi CCMP1516	Eukaryota	1	1	1	0	0
+20.03	72.80	Lni_009205-T1	WP_083869548.1 / none	46.7	Nocardia niigatensis	Bacteria	20	24	24	4	0
+19.98	72.80	Lni_053637-T1	EIE88504.1 / none	35.3	Rhizopus delemar RA 99-880	Eukaryota@Fungi	5	5	5	0	0
+19.81	73.60	Lni_017743-T1	YP_001956779.1 / none	56.4	Pseudomonas phage 201phi2-1	Viruses	1	1	1	0	0
+19.77	73.60	Lni_028597-T1	WP_170191136.1 / none	27.8	Geitlerinema sp. P-1104	Bacteria	1	1	1	0	0
+19.69	72.80	Lni_009694-T1	XP_024961915.1 / none	34.9	Cynara cardunculus var. scolymus	Eukaryota@Viridiplantae	25	25	25	0	0
+19.59	73.60	Lni_050210-T1	OQY25584.1 / none	28.4	Anaerolineaceae bacterium 4572_32.1	Bacteria	25	25	25	0	0
+19.41	72.80	Lni_043291-T1	ORY68134.1 / none	25.0	Neocallimastix californiae	Eukaryota@Fungi	1	1	1	0	0
+19.11	72.00	Lni_033834-T1	XP_019175277.1 / none	32.8	Ipomoea nil	Eukaryota@Viridiplantae	2	25	25	0	0
+18.93	72.00	Lni_038820-T1	OGN05093.1 / none	37.4	Candidatus Yanofskybacteria bacterium RIFCSPHIGHO2_01_FULL_44_17	Bacteria	1	12	12	0	0
+18.82	71.60	Lni_060177-T1	RVW53336.1 / none	28.2	Vitis vinifera	Eukaryota@Viridiplantae	1	23	23	0	0
+18.72	70.90	Lni_041033-T1	WP_160360563.1 / none	36.4	Clostridium chromiireducens	Bacteria	1	2	2	1	0
+18.71	72.00	Lni_008062-T1	TLY46766.1 / none	31.1	Gammaproteobacteria bacterium	Bacteria	1	2	2	0	0
+18.55	71.60	Lni_060361-T1	XP_004994361.1 / none	29.1	Salpingoeca rosetta	Eukaryota	2	2	2	0	0
+18.45	70.90	Lni_014862-T1	WP_047783900.1 / none	43.1	Variovorax paradoxus	Bacteria	25	25	25	0	0
+18.16	70.90	Lni_060703-T1	XP_005786881.1 / none	34.4	Emiliania huxleyi CCMP1516	Eukaryota	1	1	1	0	0
+17.95	69.30	Lni_033179-T1	WP_070741439.1 / none	55.6	Hymenobacter coccineus	Bacteria	21	25	25	4	0
+17.91	25.80	Lni_063966-T1	WP_015784921.1 / GAV04829.1	58.9	Rippkaea orientalis	Bacteria	10	20	25	10	0
+17.78	70.10	Lni_060193-T1	CDW86720.1 / none	25.8	Stylonychia lemnae	Eukaryota	2	2	2	0	0
+17.47	68.90	Lni_001767-T1	RLI77952.1 / none	40.0	Archaeoglobales archaeon	Archaea	20	25	25	5	0
+17.43	69.70	Lni_017551-T1	YP_001956776.1 / none	45.7	Pseudomonas phage 201phi2-1	Viruses	1	1	1	0	0
+17.29	67.80	Lni_018878-T1	WP_161580509.1 / none	49.3	Cronobacter muytjensii	Bacteria	1	1	1	0	0
+17.11	69.30	Lni_040379-T1	POW23215.1 / none	45.2	Puccinia striiformis	Eukaryota@Fungi	4	25	25	1	0
+17.01	68.90	Lni_001758-T1	RLI77952.1 / none	40.0	Archaeoglobales archaeon	Archaea	18	25	25	7	0
+16.94	69.70	Lni_042082-T1	ORY21125.1 / none	25.0	Neocallimastix californiae	Eukaryota@Fungi	1	1	1	0	0
+16.22	68.20	Lni_022920-T1	SHH71595.1 / none	22.8	Flavobacterium johnsoniae	Bacteria	24	25	25	1	0
+16.12	65.90	Lni_057015-T1	WP_012224905.1 / none	50.0	Gluconacetobacter diazotrophicus	Bacteria	1	25	25	0	0
+15.94	66.60	Lni_051722-T1	PLX21380.1 / none	34.2	Marinilabiliales bacterium	Bacteria	24	24	25	0	0
+15.65	67.00	Lni_040047-T1	BBE15516.1 / none	26.8	Osugoroshi virus 1	Viruses	3	3	3	0	0
+15.53	67.00	Lni_024754-T1	ORD93096.1 / none	24.9	Enterospora canceri	Eukaryota@Fungi	1	1	1	0	0
+15.42	68.20	Lni_020742-T1	YP_001257015.1 / none	26.9	Spodoptera litura granulovirus	Viruses	1	1	1	0	0
+15.09	66.60	Lni_027624-T1	WP_190430124.1 / none	24.6	unclassified Coleofasciculus	Bacteria	6	9	9	3	0

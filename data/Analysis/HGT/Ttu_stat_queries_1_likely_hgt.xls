@@ -1,0 +1,92 @@
+
+ai	hgtscore	query	best_donor_acc / best_toi_acc	best_donor_pident	best_donor_orgname	best_donor_taxonomy	nb_hits_supporting_taxo	nb_hits_between_donor_and_possible_toi	nb_total_hits	nb_unknown_acc (dr)	nb_excluded_acc (dr)
+460.52	1053.10	Ttu_043180-T1	WP_096595152.1 / none	39.4	Calothrix sp. NIES-2098	Bacteria	24	25	25	1	0
+275.52	443.00	Ttu_036323-T1	WP_075298133.1 / none	52.8	Burkholderia sp. SRS-W-2-2016	Bacteria	21	25	25	4	0
+272.53	438.70	Ttu_017641-T1	WP_189008864.1 / none	52.3	Deinococcus roseus	Bacteria	22	25	25	3	0
+271.30	436.40	Ttu_007913-T1	BAL46152.1 / none	65.9	Borrelia sp. BF16	Bacteria	25	25	25	0	0
+267.52	431.40	Ttu_036322-T1	WP_013092724.1 / none	52.8	Paraburkholderia atlantica	Bacteria	25	25	25	0	0
+254.39	412.50	Ttu_017639-T1	WP_189008864.1 / none	48.2	Deinococcus roseus	Bacteria	23	25	25	2	0
+213.61	353.60	Ttu_017640-T1	WP_189008864.1 / none	44.8	Deinococcus roseus	Bacteria	22	25	25	3	0
+193.32	324.30	Ttu_033965-T1	QIT20101.1 / none	35.8	Diabrotica undecimpunctata virus 2	Viruses	5	5	5	0	0
+180.54	305.80	Ttu_028011-T1	RMG68468.1 / none	54.5	Calditrichaeota bacterium	Bacteria	20	24	25	4	0
+179.60	304.30	Ttu_008629-T1	QIT20101.1 / none	51.3	Diabrotica undecimpunctata virus 2	Viruses	25	25	25	0	0
+173.37	295.00	Ttu_028014-T1	RMG68468.1 / none	52.9	Calditrichaeota bacterium	Bacteria	17	25	25	8	0
+169.20	288.90	Ttu_027639-T1	RMG68468.1 / none	53.7	Calditrichaeota bacterium	Bacteria	18	25	25	7	0
+168.58	288.10	Ttu_045217-T1	RMG68468.1 / none	53.3	Calditrichaeota bacterium	Bacteria	18	25	25	7	0
+166.52	285.00	Ttu_028384-T1	TVP48677.1 / none	52.9	Gemmatimonadales bacterium	Bacteria	16	22	25	6	0
+164.40	282.00	Ttu_017346-T1	TVQ04749.1 / none	49.2	Balneolaceae bacterium	Bacteria	20	25	25	5	0
+163.30	280.40	Ttu_028386-T1	RMG22701.1 / none	52.0	Bacteroidetes bacterium	Bacteria	18	24	25	6	0
+159.17	274.60	Ttu_046815-T1	WP_138730147.1 / none	51.5	Pedobacter ureilyticus	Bacteria	25	25	25	0	0
+140.36	247.30	Ttu_028385-T1	RMG22701.1 / none	49.4	Bacteroidetes bacterium	Bacteria	18	24	25	6	0
+140.05	247.30	Ttu_012711-T1	TLY26328.1 / none	49.1	Nitrospirae bacterium	Bacteria	18	25	25	7	0
+136.24	241.10	Ttu_027643-T1	RMG68468.1 / none	50.9	Calditrichaeota bacterium	Bacteria	15	25	25	10	0
+131.96	235.00	Ttu_025658-T1	RMG68468.1 / none	50.0	Calditrichaeota bacterium	Bacteria	17	25	25	8	0
+131.07	233.40	Ttu_018579-T1	QED42955.1 / none	63.8	Hubei Beny-like virus 1	Viruses	24	25	25	1	0
+119.76	217.60	Ttu_028439-T1	TVR17093.1 / none	44.1	Balneolaceae bacterium	Bacteria	23	25	25	2	0
+118.57	216.10	Ttu_028438-T1	TVR34564.1 / none	42.3	Balneolaceae bacterium	Bacteria	19	25	25	6	0
+116.70	168.40	Ttu_006862-T1	QIT20101.1 / KAF6215929.1	51.3	Diabrotica undecimpunctata virus 2	Viruses	5	5	6	0	0
+106.91	198.70	Ttu_038287-T1	QIT20101.1 / none	60.1	Diabrotica undecimpunctata virus 2	Viruses	22	23	23	1	0
+105.58	196.40	Ttu_036487-T1	WP_034342831.1 / none	63.6	Deinococcus misasensis	Bacteria	25	25	25	0	0
+105.39	196.10	Ttu_017345-T1	TVR34564.1 / none	53.9	Balneolaceae bacterium	Bacteria	14	25	25	11	0
+101.22	190.30	Ttu_033298-T1	QIT20101.1 / none	55.8	Diabrotica undecimpunctata virus 2	Viruses	23	23	23	0	0
+100.25	189.90	Ttu_040292-T1	WP_041018453.1 / none	35.2	Criblamydia sequanensis	Bacteria	3	9	11	6	0
+99.33	187.60	Ttu_033292-T1	QIT20101.1 / none	55.2	Diabrotica undecimpunctata virus 2	Viruses	23	23	23	0	0
+84.61	166.80	Ttu_029513-T1	QIT20101.1 / none	35.4	Diabrotica undecimpunctata virus 2	Viruses	5	5	5	0	0
+81.69	117.80	Ttu_033299-T1	QIT20101.1 / KAF5297209.1	52.5	Diabrotica undecimpunctata virus 2	Viruses	5	5	9	0	0
+80.90	116.70	Ttu_033293-T1	QIT20101.1 / KAF5297209.1	52.8	Diabrotica undecimpunctata virus 2	Viruses	5	5	10	0	0
+76.78	154.80	Ttu_033966-T1	QIT20101.1 / none	49.4	Diabrotica undecimpunctata virus 2	Viruses	4	4	4	0	0
+69.90	146.00	Ttu_014212-T1	WP_126322285.1 / none	33.1	Candidatus Rickettsiella viridis	Bacteria	7	8	8	1	0
+65.96	95.10	Ttu_014210-T1	WP_126322285.1 / KZS16408.1	34.2	Candidatus Rickettsiella viridis	Bacteria	1	10	16	0	0
+63.04	136.30	Ttu_040082-T1	PHT33855.1 / none	30.7	Capsicum baccatum	Eukaryota@Viridiplantae	10	25	25	0	0
+60.58	131.30	Ttu_000818-T1	WP_094198013.1 / none	49.6	Alcaligenes faecalis	Bacteria	22	24	25	2	0
+60.17	132.10	Ttu_048812-T1	CDE97125.1 / none	37.6	Clostridium sp. CAG:567	Bacteria	2	25	25	0	0
+60.07	130.60	Ttu_000041-T1	WP_082792960.1 / none	52.0	Ramlibacter tataouinensis	Bacteria	20	25	25	5	0
+57.70	127.90	Ttu_026315-T1	AFS51908.1 / none	35.8	Dendrolimus kikuchii nucleopolyhedrovirus	Viruses	25	25	25	0	0
+56.82	125.90	Ttu_000819-T1	WP_166258724.1 / none	44.9	Marinobacter salicampi	Bacteria	22	25	25	3	0
+56.26	126.30	Ttu_011665-T1	XP_034921338.1 / none	33.3	Populus alba	Eukaryota@Viridiplantae	16	25	25	9	0
+56.11	125.60	Ttu_026316-T1	AFS51908.1 / none	35.3	Dendrolimus kikuchii nucleopolyhedrovirus	Viruses	24	25	25	1	0
+54.35	124.00	Ttu_037716-T1	WP_053743234.1 / none	30.7	Streptomyces sp. NRRL WC-3618	Bacteria	24	25	25	1	0
+52.37	120.60	Ttu_043036-T1	XP_009793087.1 / none	31.4	Nicotiana sylvestris	Eukaryota@Viridiplantae	8	25	25	1	0
+51.39	119.00	Ttu_005454-T1	ARF11161.1 / none	32.5	Klosneuvirus KNV1	Viruses	1	2	2	0	0
+49.87	116.30	Ttu_000038-T1	ODT16995.1 / none	46.5	Hyphomicrobium sp. SCN 65-11	Bacteria	23	24	25	1	0
+48.42	114.00	Ttu_040297-T1	WP_041018453.1 / none	36.6	Criblamydia sequanensis	Bacteria	1	2	3	1	0
+48.31	69.70	Ttu_014669-T1	QIT20101.1 / KAF6215929.1	58.2	Diabrotica undecimpunctata virus 2	Viruses	5	5	6	0	0
+45.66	65.80	Ttu_010819-T1	QIT20101.1 / KAF5297209.1	50.8	Diabrotica undecimpunctata virus 2	Viruses	2	2	6	0	0
+44.62	64.40	Ttu_017848-T1	WP_112477227.1 / XP_018025047.1	34.3	Wolbachia endosymbiont of Folsomia candida	Bacteria	4	5	25	1	0
+42.39	105.10	Ttu_049909-T1	RLA29707.1 / none	44.1	Gammaproteobacteria bacterium	Bacteria	19	24	25	5	0
+42.12	104.40	Ttu_000287-T1	QIT20101.1 / none	45.0	Diabrotica undecimpunctata virus 2	Viruses	5	5	5	0	0
+41.92	107.10	Ttu_040318-T1	AOT85500.1 / none	45.8	Cyclophragma undans nucleopolyhedrovirus	Viruses	25	25	25	0	0
+40.80	102.80	Ttu_023041-T1	WP_036778959.1 / none	45.0	Pontibacillus chungwhensis	Bacteria	24	25	25	1	0
+38.71	55.90	Ttu_010818-T1	QIT20101.1 / KAF5297209.1	51.7	Diabrotica undecimpunctata virus 2	Viruses	5	5	10	0	0
+37.69	54.30	Ttu_002010-T1	WP_114517195.1 / KFM71539.1	37.4	Wolbachia endosymbiont of Cylisticus convexus	Bacteria	1	1	25	0	0
+37.44	97.10	Ttu_018581-T1	QIT20101.1 / none	69.6	Diabrotica undecimpunctata virus 2	Viruses	7	7	7	0	0
+37.12	98.60	Ttu_018735-T1	YP_009506197.1 / none	45.5	Trichoplusia ni granulovirus LBIV-12	Viruses	3	25	25	0	0
+36.87	53.20	Ttu_043794-T1	QIT20101.1 / KAF6215929.1	54.1	Diabrotica undecimpunctata virus 2	Viruses	5	5	6	0	0
+35.65	97.40	Ttu_040367-T1	YP_009701623.1 / none	29.4	Heliothis virescens ascovirus 3f	Viruses	3	25	25	0	0
+34.59	94.00	Ttu_010066-T1	YP_003517810.1 / none	38.1	Lymantria xylina nucleopolyhedrovirus	Viruses	13	25	25	0	0
+34.54	94.40	Ttu_020098-T1	WP_114942594.1 / none	29.1	Pseudomonas putida	Bacteria	8	10	14	0	2
+34.20	95.90	Ttu_010062-T1	RLI97701.1 / none	27.4	Candidatus Aenigmarchaeota archaeon	Archaea	1	24	25	0	0
+33.80	92.80	Ttu_017896-T1	WP_068512128.1 / none	58.1	Leptolyngbya sp. O-77	Bacteria	24	25	25	1	0
+33.33	48.10	Ttu_033345-T1	WP_174133857.1 / XP_022198123.1	45.5	Wolbachia endosymbiont of Atemnus politus	Bacteria	1	1	7	0	0
+32.95	93.60	Ttu_040315-T1	QHB21787.1 / none	24.1	Euproctis digramma nucleopolyhedrovirus	Viruses	1	2	2	0	0
+32.61	92.00	Ttu_010071-T1	YP_009250091.1 / none	35.2	Urbanus proteus nucleopolyhedrovirus	Viruses	4	25	25	0	0
+31.24	45.00	Ttu_027455-T1	WP_149168922.1 / KFM64169.1	33.4	Wolbachia endosymbiont of Chrysomya megacephala	Bacteria	2	2	25	0	0
+29.94	85.90	Ttu_042110-T1	PWA53537.1 / none	66.2	Artemisia annua	Eukaryota@Viridiplantae	24	25	25	1	0
+29.60	87.40	Ttu_033743-T1	ACJ48972.2 / none	33.3	Lepidium latifolium	Eukaryota@Viridiplantae	8	25	25	1	0
+27.37	84.30	Ttu_040356-T1	WP_118204787.1 / none	39.1	Megamonas funiformis	Bacteria	1	25	25	0	0
+25.33	36.60	Ttu_049306-T1	WP_188153573.1 / XP_021002715.1	27.1	Wolbachia endosymbiont of Pentalonia nigronervosa	Bacteria	3	3	25	0	0
+24.59	80.10	Ttu_025653-T1	KIK75381.1 / none	46.1	Paxillus rubicundulus Ve08.2h10	Eukaryota@Fungi	12	25	25	0	0
+23.21	77.80	Ttu_018723-T1	KIK75381.1 / none	44.6	Paxillus rubicundulus Ve08.2h10	Eukaryota@Fungi	12	25	25	0	0
+22.84	77.40	Ttu_019416-T1	YP_009701625.1 / none	43.5	Heliothis virescens ascovirus 3f	Viruses	13	25	25	0	0
+22.11	75.90	Ttu_009143-T1	WP_160797052.1 / none	35.0	Shewanella insulae	Bacteria	23	25	25	2	0
+20.83	30.00	Ttu_007353-T1	WP_114517195.1 / KFM71539.1	31.5	Wolbachia endosymbiont of Cylisticus convexus	Bacteria	2	2	25	0	0
+20.03	73.20	Ttu_016497-T1	KAA3600915.1 / none	31.8	Calditrichaeota bacterium	Bacteria	2	2	2	0	0
+19.81	74.30	Ttu_020100-T1	WP_190922878.1 / none	26.0	Hymenobacter sp. BT189	Bacteria	6	6	10	0	0
+19.69	74.70	Ttu_040344-T1	TLY46268.1 / none	23.5	Gammaproteobacteria bacterium	Bacteria	1	2	2	0	0
+17.89	69.70	Ttu_028114-T1	WP_040584481.1 / none	47.0	Spiroplasma melliferum	Bacteria	22	22	22	0	0
+16.58	68.20	Ttu_009713-T1	WP_059332082.1 / none	37.2	Escherichia coli	Bacteria	12	18	25	6	0
+15.86	68.60	Ttu_010060-T1	WP_176718531.1 / none	27.0	Brochothrix thermosphacta	Bacteria	23	25	25	2	0
+15.50	22.40	Ttu_012710-T1	TLY26328.1 / XP_013080157.1	50.4	Nitrospirae bacterium	Bacteria	10	14	25	4	0
+15.49	22.40	Ttu_007365-T1	WP_114517195.1 / KFM71539.1	30.2	Wolbachia endosymbiont of Cylisticus convexus	Bacteria	2	2	25	0	0
+15.48	68.20	Ttu_001959-T1	P46870.1 / none	27.3	Chlamydomonas reinhardtii	Eukaryota@Viridiplantae	4	4	4	0	0
+15.24	66.60	Ttu_032808-T1	ENZ46960.1 / none	37.2	[Clostridium] bolteae 90A9	Bacteria	5	25	25	0	0
