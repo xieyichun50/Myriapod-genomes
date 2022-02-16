@@ -2,9 +2,13 @@
 Supplementary materials of So, Nong, and Xie et al. (2022).
 
 ## Data
-Genome - Genome assembly and annotation of nine myriapods
+- `Genome/` - Genome assembly and annotation of nine myriapods
+- `Analysis/` - Filtered and formatted genome data input for evolutionary analyses, can be regenerated from `Genome/` and `script/1ortholog_prep/`.
+- `Result/` - Main results to regenerate summary tables and figures with `script/`.
 
 ## Scripts
-- Gene family evolution
-- Macro-synteny and oxford plots
-- Horizontal gene transfer analysis and visualisation
+- `1ortholog_prep/` - Data formatting scripts
+- `2synteny_plot/` - Macro-synteny and oxford plots 
+- `3gene_family_summary/` - Gene family evolution summary
+- `4function_anno2tree/` - Functional annotation and enrichment analysis
+- `HGT` - Horizontal gene transfer analysis and visualisation
