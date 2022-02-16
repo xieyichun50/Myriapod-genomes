@@ -1,0 +1,1 @@
+Filtered longest protein sequences.
