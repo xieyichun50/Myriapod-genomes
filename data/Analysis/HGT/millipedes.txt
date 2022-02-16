@@ -1,0 +1,6 @@
+id	species
+Ato	Anaulaciulus_tonginus
+Gma	Glomeris_maerens
+Hho	Helicorthomorpha_holstii
+Nno	Niponia_nodulosa
+Tco	Trigoniulus_corallinus

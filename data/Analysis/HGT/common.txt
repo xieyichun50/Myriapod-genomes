@@ -1,0 +1,10 @@
+id	species
+Lni	Lithobius_niger
+Rim	Rhysida_immarginata
+Sma	Strigamia_maritima
+Ttu	Thereuonema_tuberculata
+Ato	Anaulaciulus_tonginus
+Gma	Glomeris_maerens
+Hho	Helicorthomorpha_holstii
+Nno	Niponia_nodulosa
+Tco	Trigoniulus_corallinus
