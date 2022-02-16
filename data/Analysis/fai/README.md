@@ -1,1 +1,1 @@
-genome.fasta.fai files generated using `samtools faidx`
+`genome.fasta.fai` files generated using `samtools faidx`
