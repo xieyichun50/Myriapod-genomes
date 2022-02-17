@@ -1,3 +1,6 @@
+##links.txt
+##species_name  genome_link     protein_link    gff_link
+
 grep '.gz' links.txt |while read id geno pro gff;do
         wget "$geno" -O ${id}_genomic.fna.gz;
         gunzip ${id}_genomic.fna.gz
