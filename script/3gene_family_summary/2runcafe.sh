@@ -4,7 +4,7 @@
 #python2 /tools/CAFE5/python_scripts/cafetutorial_prep_r8s.py -i SpeciesTree_rooted_node_labels.txt -o r8s_ctl_file.txt -s 671294 -p 'Carcinoscorpius_rotundicauda,Rhysida_immarginata' -c '601'
 
 #24 species, no human
-#python2 /tools/CAFE5/python_scripts/cafetutorial_prep_r8s.py -i SpeciesTree_rooted_node_labels.txt -o r8s_ctl_file.txt -s 156815 -p 'Caenorhabditis_elegans,Drosophila_melanogaster' -c '728'
+#python2 /tools/CAFE5/python_scripts/cafetutorial_prep_r8s.py -i SpeciesTree_rooted_node_labels.txt -o r8s_ctl_file.txt -s 156815 -p 'Caenorhabditis_elegans,Branchiostoma_floridae' -c '736'
 
 #23 species, no human no Branchiostoma_floridae
 #python2 /tools/CAFE5/python_scripts/cafetutorial_prep_r8s.py -i SpeciesTree_rooted_node_labels.txt -o r8s_ctl_file.txt -s 166951 -p 'Caenorhabditis_elegans,Drosophila_melanogaster' -c '728'
