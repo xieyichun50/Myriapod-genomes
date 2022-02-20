@@ -12,6 +12,7 @@ Files:
 Software:
 1. [r8s](https://sourceforge.net/projects/r8s/files/r8s1.81.tar.gz)
 2. [CAFE5](https://github.com/hahnlab/CAFE5)
-3. samtools
-4. R/Rscript
-5. R packages: 'ape', 'ggplot2', 'tidytree', 'ggtree', 'flextable', 'tidyr', 'dplyr', 'stringr', 'svglite', 'ggplotify', 'eoffice' 
+3. CAFE python scripts: you may find from `cafe_pythonscript` folder
+4. samtools
+5. R/Rscript
+6. R packages: 'ape', 'ggplot2', 'tidytree', 'ggtree', 'flextable', 'tidyr', 'dplyr', 'stringr', 'svglite', 'ggplotify', 'eoffice' 
