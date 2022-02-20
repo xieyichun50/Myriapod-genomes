@@ -1,1 +1,1 @@
-## Reference genomes of other species used in evolutionary analysis
+## Reference protein sequences of other species used in evolutionary analysis
