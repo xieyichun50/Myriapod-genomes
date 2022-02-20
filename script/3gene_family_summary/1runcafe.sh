@@ -7,3 +7,6 @@ ls -l Orthogroups/Orthogroups.GeneCount.tsv
 
 samtools faidx SpeciesTreeAlignment.fa
 cat SpeciesTreeAlignment.fa.fai
+
+awk 'OFS="\t" {$NF=""; print}' Orthogroups.GeneCount.tsv > tmp && awk '{print "(null)""\t"$0}' tmp > cafe.input.tsv && sed -i '1s/(null)/Desc/g' cafe.input.tsv && rm tmp
+python3 /tools/CAFE5/python_scripts/cafetutorial_clade_and_size_filter.py -i cafe.input.tsv -o cafe.input.filter.tsv -s
