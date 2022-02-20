@@ -1,7 +1,7 @@
 # Summarise gene families
 Procedure:
 1. Run `1prepcafe.sh` and `2runcafe.sh`
-2. Gene family summary on tree node and tips + ortholog stats: `merge_tree_myriapod_orthostat.R`
+2. Gene family summary on tree node and tips + ortholog stats: `merge_tree_myriapod.R`
 3. heatmap on shared orthologues `orthofinder_overlap_myriapod.R`
 
 Files:
