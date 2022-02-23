@@ -83,17 +83,17 @@ speciesorder<-read.delim(opt$speciesorder, header = TRUE, stringsAsFactors = FAL
 }
 
 ##Test
-##Are loss number < parent node gene number
+##Are loss number < parent node gene number, should be all 0
 {
   for (j in 1:ncol(count.table)){
     cat(names(count.table)[j])
     parentnode<-subset(speciesorder, label == names(count.table)[j])
     parentspecies<-speciesorder$label[which(speciesorder$node==parentnode$parent)]
     testcount<-count.table[,which(names(count.table)==parentspecies)]+change.table[,which(names(change.table)==names(count.table)[j])]
-    cat(length(which(testcount<0)==TRUE))
+    cat(length(which(testcount<0)==TRUE,"\n"))
   }
 }
-##Are gain number < current node gene number
+##Are gain number < current node gene number, should be all 0
 {
   for (j in 1:ncol(count.table)){
     cat(names(count.table)[j],"\n")
@@ -118,6 +118,7 @@ speciesorder<-read.delim(opt$speciesorder, header = TRUE, stringsAsFactors = FAL
 ##Main pool ##No need
 {
   for (i in 1:nrow(count.table)) {
+    cat(paste0("Generating pseudogenome of all", "\n"))
     rowmax<-max(count.table[i,1:ncol(count.table)])
     OG.sub<-matrix(paste(row.names(count.table)[i],".",c(1:rowmax), sep = ""))
     OG.sub<-as.data.frame(OG.sub)
@@ -134,6 +135,7 @@ speciesorder<-read.delim(opt$speciesorder, header = TRUE, stringsAsFactors = FAL
 ##Genome pools
 {
   for (j in 1:ncol(count.table)){
+    cat(paste0("Generating pseudogenome of ", names(count.table)[j], "\n"))
     pseudo.species.genes<-pseudogenome
     count.table.sub<-data.frame(count.table[,j], row.names = row.names(count.table))
     speciesname=names(count.table)[j]
@@ -158,6 +160,7 @@ speciesorder<-read.delim(opt$speciesorder, header = TRUE, stringsAsFactors = FAL
 ##Gain loss pool
 {
   for (j in 1:ncol(change.table)){
+    cat(paste0("Generating gain and loss lists of ", names(count.table)[j], "\n"))
     gain.species.genes<-pseudogenome
     loss.species.genes<-pseudogenome
     change.table.sub<-data.frame(change.table[,j], row.names = row.names(change.table))
@@ -192,6 +195,7 @@ speciesorder<-read.delim(opt$speciesorder, header = TRUE, stringsAsFactors = FAL
 ##Species pool
 {
   for (j in 1:(ncol(genome.table)-1)){
+    cat(paste0("Generating species genelist and species-specific genelist of ", names(count.table)[j], "\n"))
     genome.species.genes<-pseudogenome
     specific.species.genes<-pseudogenome
     genome.table.sub<-data.frame(genome.table[,c(j, ncol(genome.table))], row.names = row.names(genome.table))
