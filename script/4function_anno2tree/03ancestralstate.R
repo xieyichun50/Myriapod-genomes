@@ -1,5 +1,5 @@
 ##usage
-#Rscript /jelly_data/yichun/scripts/5formatenrich/03ancestralstate.R -c base_count.tab -d base_change.tab -g Orthogroups.GeneCount.tsv -n Species_tree_gain_loss_dup.txt
+#Rscript /jelly_data/yichun/scripts/5formatenrich/03ancestralstate.R -c Base_count.tab -d Base_change.tab -g Orthogroups.GeneCount.tsv -n Species_tree_gain_loss_dup.txt
 #Output the following
 ##pseudo.species.txt --pseudogenome of each node/tip of tree
 ##gain.species.txt --gained genes of each node/tip of tree
@@ -37,11 +37,11 @@ opt = parse_args(parser)
 
 ##Manually add files
 {
-  setwd("D:/centipede/cafe")
-  opt$count.table="base_count.tab"
-  opt$change.table="base_change.tab"
-  opt$genome.table="Orthogroups.GeneCount.tsv"
-  opt$speciesorder="Species_tree_gain_loss_dup.txt"
+  #setwd("D:/centipede/cafe")
+  #opt$count.table="Base_count.tab"
+  #opt$change.table="Base_change.tab"
+  #opt$genome.table="Orthogroups.GeneCount.tsv"
+  #opt$speciesorder="Species_tree_gain_loss_dup.txt"
 }
 
 #read in species label
