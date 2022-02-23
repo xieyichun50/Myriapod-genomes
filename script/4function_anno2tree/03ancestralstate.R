@@ -166,7 +166,7 @@ speciesorder<-read.delim(opt$speciesorder, header = TRUE, stringsAsFactors = FAL
     change.table.sub<-data.frame(change.table[,j], row.names = row.names(change.table))
     speciesname=names(change.table)[j]
     names(change.table.sub)[1]="Orthogroup"
-    change.table.sub<-subset(change.table.sub, Orthogroup > 0)
+    change.table.sub<-subset(change.table.sub, Orthogroup != 0)
     for (i in 1:nrow(change.table.sub)) {
       n<-change.table.sub[i,1]
       OG.sub<-matrix(paste(row.names(change.table.sub)[i],".",c(1:abs(n)), sep = ""))
