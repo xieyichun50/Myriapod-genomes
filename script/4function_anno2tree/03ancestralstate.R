@@ -86,7 +86,7 @@ speciesorder<-read.delim(opt$speciesorder, header = TRUE, stringsAsFactors = FAL
 ##Are loss number < parent node gene number, should be all 0
 {
   for (j in 1:ncol(count.table)){
-    cat(names(count.table)[j])
+    cat(paste0(names(count.table)[j], " = "))
     parentnode<-subset(speciesorder, label == names(count.table)[j])
     parentspecies<-speciesorder$label[which(speciesorder$node==parentnode$parent)]
     testcount<-count.table[,which(names(count.table)==parentspecies)]+change.table[,which(names(change.table)==names(count.table)[j])]
@@ -96,7 +96,7 @@ speciesorder<-read.delim(opt$speciesorder, header = TRUE, stringsAsFactors = FAL
 ##Are gain number < current node gene number, should be all 0
 {
   for (j in 1:ncol(count.table)){
-    cat(names(count.table)[j],"\n")
+    cat(paste0(names(count.table)[j], " = "))
     testcount<-count.table[,j]-change.table[,which(names(change.table)==names(count.table)[j])]
     cat(length(which(testcount<0)==TRUE),"\n")
   }
