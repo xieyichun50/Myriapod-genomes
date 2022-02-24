@@ -27,8 +27,8 @@ options(error=traceback)
 parser <- OptionParser(usage = "%prog -i orthologs.txt -o out [options]",option_list=option_list)
 opt = parse_args(parser)
 
-setwd("D:/centipede")
-opt$orthogroups<-"D:/centipede/Orthogroups/Orthogroups.GeneCount.tsv"
+#setwd("D:/centipede")
+#opt$orthogroups<-"D:/centipede/Orthogroups/Orthogroups.GeneCount.tsv"
 
 orthogroups<-read.delim(opt$orthogroups,
                         sep = "\t", header = TRUE)
