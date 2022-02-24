@@ -71,7 +71,7 @@ orthogroups<-read.delim(opt$orthogroups,
 for (j in 2:ncol(orthogroups)) {
   subspecies<-orthogroups[,c(1,j)]
   speciesname=names(subspecies)[2]
-  speciesname
+  cat(speciesname)
   names(subspecies)[2]="Genes"
   subspecies<-subset(subspecies, is.na(Genes)==FALSE & Genes != "")
 
