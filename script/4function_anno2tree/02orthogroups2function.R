@@ -110,7 +110,7 @@ for (j in 2:ncol(orthogroups)) {
 
   #KEGG
   {
-    GenesKEGGpair.1v1<-read.delim(file = paste(speciesname, ".KEGG.1v1.txt", sep = ""),
+    GenesKEGGpair.1v1<-read.delim(file = paste(speciesname, ".fa.KEGG.1v1.txt", sep = ""),
                                   header = TRUE, sep = "\t")
     Orthogroups.KEGG<-merge(Genesorthogrouppair.1v1, GenesKEGGpair.1v1, 
                             by = "Genes", all.x = TRUE)
@@ -123,7 +123,7 @@ for (j in 2:ncol(orthogroups)) {
   
   #KOG
   {
-    GenesKOGpair.1v1<-read.delim(file = paste(speciesname, ".KOG.1v1.txt", sep = ""),
+    GenesKOGpair.1v1<-read.delim(file = paste(speciesname, ".fa.KOG.1v1.txt", sep = ""),
                                  header = TRUE, sep = "\t")
     Orthogroups.KOG<-merge(Genesorthogrouppair.1v1, GenesKOGpair.1v1, 
                            by = "Genes", all.x = TRUE)
@@ -136,7 +136,7 @@ for (j in 2:ncol(orthogroups)) {
   
   #GO
   {
-    GenesGOpair.1v1<-read.delim(file = paste(speciesname, ".GO.1v1.txt", sep = ""),
+    GenesGOpair.1v1<-read.delim(file = paste(speciesname, ".fa.GO.1v1.txt", sep = ""),
                                 header = TRUE, sep = "\t")
     Orthogroups.GO<-merge(Genesorthogrouppair.1v1, GenesGOpair.1v1, 
                           by = "Genes", all.x = TRUE)
