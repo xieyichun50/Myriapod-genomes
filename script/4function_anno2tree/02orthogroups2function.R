@@ -1,5 +1,5 @@
 ##usage
-#Rscript /jelly_data/yichun/scripts/5formatenrich/orthogroups2function.R -i OrthoFinder/Results_May05/Orthogroups/Orthogroups.txt 
+#Rscript /jelly_data/yichun/scripts/5formatenrich/orthogroups2function.R -i OrthoFinder/*/Orthogroups.tsv 
 
 #Required the outputs of 5formatenrich/gene2function.1v1.R
 ##species.KOG.1v1.txt
@@ -45,7 +45,7 @@ orthogroups<-read.delim(opt$orthogroups,
 ##Format Genesorthogrouppair
 {
   ##all.Genesorthogrouppair.1v1
-  all.Genesorthogrouppair.1v1<-matrix(NA, nrow = 1, ncol = 3)
+  all.Genesorthogrouppair.1v1<-matrix(NA, nrow = 0, ncol = 3)
   all.Genesorthogrouppair.1v1<-as.data.frame(all.Genesorthogrouppair.1v1)
   
   names(all.Genesorthogrouppair.1v1)[1]="Orthogroup"
@@ -53,7 +53,7 @@ orthogroups<-read.delim(opt$orthogroups,
   names(all.Genesorthogrouppair.1v1)[3]="Species"
   
   ##all.Orthogroups.KEGG
-  all.Orthogroups.KEGG<-matrix(NA, nrow = 1, ncol = 2)
+  all.Orthogroups.KEGG<-matrix(NA, nrow = 0, ncol = 2)
   all.Orthogroups.KEGG<-as.data.frame(all.Orthogroups.KEGG)
   names(all.Orthogroups.KEGG)[1]="Orthogroup"
   names(all.Orthogroups.KEGG)[2]="KEGG"
@@ -77,7 +77,7 @@ for (j in 2:ncol(orthogroups)) {
 
   #Genes orthogroup pair
   {
-    Genesorthogrouppair.1v1<-matrix(NA, nrow = 1, ncol = 2)
+    Genesorthogrouppair.1v1<-matrix(NA, nrow = 0, ncol = 2)
     Genesorthogrouppair.1v1<-as.data.frame(Genesorthogrouppair.1v1)
     
     names(Genesorthogrouppair.1v1)[1]="Orthogroup"
