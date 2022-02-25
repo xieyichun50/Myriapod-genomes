@@ -56,12 +56,12 @@ opt = parse_args(parser)
 
 ##Manually add files
 {
-  setwd("D:/centipede")
-  opt$eggnog="eggnog"
-  opt$cafe="cafe"
-  opt$speciesorder="Species_tree_gain_loss_dup.txt"
-  opt$anno="D:/3enrichment"
-  opt$output="enrich"
+  #setwd("D:/centipede")
+  #opt$eggnog="eggnog"
+  #opt$cafe="cafe"
+  #opt$speciesorder="Species_tree_gain_loss_dup.txt"
+  #opt$anno="D:/3enrichment"
+  #opt$output="enrich"
 }
 
 #read in species label
@@ -91,7 +91,7 @@ all.Orthogroups.GO<-read.delim(paste(opt$eggnog, "all.Orthogroups.GO.txt", sep =
 ##fast check
 {
   for (i in 1:nrow(speciesorder)) {
-    if (speciesorder$branch.length[i] <= 0) {
+    if (speciesorder$branch[i] <= 0) {
       
     } else {
       speciesname=speciesorder$label[i]
@@ -105,7 +105,7 @@ all.Orthogroups.GO<-read.delim(paste(opt$eggnog, "all.Orthogroups.GO.txt", sep =
 
 ##Create blank matrix
 {
-  function.all<-matrix(NA, nrow = 1, ncol = 12, 
+  function.all<-matrix(NA, nrow = 0, ncol = 12, 
                   dimnames = list(NA, c("Cluster","Groups",
                                         "ID","Description",
                                         "GeneRatio","BgRatio",
@@ -120,8 +120,8 @@ all.Orthogroups.GO<-read.delim(paste(opt$eggnog, "all.Orthogroups.GO.txt", sep =
 
 ##Statistics
 {
-  for (i in 12:nrow(speciesorder)) {
-    if (speciesorder$branch.length[i] <= 0) {
+  for (i in 1:nrow(speciesorder)) {
+    if (speciesorder$isTip == "True") {
       
     } else {
       speciesname=speciesorder$label[i]
