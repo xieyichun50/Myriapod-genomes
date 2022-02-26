@@ -40,11 +40,30 @@ opt = parse_args(parser)
 
 orthogroups<-read.delim(opt$orthogroups,
                         sep = "\t", header = TRUE)
-specieslist<-c("Orthogroup","Helicorthomorpha_holstii",
-               "Niponia_nodulosa","Anaulaciulus_tonginus",
-               "Trigoniulus_corallinus","Glomeris_maerens",
-               "Strigamia_maritima","Rhysida_immarginata",
-               "Lithobius_niger","Thereuonema_tuberculata")
+##Unmask and Run One of the following
+{
+  #ref="myriapod"
+  #specieslist<-c("Orthogroup","Helicorthomorpha_holstii",
+  #               "Niponia_nodulosa","Anaulaciulus_tonginus",
+  #               "Trigoniulus_corallinus","Glomeris_maerens",
+  #               "Strigamia_maritima","Rhysida_immarginata",
+  #               "Lithobius_niger","Thereuonema_tuberculata")
+}
+
+{
+  #ref="millepede"
+  #specieslist<-c("Orthogroup","Helicorthomorpha_holstii",
+  #               "Niponia_nodulosa","Anaulaciulus_tonginus",
+  #               "Trigoniulus_corallinus","Glomeris_maerens")
+}
+
+{
+  #ref="centipede"
+  #specieslist<-c("Orthogroup",
+  #               "Strigamia_maritima","Rhysida_immarginata",
+  #               "Lithobius_niger","Thereuonema_tuberculata")
+}
+
 orthogroups<-orthogroups[,names(orthogroups) %in% specieslist]
 ##Format Genesorthogrouppair
 {
@@ -75,7 +94,7 @@ orthogroups<-orthogroups[,names(orthogroups) %in% specieslist]
 for (j in 2:ncol(orthogroups)) {
   subspecies<-orthogroups[,c(1,j)]
   speciesname=names(subspecies)[2]
-  cat(paste0(speciesname, "\n"))
+  cat(speciesname)
   names(subspecies)[2]="Genes"
   subspecies<-subset(subspecies, is.na(Genes)==FALSE & Genes != "")
   
@@ -158,26 +177,26 @@ all.Genesorthogrouppair.1v1<-subset(all.Genesorthogrouppair.1v1,
                                     is.na(Genes)==FALSE)
 all.Genesorthogrouppair.1v1<-unique(all.Genesorthogrouppair.1v1)
 write.table(all.Genesorthogrouppair.1v1, 
-            file = "myriapod.Genesorthogrouppair.1v1.txt",
+            file = paste0(ref,".Genesorthogrouppair.1v1.txt"),
             row.names = FALSE, sep = "\t", quote = FALSE)
 
 all.Orthogroups.KEGG<-subset(all.Orthogroups.KEGG,
                              is.na(KEGG)==FALSE)
 all.Orthogroups.KEGG<-unique(all.Orthogroups.KEGG)
 write.table(all.Orthogroups.KEGG, 
-            file = "myriapod.Orthogroups.KEGG.txt",
+            file = paste0(ref,".Orthogroups.KEGG.txt"),
             row.names = FALSE, sep = "\t", quote = FALSE)
 
 all.Orthogroups.KOG<-subset(all.Orthogroups.KOG,
                             is.na(KOG)==FALSE)
 all.Genesorthogrouppair.1v1<-unique(all.Genesorthogrouppair.1v1)
 write.table(all.Orthogroups.KOG, 
-            file = "myriapod.Orthogroups.KOG.txt",
+            file = paste0(ref,".Orthogroups.KOG.txt"),
             row.names = FALSE, sep = "\t", quote = FALSE)
 
 all.Orthogroups.GO<-subset(all.Orthogroups.GO,
                            is.na(GO)==FALSE)
 all.Orthogroups.GO<-unique(all.Orthogroups.GO)
 write.table(all.Orthogroups.GO, 
-            file = "myriapod.Orthogroups.GO.txt",
+            file = paste0(ref,".Orthogroups.GO.txt"),
             row.names = FALSE, sep = "\t", quote = FALSE)
