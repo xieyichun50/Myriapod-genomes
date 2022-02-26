@@ -51,7 +51,7 @@ orthogroups<-read.delim(opt$orthogroups,
 }
 
 {
-  #ref="millepede"
+  #ref="millipede"
   #specieslist<-c("Orthogroup","Helicorthomorpha_holstii",
   #               "Niponia_nodulosa","Anaulaciulus_tonginus",
   #               "Trigoniulus_corallinus","Glomeris_maerens")
