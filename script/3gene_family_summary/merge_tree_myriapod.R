@@ -199,7 +199,7 @@ ggsave("Species_tree_N.png", width = 10, height = 15, units = "in", dpi = 300)
 ggsave("Species_tree_N.tiff", width = 10, height = 15, units = "in", dpi = 300)
 
 ##Ortholog stat
-orthostat<-read.delim("Orthogroups/Orthogroup.stat.txt")
+orthostat<-read.delim("Orthogroup.stat.txt")
 names(orthostat)[1]="group"
 mergestat<-matrix(NA, ncol = 3, nrow = 1, dimnames = list(NA,c("group","species","no")))
 mergestat<-as.data.frame(mergestat)
@@ -242,7 +242,7 @@ p<-ggplot(data=mergestat, aes(x=species, y=no, fill=factor(group, levels = group
         legend.position = c(0.75,0.9))
 
 p
-ggsave("Orthogroups/orthostat.png",
+ggsave("orthostat.png",
        width = 10, height = 10, units = "in", dpi = 300)
-ggsave("Orthogroups/orthostat.tiff", 
+ggsave("orthostat.tiff", 
        width = 10, height = 10, units = "in", dpi = 300)
