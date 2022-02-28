@@ -104,7 +104,7 @@ names(pathways)[1]="Genes"
   Geneskopair.1v1<-unique(Geneskopair.1v1)
   
   write.table(Geneskopair.1v1, 
-              file = paste(opt$output_filename,"ko.1v1.txt", sep = ""),
+              file = paste(opt$output_filename,".ko.1v1.txt", sep = ""),
               sep = '\t', row.names = FALSE,
               quote = FALSE)
   rm(pairtable, pairtable.new, rcnames, subtable, pathways)
