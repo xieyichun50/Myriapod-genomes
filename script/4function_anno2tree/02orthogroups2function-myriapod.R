@@ -93,7 +93,7 @@ orthogroups<-orthogroups[,names(orthogroups) %in% specieslist]
   
   ##all.Orthogroups.ko
   all.Orthogroups.ko<-all.Orthogroups.KEGG
-  names(all.Orthogroups.GO)[2]="ko"
+  names(all.Orthogroups.ko)[2]="ko"
 }
 
 ##Generate orthogroup-gene-function pair tables
