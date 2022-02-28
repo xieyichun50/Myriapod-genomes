@@ -100,7 +100,7 @@ orthogroups<-orthogroups[,names(orthogroups) %in% specieslist]
 for (j in 2:ncol(orthogroups)) {
   subspecies<-orthogroups[,c(1,j)]
   speciesname=names(subspecies)[2]
-  cat(speciesname)
+  cat(paste0(speciesname,"\n"))
   names(subspecies)[2]="Genes"
   subspecies<-subset(subspecies, is.na(Genes)==FALSE & Genes != "")
   
