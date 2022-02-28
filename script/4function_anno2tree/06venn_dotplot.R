@@ -490,3 +490,66 @@ centipede.Orthogroups.GO<-centipede.Orthogroups.GO[is.na(centipede.Orthogroups.G
   ggsave("centi2milli/KOG.png", width = 12, height = 8, units = "in", dpi = 300)
   
 }
+
+##Pathview mapping
+KEGG2koID<-read.delim(paste(opt$anno,"kegg2koID.txt", sep = "/"),header = TRUE)
+millipede.Orthogroups.ko<-read.delim(paste(opt$eggnog, "millipede.Orthogroups.ko.txt", sep = "/"), 
+                                     header = TRUE)
+millipede.Orthogroups.ko<-millipede.Orthogroups.ko[millipede.Orthogroups.ko$Orthogroup %in% ortho.millipede.spc$Orthogroup,
+                                                   c("Orthogroup","ko")]
+millipede.Orthogroups.ko<-as.data.frame(xtabs(~ko, millipede.Orthogroups.ko))
+names(millipede.Orthogroups.ko)[2]="millipede"
+
+myriapod.Orthogroups.ko<-read.delim(paste(opt$eggnog, "myriapod.Orthogroups.ko.txt", sep = "/"), 
+                                     header = TRUE)
+myriapod.Orthogroups.ko<-myriapod.Orthogroups.ko[myriapod.Orthogroups.ko$Orthogroup %in% ortho.common$Orthogroup,
+                                                   c("Orthogroup","ko")]
+myriapod.Orthogroups.ko<-as.data.frame(xtabs(~ko, myriapod.Orthogroups.ko))
+names(myriapod.Orthogroups.ko)[2]="myriapod"
+
+pathview.input<-merge(millipede.Orthogroups.ko,myriapod.Orthogroups.ko,
+                      by = "ko", all = T)
+
+centipede.Orthogroups.ko<-read.delim(paste(opt$eggnog, "centipede.Orthogroups.ko.txt", sep = "/"), 
+                                     header = TRUE)
+centipede.Orthogroups.ko<-centipede.Orthogroups.ko[centipede.Orthogroups.ko$Orthogroup %in% ortho.centipede.spc$Orthogroup,
+                                                   c("Orthogroup","ko")]
+centipede.Orthogroups.ko<-as.data.frame(xtabs(~ko, centipede.Orthogroups.ko))
+names(centipede.Orthogroups.ko)[2]="centipede"
+
+pathview.input<-merge(pathview.input,centipede.Orthogroups.ko,
+                      by = "ko", all = T)
+pathview.input<-pathview.input[is.na(pathview.input$ko)==F,]
+pathview.input<-pathview.input[is.na(pathview.input$millipede)==F | is.na(pathview.input$centipede) ==F,]
+pathways<-merge(pathview.input, KEGG2koID, by = "ko", all.x = TRUE)
+pathways<-as.data.frame(unique(pathways$KEGG))
+names(pathways)[1]="KEGG"
+pathways<-merge(pathways, kegg2name, by = "KEGG", all.x = TRUE)
+names(pathways)[1]="pathways"
+pathways<-pathways[is.na(pathways$KEGGname)==F,]
+write.table(pathways, "centi2milli/pathways.txt", row.names = F, quote = F, sep = "\t")
+
+row.names(pathview.input)<-pathview.input$ko
+pathview.input<-pathview.input[,c("millipede","myriapod","centipede")]
+pathview.input[is.na(pathview.input)==T]<-0
+write.table(pathview.input, "ko.count.matrix.txt",
+            sep = "\t", quote = F, row.names = T)
+
+
+setwd("centi2milli/")
+
+for (i in 1:nrow(pathways)) {
+  pathwayid<-pathways$pathways[i]
+  #pathwayid<-"ko04130"
+  pv.data<-pathview(gene.data = pathview.input,
+                    pathway.id = pathwayid, 
+                    species = "ko", 
+                    gene.idtype = "KEGG", 
+                    limit = list(gene = 1), 
+                    bins = list(gene=10), 
+                    multi.state = TRUE, 
+                    both.dirs = list(gene = F, cpd = T),
+                    na.col="transparent", 
+                    out.suffix = "milli-centi")
+  pv.data<-pv.data$plot.data.gene
+}
