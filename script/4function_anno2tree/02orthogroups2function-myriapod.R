@@ -5,12 +5,14 @@
 ##species.KOG.1v1.txt
 ##species.KEGG.1v1.txt
 ##species.GO.1v1.txt
+##species.ko.1v1.txt
 
 #Output the following
 ##myriapod.Genesorthogrouppair.1v1.txt
 ##myriapod.Orthogroups.KOG.txt
 ##myriapod.Orthogroups.KEGG.txt
 ##myriapod.Orthogroups.GO.txt 
+##myriapod.Orthogroups.ko.txt
 
 #!/usr/bin/env Rscript
 suppressPackageStartupMessages(library(tidyr))
@@ -88,6 +90,10 @@ orthogroups<-orthogroups[,names(orthogroups) %in% specieslist]
   ##all.Orthogroups.GO
   all.Orthogroups.GO<-all.Orthogroups.KEGG
   names(all.Orthogroups.GO)[2]="GO"
+  
+  ##all.Orthogroups.ko
+  all.Orthogroups.ko<-all.Orthogroups.ko
+  names(all.Orthogroups.GO)[2]="ko"
 }
 
 ##Generate orthogroup-gene-function pair tables
@@ -170,6 +176,18 @@ for (j in 2:ncol(orthogroups)) {
     rm(GenesGOpair.1v1, Orthogroups.GO)
   }
   
+  #ko
+  {
+    Geneskopair.1v1<-read.delim(file = paste(speciesname, ".fa.ko.1v1.txt", sep = ""),
+                                header = TRUE, sep = "\t")
+    Orthogroups.ko<-merge(Genesorthogrouppair.1v1, Geneskopair.1v1, 
+                          by = "Genes", all.x = TRUE)
+    Orthogroups.ko<-subset(Orthogroups.ko, is.na(ko)==FALSE, select = c("Orthogroup","ko"))
+    Orthogroups.ko<-unique(Orthogroups.ko[order(Orthogroups.ko$Orthogroup),])
+    all.Orthogroups.ko<-rbind(all.Orthogroups.ko, Orthogroups.ko)
+    all.Orthogroups.ko<-unique(all.Orthogroups.ko)
+    rm(Geneskopair.1v1, Orthogroups.ko)
+  }
 }
 
 ##Write to file
@@ -199,4 +217,11 @@ all.Orthogroups.GO<-subset(all.Orthogroups.GO,
 all.Orthogroups.GO<-unique(all.Orthogroups.GO)
 write.table(all.Orthogroups.GO, 
             file = paste0(ref,".Orthogroups.GO.txt"),
+            row.names = FALSE, sep = "\t", quote = FALSE)
+
+all.Orthogroups.ko<-subset(all.Orthogroups.ko,
+                           is.na(ko)==FALSE)
+all.Orthogroups.ko<-unique(all.Orthogroups.ko)
+write.table(all.Orthogroups.ko, 
+            file = paste0(ref,".Orthogroups.ko.txt"),
             row.names = FALSE, sep = "\t", quote = FALSE)
