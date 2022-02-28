@@ -92,7 +92,7 @@ orthogroups<-orthogroups[,names(orthogroups) %in% specieslist]
   names(all.Orthogroups.GO)[2]="GO"
   
   ##all.Orthogroups.ko
-  all.Orthogroups.ko<-all.Orthogroups.ko
+  all.Orthogroups.ko<-all.Orthogroups.KEGG
   names(all.Orthogroups.GO)[2]="ko"
 }
 
