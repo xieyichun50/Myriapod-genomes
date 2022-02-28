@@ -101,6 +101,7 @@ names(pathways)[1]="Genes"
   Geneskopair.1v1<-subset(Geneskopair.1v1, 
                             is.na(Geneskopair.1v1$Genes)==FALSE, 
                             select = c("ko", "Genes"))
+  Geneskopair.1v1$ko<-gsub("ko:","",Geneskopair.1v1$ko)
   Geneskopair.1v1<-unique(Geneskopair.1v1)
   
   write.table(Geneskopair.1v1, 
