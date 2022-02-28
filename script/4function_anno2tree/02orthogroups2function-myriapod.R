@@ -131,9 +131,9 @@ for (j in 2:ncol(orthogroups)) {
     Genesorthogrouppair.1v1<-unique(Genesorthogrouppair.1v1)
     Genesorthogrouppair.1v1$Species<-speciesname
     rm(pairtable, pairtable.new, rcnames, subtable)
-    #write.table(Genesorthogrouppair.1v1, 
-    #            file = paste(speciesname, ".Genesorthogrouppair.1v1.txt", sep = ""),
-    #            row.names = FALSE, sep = "\t", quote = FALSE)
+    write.table(Genesorthogrouppair.1v1, 
+                file = paste(speciesname, ".Genesorthogrouppair.1v1.txt", sep = ""),
+                row.names = FALSE, sep = "\t", quote = FALSE)
     all.Genesorthogrouppair.1v1<-rbind(all.Genesorthogrouppair.1v1, Genesorthogrouppair.1v1)
   }
   
