@@ -1,5 +1,5 @@
 # Myriapod genomes
-Supplementary materials of So, Nong, and Xie et al. (2022).
+Supplementary materials of "^So, W.L., ^Nong, W., ^Xie, Y., ^Baril, T., Ma, H., Qu, Z., Haimovitz, J., Swale, T., Gaitan-Espitia, J.D., Lau, K.F., Tobe, S.S., Bendena, W.G., Kai, Z., Hayward, A., Hui, J.H.L., 2022. Myriapod genomes reveal ancestral horizontal gene transfer and hormonal gene loss in millipedes. Nat. Commun. 13, 1–12. " [https://doi.org/10.1038/s41467-022-30690-0](https://doi.org/10.1038/s41467-022-30690-0)
 
 ## data
 - `Genome/` - Genome assembly and annotation of nine myriapods
